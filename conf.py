@@ -115,8 +115,12 @@ latex_elements = {
 
 latex_show_urls = 'footnote'
 
-
-
+rst_epilog = """
+.. |sub123| replace:: mine123
+"""
+rst_prolog = """
+.. |sub234| replace:: mine234
+"""
 
 # -- Options for HTML output -------------------------------------------------
 
