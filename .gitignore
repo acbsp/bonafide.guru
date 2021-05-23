@@ -1,3 +1,8 @@
+## Sphinx working files:
+_build/
+_static/
+_templates/
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
