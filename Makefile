@@ -21,6 +21,9 @@ help:
 
 # pdf target
 pdf: Makefile
+	@echo "Starting my Preprocessor:"
+	@bash ./Preprocessor.sh
+	@echo "Done Preprocessor."
 	@$(SPHINXBUILD) -M latexpdf "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 # Catch-all target: route all unknown targets to Sphinx using the new

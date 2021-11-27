@@ -1,4 +1,7 @@
 
+
+.. NOTTE
+   Keep `PreprocessorPatterns.sed` file updated with below patterns:
 .. |МООСК| replace:: «Международное Общество для Осознания Кришны»
 .. |МООСКа| replace:: «Международного Общества для Осознания Кришны»
 .. |ISKCON| replace:: ISKCON
