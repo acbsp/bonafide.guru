@@ -123,7 +123,6 @@
 
 ----
 
-
 **От автора**
 
 В этот век Кали-юги, век вражды, лжи и лицемерия демонизм постепенно
@@ -8085,4 +8084,5 @@ adiyen madhura kavi lakshmi Tatacharya Ramanuja dasan. Шри Рамануджа
 .. |image0| image:: images/logo.png
    :width: 6.77778in
    :height: 10.29583in
+
 

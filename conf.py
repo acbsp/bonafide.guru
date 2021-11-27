@@ -31,8 +31,7 @@ release = '2021.04.29'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-]
+extensions =  []
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -55,13 +54,12 @@ numfig = True
 # Date format if `today` not set
 today_fmt = "%Y-%m-%d"
 
-latex_maketitle = r'''
-\input{style.tex.txt}
-
-'''
+#latex_maketitle = r'''
+#\input{style.tex.txt}
+#'''
 # \\input{{style.tex.txt}}
+#%\input{style.tex.txt}
 preamble = r'''
-\input{style.tex.txt}
 
 % Nimbus Samns L - helvetica clone
 %\setmainfont{Nimbus Sans L}
@@ -74,6 +72,7 @@ preamble = r'''
 %\setcounter{secnumdepth}{4}
 ...
 '''
+
 #'fontenc': '\usepackage[T1,T2A]{fontenc}',
 #'babel': '\\usepackage[russian]{babel}',
 #'cmappkg': '\\usepackage{cmap}',
@@ -100,6 +99,7 @@ latex_elements = {
     #'cmap': '\\usepackage{cmap}',
     #'fontenc': '\\usepackage[X2,T1]{fontenc}',
 #   'maketitle': latex_maketitle,
+
     'preamble': r'''
 \usepackage[titles]{tocloft}
 \cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
@@ -107,11 +107,11 @@ latex_elements = {
 \setlength{\cftsecindent}{\cftchapnumwidth}
 \setlength{\cftsecnumwidth}{1.25cm}
 ''',
+
     'fncychap': r'\usepackage[Bjornstrup]{fncychap}',
     'printindex': r'\footnotesize\raggedright\printindex',
 }
 #    'fontenc': '\\usepackage[X2,T1]{fontenc}',
-
 
 latex_show_urls = 'footnote'
 
