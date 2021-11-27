@@ -22,7 +22,7 @@ help:
 # pdf target
 pdf: Makefile
 	@echo "Starting my Preprocessor:"
-	@bash ./Preprocessor.sh
+#	@bash ./Preprocessor.sh
 	@echo "Done Preprocessor."
 	@$(SPHINXBUILD) -M latexpdf "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
