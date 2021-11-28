@@ -81,6 +81,8 @@ preamble = r'''
 #        'sphinxsetup': 'hmargin={2in,1.5in}, vmargin={1.5in,2in}, marginpar=1in',
 latex_elements = {
 
+#    'passoptionstopackages': r'\usepackage{fancybox}',
+
 # The dimensions of the horizontal and vertical margins passed to the geometry package:
 'sphinxsetup': 'hmargin={0.8in,0.4in}, vmargin={0.7in,0.7in}, marginpar=1in',
 
@@ -100,6 +102,7 @@ latex_elements = {
     #'fontenc': '\\usepackage[X2,T1]{fontenc}',
 #   'maketitle': latex_maketitle,
 
+#\passoptionstopackages{options}{fancybox}
     'preamble': r'''
 \usepackage[titles]{tocloft}
 \cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
