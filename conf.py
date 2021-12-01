@@ -55,7 +55,7 @@ numfig = True
 today_fmt = "%Y-%m-%d"
 
 #latex_maketitle = r'''
-#\input{style.tex.txt}
+#\input{title.tex.txt}
 #'''
 # \\input{{style.tex.txt}}
 #%\input{style.tex.txt}
@@ -109,6 +109,8 @@ latex_elements = {
 \setlength{\cftchapnumwidth}{0.75cm}
 \setlength{\cftsecindent}{\cftchapnumwidth}
 \setlength{\cftsecnumwidth}{1.25cm}
+
+\input{style.tex.txt}
 ''',
 
     'fncychap': r'\usepackage[Bjornstrup]{fncychap}',
