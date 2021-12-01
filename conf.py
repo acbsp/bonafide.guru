@@ -111,6 +111,10 @@ latex_elements = {
 \setlength{\cftsecnumwidth}{1.25cm}
 
 \input{style.tex.txt}
+
+%\renewcommand{\familydefault}{\ttdefault}
+%\usepackage{helvet}
+%\renewcommand{\familydefault}{\sfdefault}
 ''',
 
     'fncychap': r'\usepackage[Bjornstrup]{fncychap}',

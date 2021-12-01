@@ -20,17 +20,21 @@
     подлинных документах, подписанных лично  Шрилой Прабхупадой.
     }
 
-    \vfill
+
+\textcolor{red}{\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}}
 
     \begingroup
     \centering
-    {\large
+    \large
     Он вечно живёт \par
     в Своих божественных \par
     наставлениях и Его ученик \par
     живёт вместе с Ним. \par
-    }
     \endgroup
+
+\textcolor{red}{\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}}
+
+\par\vspace{0.5cm}
 
     \vfill\vfill
 
