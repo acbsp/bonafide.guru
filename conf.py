@@ -112,12 +112,42 @@ latex_elements = {
 
 \input{style.tex.txt}
 
+%\setlength{\parindent}{2em}
+%\setlength{\parskip}{1em}
+%\renewcommand{\baselinestretch}{1.5}
+
+%\pagestyle{empty}
+\pagestyle{plain}
+%\thispagestyle{plain}
+
+
+%\pagestyle{fancy}  
+%\fancyhf{}  
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\makeatletter
+  \fancypagestyle{normal}{
+    \fancyhf{}
+%    \fancyfoot[LE,RO]{}
+%    \fancyfoot[LO]{}
+%    \fancyfoot[RE]{}
+%    \fancyfoot[C]{\thepage} % except the center  
+    \fancyhead[LE,RO]{\thepage}
+    \renewcommand{\headrulewidth}{0pt}
+    \renewcommand{\footrulewidth}{0pt}
+  }
+\makeatother
+
 %\renewcommand{\familydefault}{\ttdefault}
 %\usepackage{helvet}
 %\renewcommand{\familydefault}{\sfdefault}
 ''',
 
-    'fncychap': r'\usepackage[Bjornstrup]{fncychap}',
+
+'fncychap': r'\usepackage[Rejne]{fncychap}',
+#'fncychap': r'\usepackage[Bjornstrup]{fncychap}', Sonny, Lenny”, “Glenn”, “Conny”, “Rejne”
     'printindex': r'\footnotesize\raggedright\printindex',
 }
 #    'fontenc': '\\usepackage[X2,T1]{fontenc}',

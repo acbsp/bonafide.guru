@@ -1,14 +1,21 @@
 \renewcommand{\sphinxmaketitle}{%
   \begin{titlepage}%
 
+    % https://sharelatex.psi.ch/learn/Font_sizes,_families,_and_styles
+    \itshape
+
     \begingroup
     \centering
-    Ягья Сена прабху - Прабхупада дас \par
-    \vfill\vfill
-    {\Huge Истинный гуру \par}
+    {\normalsize Ягья Сена прабху -- Прабхупада дас} \par
+    \vfill
+    \vfill
+    \vfill
+    \textbf{{\Huge Истинный гуру}} \par
     \endgroup
 
-    \vfill\vfill
+    \vfill
+    \vfill
+    \bfseries 
 
     {\large
     Со всем смирением, на какое только способен, я припадаю
@@ -21,7 +28,10 @@
     }
 
 
-\textcolor{red}{\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}}
+    \vfill
+
+    %\par\vspace{0.1cm}
+    %\textcolor{red}{\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}}
 
     \begingroup
     \centering
@@ -32,11 +42,9 @@
     живёт вместе с Ним. \par
     \endgroup
 
-\textcolor{red}{\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}}
-
-\par\vspace{0.5cm}
-
-    \vfill\vfill
+    \vfill
+    \vfill
+    \vfill
 
   \end{titlepage}%
   \setcounter{footnote}{0}%
