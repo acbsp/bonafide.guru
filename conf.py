@@ -143,6 +143,24 @@ latex_elements = {
 %\renewcommand{\familydefault}{\ttdefault}
 %\usepackage{helvet}
 %\renewcommand{\familydefault}{\sfdefault}
+
+
+%% red vertical lines
+%\arrayrulecolor{red}
+% table hline formatting
+%\let\myhline\hline
+%\renewcommand{\hline}{\arrayrulecolor{blue}\myhline}
+
+\usepackage{filecontents}
+
+\begin{filecontents*}{data.txt}
+Number of points, Values
+10, 100
+20, 400
+30, 1200
+40, 2345
+\end{filecontents*}
+
 ''',
 
 
