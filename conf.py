@@ -172,7 +172,16 @@ Number of points, Values
 
 latex_show_urls = 'footnote'
 
-rst_epilog = """
+rst_epilog = r"""
+.. |noFrameStart| raw:: latex
+
+   \begingroup
+   \setlength{\arrayrulewidth}{0pt}
+
+.. |noFrameEnd| raw:: latex
+
+   \endgroup
+
 .. |sub123| replace:: mine123
 """
 rst_prolog = """
