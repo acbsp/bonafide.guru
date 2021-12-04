@@ -107,6 +107,9 @@ latex_elements = {
 #\passoptionstopackages{options}{fancybox}
     'preamble': r'''
 
+\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+\let\endchangemargin=\endlist 
+
 % Charter is used as serif font, Lato as sans-serif font, and Inconsolata as monospace font. 
 %\usepackage{charter}
 %\usepackage[defaultsans]{lato}
