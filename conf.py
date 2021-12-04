@@ -93,17 +93,34 @@ latex_elements = {
     # Custom preamble to tune title page
 #    "preamble": preamble,
     # The font size ('10pt', '11pt' or '12pt').
-    #"pointsize": "10pt",
+    "pointsize": "11pt",
     # Disable Index page
     #"printindex": "",
     #'babel': '\\usepackage{babel}',
     #'inputenc': '\\usepackage[utf8]{inputenc}',
     #'cmap': '\\usepackage{cmap}',
+    #'fontenc': '\\usepackage[T1]{fontenc}',
     #'fontenc': '\\usepackage[X2,T1]{fontenc}',
+    #'fontenc': '\\usepackage[T1,T2A]{fontenc}',
 #   'maketitle': latex_maketitle,
 
 #\passoptionstopackages{options}{fancybox}
     'preamble': r'''
+
+% Charter is used as serif font, Lato as sans-serif font, and Inconsolata as monospace font. 
+%\usepackage{charter}
+%\usepackage[defaultsans]{lato}
+%\usepackage{inconsolata}
+
+% http://kb.mit.edu/confluence/pages/viewpage.action?pageId=3907057
+%\addtolength{\oddsidemargin}{-.875in}
+%\addtolength{\evensidemargin}{-.875in}
+%\addtolength{\textwidth}{1.75in}
+%\addtolength{\topmargin}{-.875in}
+%\addtolength{\textheight}{1.75in}
+\addtolength{\topmargin}{-.2in}
+\addtolength{\textheight}{0.4in}
+
 \usepackage[titles]{tocloft}
 \cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
 \setlength{\cftchapnumwidth}{0.75cm}
@@ -135,10 +152,14 @@ latex_elements = {
 %    \fancyfoot[RE]{}
 %    \fancyfoot[C]{\thepage} % except the center  
     \fancyhead[LE,RO]{\thepage}
-    \renewcommand{\headrulewidth}{0pt}
+    \renewcommand{\headrulewidth}{0.1pt}
     \renewcommand{\footrulewidth}{0pt}
   }
 \makeatother
+
+%\setlength{\headheight}{10pt}
+%\setlength{\headsep}{10pt}
+%\setlength{\footskip}{0pt}
 
 %\renewcommand{\familydefault}{\ttdefault}
 %\usepackage{helvet}
@@ -167,6 +188,7 @@ Number of points, Values
 'fncychap': r'\usepackage[Rejne]{fncychap}',
 #'fncychap': r'\usepackage[Bjornstrup]{fncychap}', Sonny, Lenny”, “Glenn”, “Conny”, “Rejne”
     'printindex': r'\footnotesize\raggedright\printindex',
+
 }
 #    'fontenc': '\\usepackage[X2,T1]{fontenc}',
 
