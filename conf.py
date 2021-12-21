@@ -32,6 +32,7 @@ release = '2021.04.29'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions =  []
+#extensions = ['bolditalic']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -53,6 +54,11 @@ numfig = True
 
 # Date format if `today` not set
 today_fmt = "%Y-%m-%d"
+
+# PDF build from the LaTeX files created by Sphinx will use xindy (doc) rather than makeindex for preparing the index of general terms (from index usage). 
+latex_use_xindy = True
+
+text_add_secnumbers = False
 
 #latex_maketitle = r'''
 #\input{title.tex.txt}
@@ -97,11 +103,15 @@ latex_elements = {
     # Disable Index page
     #"printindex": "",
     #'babel': '\\usepackage{babel}',
+    #'babel': '\\usepackage[english,russian]{babel}',
+    'babel': '\\usepackage[main=russian,english]{babel}',
+    #'babel': '\\usepackage[combine]{ucs}',
     #'inputenc': '\\usepackage[utf8]{inputenc}',
+    'inputenc': '\\usepackage[utf8x]{inputenc}',
     #'cmap': '\\usepackage{cmap}',
     #'fontenc': '\\usepackage[T1]{fontenc}',
     #'fontenc': '\\usepackage[X2,T1]{fontenc}',
-    #'fontenc': '\\usepackage[T1,T2A]{fontenc}',
+    'fontenc': '\\usepackage[T1,T2A]{fontenc}',
 #   'maketitle': latex_maketitle,
 
 #\passoptionstopackages{options}{fancybox}
@@ -114,6 +124,7 @@ latex_elements = {
 %\usepackage{charter}
 %\usepackage[defaultsans]{lato}
 %\usepackage{inconsolata}
+%\usepackage{helvet}
 
 % http://kb.mit.edu/confluence/pages/viewpage.action?pageId=3907057
 %\addtolength{\oddsidemargin}{-.875in}
@@ -175,15 +186,47 @@ latex_elements = {
 %\let\myhline\hline
 %\renewcommand{\hline}{\arrayrulecolor{blue}\myhline}
 
-\usepackage{filecontents}
+%\usepackage{filecontents}
+%\begin{filecontents*}{data.txt}
+%Number of points, Values
+%10, 100
+%20, 400
+%30, 1200
+%40, 2345
+%\end{filecontents*}
 
-\begin{filecontents*}{data.txt}
-Number of points, Values
-10, 100
-20, 400
-30, 1200
-40, 2345
-\end{filecontents*}
+%\\providecommand*{\\DUrolestrikethrough}[1]{\\sout{#1}}
+
+%\DeclareUnicodeCharacter{<unicode-in-hexa>}{<latex-code>}
+%\DeclareUnicodeCharacter{0xE1B99B}{ṛ}
+%\DeclareUnicodeCharacter{0xC481}{ā}
+%\DeclareUnicodeCharacter{}{}
+%\DeclareUnicodeCharacter{}{}
+%\DeclareUnicodeCharacter{0xE1B9A3}{ṣ}
+%\DeclareUnicodeCharacter{0xE1B987}{ṇ}
+
+%\DeclareUnicodeCharacter{U+0323}{.}
+%\DeclareUnicodeCharacter{U+0304}{-}
+
+
+%\DeclareUnicodeCharacter{U+0304}{\={ }}
+%\DeclareUnicodeCharacter{а̄}{\={а}}
+
+%\usepackage[verbose]{newunicodechar}
+%\newunicodechar{ā}{\={a}}
+%\newunicodechar{ṛ}{\d{r}}
+%\newunicodechar{ṣ}{\d{s}}
+%\newunicodechar{ṇ}{\d{n}}
+
+%\newunicodechar{а}{\={а}} error on start
+%\newunicodechar{а̄}{\={а}}
+%\newunicodechar{а̄}{\={а}}
+%\newunicodechar{р̣}{\d{р}}
+%\newunicodechar{н̣}{\d{н}}
+
+%\newunicodechar{§}{\ifhmode\unskip\,\fi\S K}
+% I replaced all "0x2015" on "--"
+% I not replaced all "0x2014" on "--"
 
 ''',
 
