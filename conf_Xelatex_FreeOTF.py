@@ -123,25 +123,8 @@ latex_elements = {
 
 'preamble': r'''
 
-
 %\usepackage{xltxtra}
 %\usepackage{xunicode}
-
-%\setmainlanguage[babelshorthands=true]{russian}
-%\setotherlanguage{english}
-
-%\defaultfontfeatures{Ligatures=TeX,Renderer=Basic}
-%\setmainfont{Times New Roman}
-%\newfontfamily\cyrillicfonttt{Times New Roman}
-%\newfontfamily\cyrillicfont{Times New Roman}
-
-%\usepackage{comment}
-%\usepackage{float}
-
-% Рекомендовано для Linux (нужен scalable-cyrfonts-tex, подробности см. в fonts_linux.tex)
-% раскомментировать, чтобы использовать:
-%\input{fonts_linux} % не забудьте закомментировать \input{fonts_windows}
-
 
 \usepackage{polyglossia}
 \setdefaultlanguage{russian}
@@ -150,195 +133,26 @@ latex_elements = {
 %\newfontfamily\devanagarifont[Script=Devanagari]{Lohit Devanagari}
 %\setkeys{russian}{babelshorthands=true}
 
-%\usepackage{cyrbookman}
-%% Зачем: Выбор внутренней TeX кодировки.
-%\usepackage[T2A]{fontenc}
-%\usefont{T2A}{ftm}{m}{sl}
+\setmainfont{FreeSerif}
+\setromanfont{FreeSerif}
+\setsansfont{FreeSans}
+\setmonofont{FreeMono}
+\newfontfamily{\cyrillicfont}{FreeSerif}
+\newfontfamily{\cyrillicfontrm}{FreeSerif}
+\newfontfamily{\cyrillicfonttt}{FreeMono}
+\newfontfamily{\cyrillicfontsf}{FreeSans}
 
-%\setmainfont{Garamond Premier Pro}
-%\setmainfont{EB Garamond}
-%\setmainfont{Arno Pro}
-%\setmainfont{XITS}
-%\setmainfont{Cambria}
-%\setmainfont{Minion Pro}
-
-%\setmainfont{CM Unicode}
-%\setmainfont{Comic Sans}
-%\setmainfont{PT Serif}
-
-%\setmainfont{Roboto}
-%\setromanfont{Roboto}
-%\setsansfont{Roboto}
-%\setmonofont{Roboto}
-%\newfontfamily{\cyrillicfont}{Roboto}
-%%\newfontfamily\cyrillicfont[Ligatures=TeX]{PT Serif}
-%\newfontfamily{\cyrillicfontrm}{Roboto}
-%\newfontfamily{\cyrillicfonttt}{Roboto}
-%\newfontfamily{\cyrillicfontsf}{Roboto}
-
-
-\usepackage{fontspec}
-\setmainfont{Roboto}[
-  Path = /usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/,
-  Extension = .ttf,
-  UprightFont = *-Regular,
-  %-- Upright --%
-  FontFace={ul}{n}{Font=*-Thin},
-  FontFace={l}{n}{Font=*-Light},
-  FontFace={m}{n}{Font=*-Regular},
-  FontFace={mb}{n}{Font=*-Medium},
-  FontFace={b}{n}{Font=*-Bold},
-  FontFace={eb}{n}{Font=*-Black},
-  % %-- Italic --%
-  FontFace={ul}{it}{Font=*-ThinItalic},
-  FontFace={l}{it}{Font=*-LightItalic},
-  FontFace={m}{it}{Font=*-Italic},
-  FontFace={mb}{it}{Font=*-MediumItalic},
-  FontFace={b}{it}{Font=*-BoldItalic},
-  FontFace={eb}{it}{Font=*-BlackItalic},
-]
-
-\setromanfont{Roboto}[
-  Path = /usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/,
-  Extension = .ttf,
-  UprightFont = *-Regular,
-  %-- Upright --%
-  FontFace={ul}{n}{Font=*-Thin},
-  FontFace={l}{n}{Font=*-Light},
-  FontFace={m}{n}{Font=*-Regular},
-  FontFace={mb}{n}{Font=*-Medium},
-  FontFace={b}{n}{Font=*-Bold},
-  FontFace={eb}{n}{Font=*-Black},
-  % %-- Italic --%
-  FontFace={ul}{it}{Font=*-ThinItalic},
-  FontFace={l}{it}{Font=*-LightItalic},
-  FontFace={m}{it}{Font=*-Italic},
-  FontFace={mb}{it}{Font=*-MediumItalic},
-  FontFace={b}{it}{Font=*-BoldItalic},
-  FontFace={eb}{it}{Font=*-BlackItalic},
-]
-
-
-\setsansfont{Roboto}[
-  Path = /usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/,
-  Extension = .ttf,
-  UprightFont = *-Regular,
-  %-- Upright --%
-  FontFace={ul}{n}{Font=*-Thin},
-  FontFace={l}{n}{Font=*-Light},
-  FontFace={m}{n}{Font=*-Regular},
-  FontFace={mb}{n}{Font=*-Medium},
-  FontFace={b}{n}{Font=*-Bold},
-  FontFace={eb}{n}{Font=*-Black},
-  % %-- Italic --%
-  FontFace={ul}{it}{Font=*-ThinItalic},
-  FontFace={l}{it}{Font=*-LightItalic},
-  FontFace={m}{it}{Font=*-Italic},
-  FontFace={mb}{it}{Font=*-MediumItalic},
-  FontFace={b}{it}{Font=*-BoldItalic},
-  FontFace={eb}{it}{Font=*-BlackItalic},
-]
-
-
-\setmonofont{Roboto}[
-  Path = /usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/,
-  Extension = .ttf,
-  UprightFont = *-Regular,
-  %-- Upright --%
-  FontFace={ul}{n}{Font=*-Thin},
-  FontFace={l}{n}{Font=*-Light},
-  FontFace={m}{n}{Font=*-Regular},
-  FontFace={mb}{n}{Font=*-Medium},
-  FontFace={b}{n}{Font=*-Bold},
-  FontFace={eb}{n}{Font=*-Black},
-  % %-- Italic --%
-  FontFace={ul}{it}{Font=*-ThinItalic},
-  FontFace={l}{it}{Font=*-LightItalic},
-  FontFace={m}{it}{Font=*-Italic},
-  FontFace={mb}{it}{Font=*-MediumItalic},
-  FontFace={b}{it}{Font=*-BoldItalic},
-  FontFace={eb}{it}{Font=*-BlackItalic},
-]
-
-\DeclareRobustCommand{\ulseries}{\fontseries{ul}\selectfont}
-\DeclareRobustCommand{\lseries}{\fontseries{l}\selectfont}
-\DeclareRobustCommand{\mseries}{\fontseries{m}\selectfont}
-\DeclareRobustCommand{\mbseries}{\fontseries{mb}\selectfont}
-\DeclareRobustCommand{\bseries}{\fontseries{b}\selectfont}
-\DeclareRobustCommand{\ebseries}{\fontseries{eb}\selectfont}
-\DeclareTextFontCommand{\textul}{\ulseries}
-\DeclareTextFontCommand{\textl}{\lseries}
-\DeclareTextFontCommand{\textm}{\mseries}
-\DeclareTextFontCommand{\textmb}{\mbseries}
-\DeclareTextFontCommand{\textb}{\bseries}
-\DeclareTextFontCommand{\texteb}{\ebseries}
-
-
-\newfontfamily{\cyrillicfont}{Roboto}
-\newfontfamily{\cyrillicfontrm}{Roboto}
-\newfontfamily{\cyrillicfonttt}{Roboto}
-\newfontfamily{\cyrillicfontsf}{Roboto}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\setmainfont{PT Serif}
-%\setromanfont{PT Serif}
-%\setsansfont{PT Serif}
-%\setmonofont{PT Serif}
-%%\newfontfamily{\cyrillicfont}{PT Serif}
-%\newfontfamily\cyrillicfont[Ligatures=TeX]{PT Serif}
-%\newfontfamily{\cyrillicfontrm}{PT Serif}
-%\newfontfamily{\cyrillicfonttt}{PT Serif}
-%\newfontfamily{\cyrillicfontsf}{PT Serif}
-
-%\newfontfamily\cyrillicfont[Script=Cyrillic]{Charis SIL}
-%\newfontfamily\englishfont{FreeSerif Italic}
-%\newfontfamily\englishfont{Free Chancery}
-
-%\setmainfont{Liberation Serif}
-%\setsansfont{Liberation Sans}
-%\setmonofont{Liberation Mono}
-%\newfontfamily\cyrillicfont{Liberation Sans}
-%\newfontfamily{\cyrillicfontsf}{Liberation Sans}
-%\newfontfamily{\cyrillicfonttt}{Liberation Sans}
+\defaultfontfeatures{Ligatures=TeX,Renderer=Basic}
 \defaultfontfeatures{Scale=MatchLowercase, Mapping=tex-text}
 
 \addtolength{\topmargin}{-.2in}
 \addtolength{\textheight}{0.4in}
 
-\usepackage[titles]{tocloft}
-\cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
-\setlength{\cftchapnumwidth}{0.75cm}
-\setlength{\cftsecindent}{\cftchapnumwidth}
-\setlength{\cftsecnumwidth}{1.25cm}
+%\usepackage[titles]{tocloft}
+%\cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
+%\setlength{\cftchapnumwidth}{0.75cm}
+%\setlength{\cftsecindent}{\cftchapnumwidth}
+%\setlength{\cftsecnumwidth}{1.25cm}
 
 \input{style.tex.txt}
 
@@ -358,18 +172,17 @@ latex_elements = {
   }
 \makeatother
 
-% Зачем: Делает результирующий PDF "searchable and copyable".
-\usepackage{cmap}
-
-
 % Зачем: Отключает использование изменяемых межсловных пробелов.
 % Почему: Так не принято делать в текстах на русском языке.
 \frenchspacing
 
+\usepackage{comment}
+\usepackage{float}
 
 % It is my code:
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
 \let\endchangemargin=\endlist
+
 
 ''',
 
