@@ -367,6 +367,10 @@ latex_elements = {
 \frenchspacing
 
 
+% It is my code:
+\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+\let\endchangemargin=\endlist
+
 ''',
 
     'fncychap': r'\usepackage[Bjornstrup]{fncychap}',

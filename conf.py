@@ -62,37 +62,12 @@ text_add_secnumbers = False
 #latex_maketitle = r'''
 #\input{style.tex.txt}
 #'''
-# \\input{{style.tex.txt}}
-#%\input{style.tex.txt}
-preamble = r'''
-
-% Nimbus Samns L - helvetica clone
-%\setmainfont{Nimbus Sans L}
-
-% Header and footer
-%\pagestyle{fancy}
-
-% Table of Contents
-% ToC: depth
-%\setcounter{secnumdepth}{4}
-...
-'''
 
 latex_engine = 'xelatex'
 
-
-#'fontenc': '\usepackage[T1,T2A]{fontenc}',
-#'babel': '\\usepackage[russian]{babel}',
-#'cmappkg': '\\usepackage{cmap}',
-#'utf8extra':'\\DeclareUnicodeCharacter{00A0}{\\nobreakspace}',
-#        \PassOptionsToPackage{hmargin=1in,vmargin=1in,marginpar=0.5in}{geometry}
-#        'sphinxsetup': 'hmargin={2in,1.5in}, vmargin={1.5in,2in}, marginpar=1in',
 latex_elements = {
-
-#    'passoptionstopackages': r'\usepackage{fancybox}',
-
-# The dimensions of the horizontal and vertical margins passed to the geometry package:
-'sphinxsetup': 'hmargin={0.8in,0.4in}, vmargin={0.7in,0.7in}, marginpar=1in',
+    # The dimensions of the horizontal and vertical margins passed to the geometry package:
+    'sphinxsetup': 'hmargin={0.8in,0.4in}, vmargin={0.7in,0.7in}, marginpar=1in',
 
     # A5 paper size
     "papersize": "a5paper",
@@ -110,38 +85,13 @@ latex_elements = {
     #'fontenc': '\\usepackage[X2,T1]{fontenc}',
 #   'maketitle': latex_maketitle,
 
-#\passoptionstopackages{options}{fancybox}
-#    'preamble': r'''
-#\usepackage[titles]{tocloft}
-#\cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
-#\setlength{\cftchapnumwidth}{0.75cm}
-#\setlength{\cftsecindent}{\cftchapnumwidth}
-#\setlength{\cftsecnumwidth}{1.25cm}
-#''',
-
-#'preamble': '\\usepackage[UTF8]{ctex}\n',
-
 'preamble': r'''
 
+\usepackage{xltxtra}
+\usepackage{xunicode}
 
-%\usepackage{xltxtra}
-%\usepackage{xunicode}
-
-%\setmainlanguage[babelshorthands=true]{russian}
-%\setotherlanguage{english}
-
-%\defaultfontfeatures{Ligatures=TeX,Renderer=Basic}
-%\setmainfont{Times New Roman}
-%\newfontfamily\cyrillicfonttt{Times New Roman}
-%\newfontfamily\cyrillicfont{Times New Roman}
-
-%\usepackage{comment}
-%\usepackage{float}
-
-% Рекомендовано для Linux (нужен scalable-cyrfonts-tex, подробности см. в fonts_linux.tex)
-% раскомментировать, чтобы использовать:
-%\input{fonts_linux} % не забудьте закомментировать \input{fonts_windows}
-
+\setmainlanguage[babelshorthands=true]{russian}
+\setotherlanguage{english}
 
 \usepackage{polyglossia}
 \setdefaultlanguage{russian}
@@ -149,33 +99,6 @@ latex_elements = {
 %\setotherlanguages{english,hindi,sanskrit}
 %\newfontfamily\devanagarifont[Script=Devanagari]{Lohit Devanagari}
 %\setkeys{russian}{babelshorthands=true}
-
-%\usepackage{cyrbookman}
-%% Зачем: Выбор внутренней TeX кодировки.
-%\usepackage[T2A]{fontenc}
-%\usefont{T2A}{ftm}{m}{sl}
-
-%\setmainfont{Garamond Premier Pro}
-%\setmainfont{EB Garamond}
-%\setmainfont{Arno Pro}
-%\setmainfont{XITS}
-%\setmainfont{Cambria}
-%\setmainfont{Minion Pro}
-
-%\setmainfont{CM Unicode}
-%\setmainfont{Comic Sans}
-%\setmainfont{PT Serif}
-
-%\setmainfont{Roboto}
-%\setromanfont{Roboto}
-%\setsansfont{Roboto}
-%\setmonofont{Roboto}
-%\newfontfamily{\cyrillicfont}{Roboto}
-%%\newfontfamily\cyrillicfont[Ligatures=TeX]{PT Serif}
-%\newfontfamily{\cyrillicfontrm}{Roboto}
-%\newfontfamily{\cyrillicfonttt}{Roboto}
-%\newfontfamily{\cyrillicfontsf}{Roboto}
-
 
 \usepackage{fontspec}
 \setmainfont{Roboto}[
@@ -279,58 +202,6 @@ latex_elements = {
 \newfontfamily{\cyrillicfonttt}{Roboto}
 \newfontfamily{\cyrillicfontsf}{Roboto}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\setmainfont{PT Serif}
-%\setromanfont{PT Serif}
-%\setsansfont{PT Serif}
-%\setmonofont{PT Serif}
-%%\newfontfamily{\cyrillicfont}{PT Serif}
-%\newfontfamily\cyrillicfont[Ligatures=TeX]{PT Serif}
-%\newfontfamily{\cyrillicfontrm}{PT Serif}
-%\newfontfamily{\cyrillicfonttt}{PT Serif}
-%\newfontfamily{\cyrillicfontsf}{PT Serif}
-
-%\newfontfamily\cyrillicfont[Script=Cyrillic]{Charis SIL}
-%\newfontfamily\englishfont{FreeSerif Italic}
-%\newfontfamily\englishfont{Free Chancery}
-
-%\setmainfont{Liberation Serif}
-%\setsansfont{Liberation Sans}
-%\setmonofont{Liberation Mono}
-%\newfontfamily\cyrillicfont{Liberation Sans}
-%\newfontfamily{\cyrillicfontsf}{Liberation Sans}
-%\newfontfamily{\cyrillicfonttt}{Liberation Sans}
-\defaultfontfeatures{Scale=MatchLowercase, Mapping=tex-text}
-
 \addtolength{\topmargin}{-.2in}
 \addtolength{\textheight}{0.4in}
 
@@ -358,14 +229,12 @@ latex_elements = {
   }
 \makeatother
 
-% Зачем: Делает результирующий PDF "searchable and copyable".
-\usepackage{cmap}
-
-
 % Зачем: Отключает использование изменяемых межсловных пробелов.
 % Почему: Так не принято делать в текстах на русском языке.
 \frenchspacing
 
+\usepackage{comment}
+\usepackage{float}
 
 % It is my code:
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
