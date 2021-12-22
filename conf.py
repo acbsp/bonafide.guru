@@ -32,7 +32,6 @@ release = '2021.04.29'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions =  []
-#extensions = ['bolditalic']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -61,7 +60,7 @@ latex_use_xindy = True
 text_add_secnumbers = False
 
 #latex_maketitle = r'''
-#\input{title.tex.txt}
+#\input{style.tex.txt}
 #'''
 # \\input{{style.tex.txt}}
 #%\input{style.tex.txt}
@@ -78,6 +77,9 @@ preamble = r'''
 %\setcounter{secnumdepth}{4}
 ...
 '''
+
+latex_engine = 'xelatex'
+
 
 #'fontenc': '\usepackage[T1,T2A]{fontenc}',
 #'babel': '\\usepackage[russian]{babel}',
@@ -99,39 +101,236 @@ latex_elements = {
     # Custom preamble to tune title page
 #    "preamble": preamble,
     # The font size ('10pt', '11pt' or '12pt').
-    "pointsize": "11pt",
+    #"pointsize": "10pt",
     # Disable Index page
     #"printindex": "",
     #'babel': '\\usepackage{babel}',
-    #'babel': '\\usepackage[english,russian]{babel}',
-    'babel': '\\usepackage[main=russian,english]{babel}',
-    #'babel': '\\usepackage[combine]{ucs}',
     #'inputenc': '\\usepackage[utf8]{inputenc}',
-    'inputenc': '\\usepackage[utf8x]{inputenc}',
     #'cmap': '\\usepackage{cmap}',
-    #'fontenc': '\\usepackage[T1]{fontenc}',
     #'fontenc': '\\usepackage[X2,T1]{fontenc}',
-    'fontenc': '\\usepackage[T1,T2A]{fontenc}',
 #   'maketitle': latex_maketitle,
 
 #\passoptionstopackages{options}{fancybox}
-    'preamble': r'''
+#    'preamble': r'''
+#\usepackage[titles]{tocloft}
+#\cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
+#\setlength{\cftchapnumwidth}{0.75cm}
+#\setlength{\cftsecindent}{\cftchapnumwidth}
+#\setlength{\cftsecnumwidth}{1.25cm}
+#''',
 
-\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
-\let\endchangemargin=\endlist 
+#'preamble': '\\usepackage[UTF8]{ctex}\n',
 
-% Charter is used as serif font, Lato as sans-serif font, and Inconsolata as monospace font. 
-%\usepackage{charter}
-%\usepackage[defaultsans]{lato}
-%\usepackage{inconsolata}
-%\usepackage{helvet}
+'preamble': r'''
 
-% http://kb.mit.edu/confluence/pages/viewpage.action?pageId=3907057
-%\addtolength{\oddsidemargin}{-.875in}
-%\addtolength{\evensidemargin}{-.875in}
-%\addtolength{\textwidth}{1.75in}
-%\addtolength{\topmargin}{-.875in}
-%\addtolength{\textheight}{1.75in}
+
+%\usepackage{xltxtra}
+%\usepackage{xunicode}
+
+%\setmainlanguage[babelshorthands=true]{russian}
+%\setotherlanguage{english}
+
+%\defaultfontfeatures{Ligatures=TeX,Renderer=Basic}
+%\setmainfont{Times New Roman}
+%\newfontfamily\cyrillicfonttt{Times New Roman}
+%\newfontfamily\cyrillicfont{Times New Roman}
+
+%\usepackage{comment}
+%\usepackage{float}
+
+% Рекомендовано для Linux (нужен scalable-cyrfonts-tex, подробности см. в fonts_linux.tex)
+% раскомментировать, чтобы использовать:
+%\input{fonts_linux} % не забудьте закомментировать \input{fonts_windows}
+
+
+\usepackage{polyglossia}
+\setdefaultlanguage{russian}
+\setotherlanguages{english}
+%\setotherlanguages{english,hindi,sanskrit}
+%\newfontfamily\devanagarifont[Script=Devanagari]{Lohit Devanagari}
+%\setkeys{russian}{babelshorthands=true}
+
+%\usepackage{cyrbookman}
+%% Зачем: Выбор внутренней TeX кодировки.
+%\usepackage[T2A]{fontenc}
+%\usefont{T2A}{ftm}{m}{sl}
+
+%\setmainfont{Garamond Premier Pro}
+%\setmainfont{EB Garamond}
+%\setmainfont{Arno Pro}
+%\setmainfont{XITS}
+%\setmainfont{Cambria}
+%\setmainfont{Minion Pro}
+
+%\setmainfont{CM Unicode}
+%\setmainfont{Comic Sans}
+%\setmainfont{PT Serif}
+
+%\setmainfont{Roboto}
+%\setromanfont{Roboto}
+%\setsansfont{Roboto}
+%\setmonofont{Roboto}
+%\newfontfamily{\cyrillicfont}{Roboto}
+%%\newfontfamily\cyrillicfont[Ligatures=TeX]{PT Serif}
+%\newfontfamily{\cyrillicfontrm}{Roboto}
+%\newfontfamily{\cyrillicfonttt}{Roboto}
+%\newfontfamily{\cyrillicfontsf}{Roboto}
+
+
+\usepackage{fontspec}
+\setmainfont{Roboto}[
+  Path = /usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/,
+  Extension = .ttf,
+  UprightFont = *-Regular,
+  %-- Upright --%
+  FontFace={ul}{n}{Font=*-Thin},
+  FontFace={l}{n}{Font=*-Light},
+  FontFace={m}{n}{Font=*-Regular},
+  FontFace={mb}{n}{Font=*-Medium},
+  FontFace={b}{n}{Font=*-Bold},
+  FontFace={eb}{n}{Font=*-Black},
+  % %-- Italic --%
+  FontFace={ul}{it}{Font=*-ThinItalic},
+  FontFace={l}{it}{Font=*-LightItalic},
+  FontFace={m}{it}{Font=*-Italic},
+  FontFace={mb}{it}{Font=*-MediumItalic},
+  FontFace={b}{it}{Font=*-BoldItalic},
+  FontFace={eb}{it}{Font=*-BlackItalic},
+]
+
+\setromanfont{Roboto}[
+  Path = /usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/,
+  Extension = .ttf,
+  UprightFont = *-Regular,
+  %-- Upright --%
+  FontFace={ul}{n}{Font=*-Thin},
+  FontFace={l}{n}{Font=*-Light},
+  FontFace={m}{n}{Font=*-Regular},
+  FontFace={mb}{n}{Font=*-Medium},
+  FontFace={b}{n}{Font=*-Bold},
+  FontFace={eb}{n}{Font=*-Black},
+  % %-- Italic --%
+  FontFace={ul}{it}{Font=*-ThinItalic},
+  FontFace={l}{it}{Font=*-LightItalic},
+  FontFace={m}{it}{Font=*-Italic},
+  FontFace={mb}{it}{Font=*-MediumItalic},
+  FontFace={b}{it}{Font=*-BoldItalic},
+  FontFace={eb}{it}{Font=*-BlackItalic},
+]
+
+
+\setsansfont{Roboto}[
+  Path = /usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/,
+  Extension = .ttf,
+  UprightFont = *-Regular,
+  %-- Upright --%
+  FontFace={ul}{n}{Font=*-Thin},
+  FontFace={l}{n}{Font=*-Light},
+  FontFace={m}{n}{Font=*-Regular},
+  FontFace={mb}{n}{Font=*-Medium},
+  FontFace={b}{n}{Font=*-Bold},
+  FontFace={eb}{n}{Font=*-Black},
+  % %-- Italic --%
+  FontFace={ul}{it}{Font=*-ThinItalic},
+  FontFace={l}{it}{Font=*-LightItalic},
+  FontFace={m}{it}{Font=*-Italic},
+  FontFace={mb}{it}{Font=*-MediumItalic},
+  FontFace={b}{it}{Font=*-BoldItalic},
+  FontFace={eb}{it}{Font=*-BlackItalic},
+]
+
+
+\setmonofont{Roboto}[
+  Path = /usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/,
+  Extension = .ttf,
+  UprightFont = *-Regular,
+  %-- Upright --%
+  FontFace={ul}{n}{Font=*-Thin},
+  FontFace={l}{n}{Font=*-Light},
+  FontFace={m}{n}{Font=*-Regular},
+  FontFace={mb}{n}{Font=*-Medium},
+  FontFace={b}{n}{Font=*-Bold},
+  FontFace={eb}{n}{Font=*-Black},
+  % %-- Italic --%
+  FontFace={ul}{it}{Font=*-ThinItalic},
+  FontFace={l}{it}{Font=*-LightItalic},
+  FontFace={m}{it}{Font=*-Italic},
+  FontFace={mb}{it}{Font=*-MediumItalic},
+  FontFace={b}{it}{Font=*-BoldItalic},
+  FontFace={eb}{it}{Font=*-BlackItalic},
+]
+
+\DeclareRobustCommand{\ulseries}{\fontseries{ul}\selectfont}
+\DeclareRobustCommand{\lseries}{\fontseries{l}\selectfont}
+\DeclareRobustCommand{\mseries}{\fontseries{m}\selectfont}
+\DeclareRobustCommand{\mbseries}{\fontseries{mb}\selectfont}
+\DeclareRobustCommand{\bseries}{\fontseries{b}\selectfont}
+\DeclareRobustCommand{\ebseries}{\fontseries{eb}\selectfont}
+\DeclareTextFontCommand{\textul}{\ulseries}
+\DeclareTextFontCommand{\textl}{\lseries}
+\DeclareTextFontCommand{\textm}{\mseries}
+\DeclareTextFontCommand{\textmb}{\mbseries}
+\DeclareTextFontCommand{\textb}{\bseries}
+\DeclareTextFontCommand{\texteb}{\ebseries}
+
+
+\newfontfamily{\cyrillicfont}{Roboto}
+\newfontfamily{\cyrillicfontrm}{Roboto}
+\newfontfamily{\cyrillicfonttt}{Roboto}
+\newfontfamily{\cyrillicfontsf}{Roboto}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\setmainfont{PT Serif}
+%\setromanfont{PT Serif}
+%\setsansfont{PT Serif}
+%\setmonofont{PT Serif}
+%%\newfontfamily{\cyrillicfont}{PT Serif}
+%\newfontfamily\cyrillicfont[Ligatures=TeX]{PT Serif}
+%\newfontfamily{\cyrillicfontrm}{PT Serif}
+%\newfontfamily{\cyrillicfonttt}{PT Serif}
+%\newfontfamily{\cyrillicfontsf}{PT Serif}
+
+%\newfontfamily\cyrillicfont[Script=Cyrillic]{Charis SIL}
+%\newfontfamily\englishfont{FreeSerif Italic}
+%\newfontfamily\englishfont{Free Chancery}
+
+%\setmainfont{Liberation Serif}
+%\setsansfont{Liberation Sans}
+%\setmonofont{Liberation Mono}
+%\newfontfamily\cyrillicfont{Liberation Sans}
+%\newfontfamily{\cyrillicfontsf}{Liberation Sans}
+%\newfontfamily{\cyrillicfonttt}{Liberation Sans}
+\defaultfontfeatures{Scale=MatchLowercase, Mapping=tex-text}
+
 \addtolength{\topmargin}{-.2in}
 \addtolength{\textheight}{0.4in}
 
@@ -142,18 +341,6 @@ latex_elements = {
 \setlength{\cftsecnumwidth}{1.25cm}
 
 \input{style.tex.txt}
-
-%\setlength{\parindent}{2em}
-%\setlength{\parskip}{1em}
-%\renewcommand{\baselinestretch}{1.5}
-
-%\pagestyle{empty}
-\pagestyle{plain}
-%\thispagestyle{plain}
-
-
-%\pagestyle{fancy}  
-%\fancyhf{}  
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
@@ -171,70 +358,19 @@ latex_elements = {
   }
 \makeatother
 
-%\setlength{\headheight}{10pt}
-%\setlength{\headsep}{10pt}
-%\setlength{\footskip}{0pt}
-
-%\renewcommand{\familydefault}{\ttdefault}
-%\usepackage{helvet}
-%\renewcommand{\familydefault}{\sfdefault}
+% Зачем: Делает результирующий PDF "searchable and copyable".
+\usepackage{cmap}
 
 
-%% red vertical lines
-%\arrayrulecolor{red}
-% table hline formatting
-%\let\myhline\hline
-%\renewcommand{\hline}{\arrayrulecolor{blue}\myhline}
+% Зачем: Отключает использование изменяемых межсловных пробелов.
+% Почему: Так не принято делать в текстах на русском языке.
+\frenchspacing
 
-%\usepackage{filecontents}
-%\begin{filecontents*}{data.txt}
-%Number of points, Values
-%10, 100
-%20, 400
-%30, 1200
-%40, 2345
-%\end{filecontents*}
-
-%\\providecommand*{\\DUrolestrikethrough}[1]{\\sout{#1}}
-
-%\DeclareUnicodeCharacter{<unicode-in-hexa>}{<latex-code>}
-%\DeclareUnicodeCharacter{0xE1B99B}{ṛ}
-%\DeclareUnicodeCharacter{0xC481}{ā}
-%\DeclareUnicodeCharacter{}{}
-%\DeclareUnicodeCharacter{}{}
-%\DeclareUnicodeCharacter{0xE1B9A3}{ṣ}
-%\DeclareUnicodeCharacter{0xE1B987}{ṇ}
-
-%\DeclareUnicodeCharacter{U+0323}{.}
-%\DeclareUnicodeCharacter{U+0304}{-}
-
-
-%\DeclareUnicodeCharacter{U+0304}{\={ }}
-%\DeclareUnicodeCharacter{а̄}{\={а}}
-
-%\usepackage[verbose]{newunicodechar}
-%\newunicodechar{ā}{\={a}}
-%\newunicodechar{ṛ}{\d{r}}
-%\newunicodechar{ṣ}{\d{s}}
-%\newunicodechar{ṇ}{\d{n}}
-
-%\newunicodechar{а}{\={а}} error on start
-%\newunicodechar{а̄}{\={а}}
-%\newunicodechar{а̄}{\={а}}
-%\newunicodechar{р̣}{\d{р}}
-%\newunicodechar{н̣}{\d{н}}
-
-%\newunicodechar{§}{\ifhmode\unskip\,\fi\S K}
-% I replaced all "0x2015" on "--"
-% I not replaced all "0x2014" on "--"
 
 ''',
 
-
-'fncychap': r'\usepackage[Rejne]{fncychap}',
-#'fncychap': r'\usepackage[Bjornstrup]{fncychap}', Sonny, Lenny”, “Glenn”, “Conny”, “Rejne”
+    'fncychap': r'\usepackage[Bjornstrup]{fncychap}',
     'printindex': r'\footnotesize\raggedright\printindex',
-
 }
 #    'fontenc': '\\usepackage[X2,T1]{fontenc}',
 
