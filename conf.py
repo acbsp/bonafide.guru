@@ -161,10 +161,11 @@ latex_elements = {
 ]
 
 \setromanfont{CharisSIL}
-\setsansfont{CharisSIL}
-\setmonofont{CharisSIL}
-%\newfontfamily{\cyrillicfont}{CharisSIL}
-%\newfontfamily{\cyrillicfontrm}{CharisSIL}
+%\setsansfont{CharisSIL}
+%\setmonofont{CharisSIL}
+
+\newfontfamily{\cyrillicfont}{CharisSIL}
+\newfontfamily{\cyrillicfontrm}{CharisSIL}
 %\newfontfamily{\cyrillicfonttt}{CharisSIL}
 %\newfontfamily{\cyrillicfontsf}{CharisSIL}
 
@@ -175,6 +176,12 @@ latex_elements = {
 
 \addtolength{\topmargin}{-.2in}
 \addtolength{\textheight}{0.4in}
+
+
+%\setlength{\parindent}{1.5em} % Paragraph Indentation - By default, LATEX does not indent the first paragraph of a section or a chapter.
+%\setlength{\parskip}{0.5em} % Paragraph spacing - determines the space between a paragraph and the preceding text.
+%\addtolength{\parskip}{-.3em}
+%\renewcommand{\baselinestretch}{1.5} % Line spacing -
 
 \usepackage[titles]{tocloft}
 \cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
