@@ -222,8 +222,10 @@ latex_elements = {
 
 ''',
 
-    'fncychap': r'\usepackage[Bjornstrup]{fncychap}',
-    'printindex': r'\footnotesize\raggedright\printindex',
+
+'fncychap': r'\usepackage[Rejne]{fncychap}',
+#'fncychap': r'\usepackage[Bjornstrup]{fncychap}', Sonny, Lenny”, “Glenn”, “Conny”, “Rejne”
+'printindex': r'\footnotesize\raggedright\printindex',
 }
 #    'fontenc': '\\usepackage[X2,T1]{fontenc}',
 
