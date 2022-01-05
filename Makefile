@@ -9,9 +9,6 @@ SOURCEDIR     = .
 BUILDDIR      = _build
 
 #SPHINXOPTS+=-Dlatex_show_urls=footnote
-.PHONY: printpdf
-printpdf: SPHINXOPTS+=-Dlatex_show_urls=footnote
-printpdf: latexpdf
 
 # Build pdf by default.
 latexpdf:
@@ -21,6 +18,9 @@ help:
 	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 .PHONY: help Makefile
+#.PHONY: printpdf
+#printpdf: SPHINXOPTS+=-Dlatex_show_urls=footnote
+#printpdf: latexpdf
 
 # pdf target
 latexpdf: Makefile
