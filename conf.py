@@ -234,6 +234,73 @@ latex_elements = {
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
 \let\endchangemargin=\endlist
 
+%   {\thechapter\hsp\textcolor{gray75}
+\usepackage{titlesec, blindtext, color}
+\definecolor{gray75}{gray}{0.75}
+\newcommand{\hsp}{\hspace{20pt}}
+%\titleformat{\chapter}
+%    [hang]
+%    {\Huge\bfseries}
+%    {\thechapter\hsp\textcolor{gray75} {|}\hsp}
+%    {0pt}
+%    {\Huge\bfseries}
+
+%\titleformat{\chapter}
+%            [hang]
+%            {\huge\bfseries}
+%            {
+%%        \begingroup
+%%        \centering        
+%            {\tiny Йагйасена\textendash~Прабхупа̄да дас}
+%            {\textcolor{gray75}{|}}
+%            {\normalsize Истинный гуру}
+%%        \endgroup
+%        \hsp\textcolor{gray75}{|}\hsp}
+%        {0pt}
+%        {\huge\bfseries}
+\titleformat{\chapter}[frame]
+    {\normalfont\bfseries}
+    {\filright
+      \normalsize
+      \enspace  {\footnotesize Йагйасена \textendash~Прабхупа̄да дас}
+                {\hsp\textcolor{gray75}{|}\hsp} 
+                {Истинный гуру}  
+     \enspace}
+    {20pt}
+    {\Huge\bfseries\filcenter}
+
+%\titleformat{\section}[runin]
+%  {\normalfont\scshape}
+%  {}{0pt}{}
+%\titlespacing{\section}
+%  {\parindent}{*2}{\wordsep}
+%\titleformat{\section}
+%  {\titlerule
+%    \vspace{.8ex}%
+%    \normalfont\itshape}
+%  {\thesection.}{.5em}{}
+
+%\titleformat{\chapter}[display]
+%{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titleformat{\section}
+{\normalfont\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}
+{\normalfont\large\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}
+{\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
+\titleformat{\paragraph}[runin]
+{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titleformat{\subparagraph}[runin]
+{\normalfont\normalsize\bfseries}{\thesubparagraph}{1em}{}
+
+%\titlespacing*{\chapter} {0pt}{50pt}{40pt}
+\titlespacing*{\section} {0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+\titlespacing*{\subsection} {0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+\titlespacing*{\subsubsection}{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+\titlespacing*{\paragraph} {0pt}{3.25ex plus 1ex minus .2ex}{1em}
+\titlespacing*{\subparagraph} {\parindent}{3.25ex plus 1ex minus .2ex}{1em}
+
+
 \fi
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -241,7 +308,7 @@ latex_elements = {
 ''',
 
 
-'fncychap': r'\usepackage[Conny]{fncychap}',
+#'fncychap': r'\usepackage[Conny]{fncychap}',
 #'fncychap': r'\usepackage[Bjornstrup]{fncychap}', Sonny, Lenny”, “Glenn”, “Conny”, “Rejne”
 'printindex': r'\footnotesize\raggedright\printindex',
 }
