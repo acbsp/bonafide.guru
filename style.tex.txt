@@ -6,7 +6,7 @@
 
     \begingroup
     \centering
-    {\normalsize Йагйа Сена \textendash~Прабхупа̄да дас} \par
+    {\normalsize Йагйасена \textendash~Прабхупа̄да дас} \par
     \vfill
     \vfill
     \vfill

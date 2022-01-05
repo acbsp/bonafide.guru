@@ -241,7 +241,7 @@ latex_elements = {
 ''',
 
 
-'fncychap': r'\usepackage[Rejne]{fncychap}',
+'fncychap': r'\usepackage[Conny]{fncychap}',
 #'fncychap': r'\usepackage[Bjornstrup]{fncychap}', Sonny, Lenny”, “Glenn”, “Conny”, “Rejne”
 'printindex': r'\footnotesize\raggedright\printindex',
 }
