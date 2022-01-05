@@ -207,6 +207,10 @@ Sanskrit: \textsanskrit{संस्कृतम्}
 
    Foo1 description.
 
+.. only:: builder_html
+
+   See :download:`this example script <../example.py>`.
+
 Ask a question on `my favorite Q&A website <http://stackoverflow.com/>`_.
 
 It refers to the section itself, see :ref:`my-reference-label`.
