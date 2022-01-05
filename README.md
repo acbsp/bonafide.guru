@@ -20,8 +20,13 @@
 
 ------------
 
-cat contents.rst |sed -En 's/^[ ]{1,3}\*{1,2}([а-я].*)[^.]{1,3}\*{1,2}$/\1/p' >sed3.txt
+cat contents.rst |sed -En 's/^[ ]{1,3}\*{1,2}([а-я].*)\*{1,2}$/\1/p' >sed3.txt
 
 cat sed3.txt |sort  >sed3_sorted.txt
 
 cat  sed3_sorted.txt|uniq > sed3_sorted_uniq.txt
+
+cp  sed3_sorted_uniq.txt    sed_RESULT.txt
+
+------------
+

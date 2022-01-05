@@ -5,6 +5,7 @@
 
    contents
 
+   genindex
 ..
    glossary
 
