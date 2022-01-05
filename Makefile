@@ -8,10 +8,13 @@ SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = .
 BUILDDIR      = _build
 
-SPHINXOPTS+=-Dlatex_show_urls=footnote
+#SPHINXOPTS+=-Dlatex_show_urls=footnote
+.PHONY: printpdf
+printpdf: SPHINXOPTS+=-Dlatex_show_urls=footnote
+printpdf: latexpdf
 
 # Build pdf by default.
-pdf:
+latexpdf:
 
 # Support "make help" to show available options.
 help:
@@ -20,9 +23,9 @@ help:
 .PHONY: help Makefile
 
 # pdf target
-pdf: Makefile
+latexpdf: Makefile
 	@echo "Starting my Preprocessor:"
-#	@bash ./Preprocessor.sh
+	@bash ./Preprocessor.sh
 	@echo "Done Preprocessor."
 #	@$(SPHINXBUILD) -M latexpdf "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 	@$(SPHINXBUILD) -M latexpdf "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
@@ -31,3 +34,5 @@ pdf: Makefile
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+
+

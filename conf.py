@@ -128,8 +128,8 @@ latex_elements = {
 'preamble': r'''
 
 
-%\usepackage{xltxtra}
-%\usepackage{xunicode}
+\usepackage{xltxtra}
+\usepackage{xunicode}
 
 %\setmainlanguage[babelshorthands=true]{russian}
 %\setotherlanguage{english}
@@ -142,38 +142,65 @@ latex_elements = {
 %\usepackage{comment}
 %\usepackage{float}
 
-\usepackage{polyglossia}
-\setdefaultlanguage{russian}
-\setotherlanguages{english}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The first part is used for the ebook, 
+%  the second part for your PDF file !!
+\ifdefined\HCode
+ \usepackage[russian]{babel}
+ \usepackage[T1]{fontenc}
+ \usepackage[utf8]{inputenc}
+% \usepackage{tex4ebook}
+
+  \usepackage{alternative4ht}
+  \altusepackage{fontspec}
+ 
+ \else
+
+  \usepackage{polyglossia}
+  \setdefaultlanguage{russian}
+  \setotherlanguages{english}
 %\setotherlanguages{english,hindi,sanskrit}
 %\newfontfamily\devanagarifont[Script=Devanagari]{Lohit Devanagari}
 %\setkeys{russian}{babelshorthands=true}
 
+  \usepackage{fontspec}
+  \setmainfont{CharisSIL}[
+   Path = /usr/share/fonts/okalash/CharisSIL-6.001/,
+   Extension = .ttf,
+   UprightFont = *-Regular,
+   %-- Upright --%
+   FontFace={m}{n}{Font=*-Regular},
+   FontFace={b}{n}{Font=*-Bold},
+   % %-- Italic --%
+   FontFace={m}{it}{Font=*-Italic},
+   FontFace={b}{it}{Font=*-BoldItalic},
+  ]
 
-\usepackage{fontspec}
-\setmainfont{CharisSIL}[
-  Path = /usr/share/fonts/okalash/CharisSIL-6.001/,
-  Extension = .ttf,
-  UprightFont = *-Regular,
-  %-- Upright --%
-  FontFace={m}{n}{Font=*-Regular},
-  FontFace={b}{n}{Font=*-Bold},
-  % %-- Italic --%
-  FontFace={m}{it}{Font=*-Italic},
-  FontFace={b}{it}{Font=*-BoldItalic},
-]
+  \setromanfont{CharisSIL}
+  %\setsansfont{CharisSIL}
+  %\setmonofont{CharisSIL}
 
-\setromanfont{CharisSIL}
-%\setsansfont{CharisSIL}
-%\setmonofont{CharisSIL}
-
-\newfontfamily{\cyrillicfont}{CharisSIL}
-\newfontfamily{\cyrillicfontrm}{CharisSIL}
-%\newfontfamily{\cyrillicfonttt}{CharisSIL}
-%\newfontfamily{\cyrillicfontsf}{CharisSIL}
+  \newfontfamily{\cyrillicfont}{CharisSIL}
+  \newfontfamily{\cyrillicfontrm}{CharisSIL}
+  %\newfontfamily{\cyrillicfonttt}{CharisSIL}
+  %\newfontfamily{\cyrillicfontsf}{CharisSIL}
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\makeatletter
+  \fancypagestyle{normal}{
+    \fancyhf{}
+%    \fancyfoot[LE,RO]{}
+%    \fancyfoot[LO]{}
+%    \fancyfoot[RE]{}
+%    \fancyfoot[C]{\thepage} % except the center  
+    \fancyhead[LE,RO]{\thepage}
+    \renewcommand{\headrulewidth}{0.1pt}
+    \renewcommand{\footrulewidth}{0pt}
+  }
+\makeatother
 
 \defaultfontfeatures{Scale=MatchLowercase, Mapping=tex-text}
 
@@ -194,24 +221,8 @@ latex_elements = {
 
 \input{style.tex.txt}
 
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhf{}
-\makeatletter
-  \fancypagestyle{normal}{
-    \fancyhf{}
-%    \fancyfoot[LE,RO]{}
-%    \fancyfoot[LO]{}
-%    \fancyfoot[RE]{}
-%    \fancyfoot[C]{\thepage} % except the center  
-    \fancyhead[LE,RO]{\thepage}
-    \renewcommand{\headrulewidth}{0.1pt}
-    \renewcommand{\footrulewidth}{0pt}
-  }
-\makeatother
-
 % Зачем: Делает результирующий PDF "searchable and copyable".
-\usepackage{cmap}
+%\usepackage{cmap}
 
 
 % Зачем: Отключает использование изменяемых межсловных пробелов.
@@ -222,6 +233,10 @@ latex_elements = {
 % It is my code:
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
 \let\endchangemargin=\endlist
+
+\fi
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ''',
 
