@@ -27,8 +27,6 @@ release = '2022.01.07'
 
 show_authors = True
 
-
-
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -65,6 +63,11 @@ text_add_secnumbers = False
 
 
 latex_engine = 'xelatex'
+
+# Grouping the document tree into LaTeX files. List of tuples# (source start file, target name, title, author, documentclass [howto/manual]).
+latex_documents = [
+ ('index', 'bonafide.guru.tex', u'Истинный гуру', u'Abhay Charan das', 'manual'),
+]
 
 latex_elements = {
     # 'passoptionstopackages': r'\usepackage{fancybox}',
