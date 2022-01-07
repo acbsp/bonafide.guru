@@ -7375,7 +7375,9 @@ very good very good!" (перевод: "О! очень хорошо, очень 
 Мы записали все продолжительные дискуссии, которые мы имели с
 Махараджем. Здесь мы представляем только самые яркие моменты этих
 записей. Тем, кто заинтересован в получении материалов записей в полном
-объеме, присылайте ваши заявки на \href{mailto:goloka@vsnl.com}{goloka@vsnl.com}
+объеме, присылайте ваши заявки на E-mail: goloka@vsnl.com
+
+.. \href{mailto:goloka@vsnl.com}{goloka@vsnl.com}
 
 Является ли обсуждение вопроса о положении *гуру* |ISKCON| оскорблением?
 
@@ -8495,12 +8497,12 @@ very good very good!" (перевод: "О! очень хорошо, очень 
 
 Дорогие читатели, если у Вас возникли вопросы,
 
-обращайтесь к нам по адресу: E-mail: yagyasena@gmail.com
+обращайтесь к нам по адресу: 
 
 E-mail: 
-.. raw:: latex
+ yagyasena@gmail.com
 
-    \href{mailto:yagyasena@gmail.com}{yagyasena@gmail.com}
+.. \href{mailto:yagyasena@gmail.com}{yagyasena@gmail.com}
 
 Phone:    
  8(952) 830-00-61
