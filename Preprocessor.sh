@@ -16,10 +16,14 @@ if [ -f "$SANSKRIT_LIST" ]; then
     echo "Create Indices for Sanskrit from file: $SANSKRIT_LIST"
     while read STR; do
 
-       echo "$STR"
+#      Below is an example of Sanskrit line with Diacritic text:
+# *сампрада̄йа-вихӣна̄ йе*
+       # 1..6 spaces before Diacritic text. Fix if it is needed more.
+
+       echo "Processing: $STR"
 #      sed -i '/'"$STR"'/a\\n.. index:: '"$STR"'\n\n..\n'  ${FILENAME}
-       # Up to 6 spaces before Diacritic text:
-       sed -i '/^[ ]\{1,6\}\*'"$STR"'/ !b
+
+       sed -i '/^[ ]\{1,6\}\*'"$STR"'\*$/ !b
 s/^\( *\).*/&\n\n\1.. index:: '"$STR"'\n/' ${FILENAME}
 
     done <$SANSKRIT_LIST
