@@ -68,7 +68,7 @@ latex_engine = 'xelatex'
 # ('index', 'bonafide.guru.tex', u'Истинный гуру', u'Abhay Charan das', 'manual'),
 # ('index', 'bonafide.guru.tex', 'Истинный гуру', 'Abhay Charan das', 'manual', False),
 latex_documents = [
- ('index', 'bonafide.guru.tex', u'Истинный гуру -- подношение лотосным стопам Его Божественной Милости Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄де', u'Йагйасена -- Прабхупа̄да дас', 'manual', True),
+ ('index', 'bonafide.guru.tex', u'Истинный гуру -- подношение лотосным стопам Его Божественной Милости Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄де', u'Йагйасена -- Прабхупа̄да дас', 'manual', False),
 ]
 
 latex_elements = {
