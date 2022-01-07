@@ -20,12 +20,12 @@ sys.path.insert(0, os.path.abspath('.'))
 
 project = 'Истинный гуру'
 copyright = '2022, Abhay Charan das'
-author = 'Йагйасена прабху'
+author = 'Йагйасена -- Прабхупа̄да дас'
 
 # The full version, including alpha/beta/rc tags
 release = '2022.01.07'
 
-show_authors = True
+show_authors = False
 
 # -- General configuration ---------------------------------------------------
 
@@ -68,12 +68,15 @@ latex_engine = 'xelatex'
 # ('index', 'bonafide.guru.tex', u'Истинный гуру', u'Abhay Charan das', 'manual'),
 # ('index', 'bonafide.guru.tex', 'Истинный гуру', 'Abhay Charan das', 'manual', False),
 latex_documents = [
- ('index', 'bonafide.guru.tex', 'Харе Кр̣шн̣а, Харе Кр̣шн̣а, Кр̣шн̣а Кр̣шн̣а, Харе Харе', 'Харе Ра̄ма, Харе Ра̄ма, Ра̄ма Ра̄ма, Харе Харе', 'manual', False),
+ ('index', 'bonafide.guru.tex', u'Истинный гуру -- подношение лотосным стопам Его Божественной Милости Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄де', u'Йагйасена -- Прабхупа̄да дас', 'manual', True),
 ]
 
 latex_elements = {
     # 'passoptionstopackages': r'\usepackage{fancybox}',
-    'passoptionstopackages': r'\usepackage[pdfusetitle,hidelinks,unicode]{hyperref}',
+    #'passoptionstopackages': r'\usepackage[pdfusetitle,hidelinks,unicode]{hyperref}',
+    #'passoptionstopackages': r'\usepackage[pdfusetitle,unicode,xetex,bookmarks=true,colorlinks=true,linkcolor=headernfooter,urlcolor=headernfooter,linktoc=section,]{hyperref}',
+    #'passoptionstopackages': r'\usepackage[%draft=true,pdfa=true,bookmarks=true,bookmarksopen=true,bookmarksopenlevel=1,unicode=true,pdfauthor={My Name},pdftitle={My Title}, breaklinks,hidelinks,colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}',
+    'passoptionstopackages': r'\usepackage[pdfa=true,dvipdfmx-outline-open,bookmarks=true,bookmarksopen=true,bookmarksopenlevel=2,unicode=true,pdfusetitle=true,hidelinks=true]{hyperref}',
 
     # https://www.sphinx-doc.org/en/master/latex.html
     # The dimensions of the horizontal and vertical margins passed to the geometry package:
