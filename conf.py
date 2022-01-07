@@ -65,12 +65,15 @@ text_add_secnumbers = False
 latex_engine = 'xelatex'
 
 # Grouping the document tree into LaTeX files. List of tuples# (source start file, target name, title, author, documentclass [howto/manual]).
+# ('index', 'bonafide.guru.tex', u'Истинный гуру', u'Abhay Charan das', 'manual'),
+# ('index', 'bonafide.guru.tex', 'Истинный гуру', 'Abhay Charan das', 'manual', False),
 latex_documents = [
- ('index', 'bonafide.guru.tex', u'Истинный гуру', u'Abhay Charan das', 'manual'),
+ ('index', 'bonafide.guru.tex', 'Харе Кр̣шн̣а, Харе Кр̣шн̣а, Кр̣шн̣а Кр̣шн̣а, Харе Харе', 'Харе Ра̄ма, Харе Ра̄ма, Ра̄ма Ра̄ма, Харе Харе', 'manual', False),
 ]
 
 latex_elements = {
     # 'passoptionstopackages': r'\usepackage{fancybox}',
+    'passoptionstopackages': r'\usepackage[pdfusetitle,hidelinks,unicode]{hyperref}',
 
     # https://www.sphinx-doc.org/en/master/latex.html
     # The dimensions of the horizontal and vertical margins passed to the geometry package:
@@ -261,6 +264,7 @@ latex_elements = {
 \titlespacing*{\subparagraph} {\parindent}{3.25ex plus 1ex minus .2ex}{1em}
 
 \fi
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ''',

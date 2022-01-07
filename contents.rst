@@ -66,12 +66,6 @@
     Ш́рӣла Бхактисиддха̄нта Сарасватӣ Т̣ха̄кура
           Бхактисиддха̄нта Сарасватӣ Т̣ха̄кура
 
-.. sectionauthor:: Йагйасена прабху <yagyasena@gmail.com>
-
-.. codeauthor:: Abhay Charan das <abhay.charan.d@gmail.com>
-
-
-
 .. .. _my-reference-label:
 
 ****************************

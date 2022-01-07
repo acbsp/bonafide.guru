@@ -1,3 +1,5 @@
+.. sectionauthor:: Йагйасена прабху <yagyasena@gmail.com>
+.. codeauthor:: Abhay Charan das <abhay.charan.d@gmail.com>
 
 .. toctree::
    :maxdepth: 3
