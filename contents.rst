@@ -504,14 +504,14 @@ Sanskrit: \textsanskrit{संस्कृतम्}
 
 
 ..
-.. raw:: latex
+ .. raw:: latex
 
     %\chapter{Sample Chapter} \thispagestyle{empty}
-
 
  .. raw:: latex
 
     \setcounter{secnumdepth}{-1}
+
 
 ****************************
 Глава первая
