@@ -25,6 +25,9 @@ author = 'Йагйасена прабху'
 # The full version, including alpha/beta/rc tags
 release = '2022.01.07'
 
+show_authors = True
+
+
 
 # -- General configuration ---------------------------------------------------
 
