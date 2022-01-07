@@ -30,3 +30,5 @@ cp  sed3_sorted_uniq.txt    sed_RESULT.txt
 
 ------------
 
+cd ~/Book/bonafide.guru/_build/latex 
+xindy -o outfile.ind -L russian -C utf8 -I xelatex -M texindy.xdy  sphinx.idx

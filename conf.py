@@ -101,18 +101,21 @@ latex_elements = {
     # A5 paper size
     "papersize": "a5paper",
     # Oneside pages
-    #"classoptions": ",twoside",
+    "classoptions": ",twoside",
     # Custom preamble to tune title page
 #    "preamble": preamble,
     # The font size ('10pt', '11pt' or '12pt').
-    #"pointsize": "10pt",
-    # Disable Index page
-    #"printindex": "",
+    "pointsize": "10pt",
     #'babel': '\\usepackage{babel}',
     #'inputenc': '\\usepackage[utf8]{inputenc}',
     #'cmap': '\\usepackage{cmap}',
     #'fontenc': '\\usepackage[X2,T1]{fontenc}',
 #   'maketitle': latex_maketitle,
+
+    'makeindex': '\\usepackage[columns=1]{idxlayout}\\makeindex',
+    'printindex': '\\small\\raggedright\\printindex',
+    # Disable Index page
+    #"printindex": "",
 
 #\passoptionstopackages{options}{fancybox}
 #    'preamble': r'''
@@ -310,7 +313,8 @@ latex_elements = {
 
 #'fncychap': r'\usepackage[Conny]{fncychap}',
 #'fncychap': r'\usepackage[Bjornstrup]{fncychap}', Sonny, Lenny”, “Glenn”, “Conny”, “Rejne”
-'printindex': r'\footnotesize\raggedright\printindex',
+#'printindex': r'\footnotesize\raggedright\printindex',
+#'printindex': r'\tiny\raggedleft\printindex',
 }
 #    'fontenc': '\\usepackage[X2,T1]{fontenc}',
 
