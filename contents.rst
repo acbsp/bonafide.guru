@@ -509,6 +509,10 @@ Sanskrit: \textsanskrit{संस्कृतम्}
     %\chapter{Sample Chapter} \thispagestyle{empty}
 
 
+.. raw:: latex
+
+    \setcounter{secnumdepth}{-1}
+
 ****************************
 Глава первая
 ****************************
