@@ -18,7 +18,8 @@ if [ -f "$SANSKRIT_LIST" ]; then
 
        echo "$STR"
 #      sed -i '/'"$STR"'/a\\n.. index:: '"$STR"'\n\n..\n'  ${FILENAME}
-       sed -i '/'"$STR"'/ !b
+       # Up to 6 spaces before Diacritic text:
+       sed -i '/^[ ]\{1,6\}\*'"$STR"'/ !b
 s/^\( *\).*/&\n\n\1.. index:: '"$STR"'\n/' ${FILENAME}
 
     done <$SANSKRIT_LIST
