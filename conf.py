@@ -19,11 +19,11 @@ sys.path.insert(0, os.path.abspath('.'))
 # -- Project information -----------------------------------------------------
 
 project = 'Истинный гуру'
-copyright = '2021, Abhay Charan das'
-author = 'Ягья Сена прабху - Прабхупада дас'
+copyright = '2022, Abhay Charan das'
+author = 'Йагйасена прабху'
 
 # The full version, including alpha/beta/rc tags
-release = '2021.04.29'
+release = '2022.01.07'
 
 
 # -- General configuration ---------------------------------------------------
@@ -61,42 +61,14 @@ latex_use_xindy = True
 text_add_secnumbers = False
 
 
-
-#latex_maketitle = r'''
-#\input{style.tex.txt}
-#'''
-# \\input{{style.tex.txt}}
-#%\input{style.tex.txt}
-preamble = r'''
-
-% Nimbus Samns L - helvetica clone
-%\setmainfont{Nimbus Sans L}
-
-% Header and footer
-%\pagestyle{fancy}
-
-% Table of Contents
-% ToC: depth
-%\setcounter{secnumdepth}{4}
-...
-'''
-
 latex_engine = 'xelatex'
-#latex_engine = 'lualatex'
 
-
-#'fontenc': '\usepackage[T1,T2A]{fontenc}',
-#'babel': '\\usepackage[russian]{babel}',
-#'cmappkg': '\\usepackage{cmap}',
-#'utf8extra':'\\DeclareUnicodeCharacter{00A0}{\\nobreakspace}',
-#        \PassOptionsToPackage{hmargin=1in,vmargin=1in,marginpar=0.5in}{geometry}
-#        'sphinxsetup': 'hmargin={2in,1.5in}, vmargin={1.5in,2in}, marginpar=1in',
 latex_elements = {
+    # 'passoptionstopackages': r'\usepackage{fancybox}',
 
-#    'passoptionstopackages': r'\usepackage{fancybox}',
-
-# The dimensions of the horizontal and vertical margins passed to the geometry package:
-'sphinxsetup': 'hmargin={0.8in,0.4in}, vmargin={0.7in,0.7in}, marginpar=1in',
+    # https://www.sphinx-doc.org/en/master/latex.html
+    # The dimensions of the horizontal and vertical margins passed to the geometry package:
+    'sphinxsetup': 'hmargin={0.8in,0.4in}, vmargin={0.7in,0.7in}, marginpar=1in',
 
     # A5 paper size
     "papersize": "a5paper",
@@ -106,33 +78,17 @@ latex_elements = {
 #    "preamble": preamble,
     # The font size ('10pt', '11pt' or '12pt').
     "pointsize": "10pt",
-    #'babel': '\\usepackage{babel}',
-    #'inputenc': '\\usepackage[utf8]{inputenc}',
-    #'cmap': '\\usepackage{cmap}',
-    #'fontenc': '\\usepackage[X2,T1]{fontenc}',
-#   'maketitle': latex_maketitle,
 
+    # https://www.sphinx-doc.org/en/master/latex.html
     'makeindex': '\\usepackage[columns=1]{idxlayout}\\makeindex',
-    'printindex': '\\small\\raggedright\\printindex',
+    'printindex': '\\renewcommand{\\indexname}{Указатель цитируемых санскритских стихов}\\small\\raggedright\\printindex',
     # Disable Index page
     #"printindex": "",
 
-#\passoptionstopackages{options}{fancybox}
-#    'preamble': r'''
-#\usepackage[titles]{tocloft}
-#\cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
-#\setlength{\cftchapnumwidth}{0.75cm}
-#\setlength{\cftsecindent}{\cftchapnumwidth}
-#\setlength{\cftsecnumwidth}{1.25cm}
-#''',
+    'preamble': r'''
 
-#'preamble': '\\usepackage[UTF8]{ctex}\n',
-
-'preamble': r'''
-
-
-\usepackage{xltxtra}
-\usepackage{xunicode}
+        \usepackage{xltxtra}
+        \usepackage{xunicode}
 
 %\setmainlanguage[babelshorthands=true]{russian}
 %\setotherlanguage{english}
@@ -210,6 +166,7 @@ latex_elements = {
 \addtolength{\topmargin}{-.2in}
 \addtolength{\textheight}{0.4in}
 
+\input{style.tex.txt}
 
 %\setlength{\parindent}{1.5em} % Paragraph Indentation - By default, LATEX does not indent the first paragraph of a section or a chapter.
 %\setlength{\parskip}{0.5em} % Paragraph spacing - determines the space between a paragraph and the preceding text.
@@ -221,12 +178,6 @@ latex_elements = {
 \setlength{\cftchapnumwidth}{0.75cm}
 \setlength{\cftsecindent}{\cftchapnumwidth}
 \setlength{\cftsecnumwidth}{1.25cm}
-
-\input{style.tex.txt}
-
-% Зачем: Делает результирующий PDF "searchable and copyable".
-%\usepackage{cmap}
-
 
 % Зачем: Отключает использование изменяемых межсловных пробелов.
 % Почему: Так не принято делать в текстах на русском языке.
@@ -303,20 +254,11 @@ latex_elements = {
 \titlespacing*{\paragraph} {0pt}{3.25ex plus 1ex minus .2ex}{1em}
 \titlespacing*{\subparagraph} {\parindent}{3.25ex plus 1ex minus .2ex}{1em}
 
-
 \fi
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ''',
-
-
-#'fncychap': r'\usepackage[Conny]{fncychap}',
-#'fncychap': r'\usepackage[Bjornstrup]{fncychap}', Sonny, Lenny”, “Glenn”, “Conny”, “Rejne”
-#'printindex': r'\footnotesize\raggedright\printindex',
-#'printindex': r'\tiny\raggedleft\printindex',
 }
-#    'fontenc': '\\usepackage[X2,T1]{fontenc}',
 
 latex_show_urls = 'footnote'
 
