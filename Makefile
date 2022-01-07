@@ -24,10 +24,12 @@ help:
 
 # pdf target
 latexpdf: Makefile
-	@echo "Starting my Preprocessor:"
-	@bash ./Preprocessor.sh
-	@echo "Done Preprocessor."
+#	@echo "Starting my Preprocessor:"
+#	@bash ./Preprocessor.sh
+#	@echo "Done Preprocessor."
 #	@$(SPHINXBUILD) -M latexpdf "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+#	@echo @$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+#	@echo "1 ==========================================================================="
 	@$(SPHINXBUILD) -M latexpdf "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 # Catch-all target: route all unknown targets to Sphinx using the new
@@ -36,6 +38,8 @@ latexpdf: Makefile
 	@echo "Starting my Preprocessor:"
 	@bash ./Preprocessor.sh
 	@echo "Done Preprocessor."
+	@echo @$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+	@echo "2 ==========================================================================="
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 

@@ -6,14 +6,15 @@
    contents
 
    genindex
-..
-   glossary
 
+..
    :ref:`genindex`
 
+ .. index:: ! Указатель
+
+   glossary
 
    :abbr:`LIFO (last-in, first-out)`
 
- .. index:: Указатель
 
 
