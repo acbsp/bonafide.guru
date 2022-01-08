@@ -517,7 +517,8 @@ Sanskrit: \textsanskrit{संस्कृतम्}
 Глава первая
 ****************************
 
-.. raw:: latex
+..
+ .. raw:: latex
 
     \thispagestyle{empty}
 
