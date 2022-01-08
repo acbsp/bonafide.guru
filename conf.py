@@ -68,7 +68,7 @@ latex_engine = 'xelatex'
 # ('index', 'bonafide.guru.tex', u'Истинный гуру', u'Abhay Charan das', 'manual'),
 # ('index', 'bonafide.guru.tex', 'Истинный гуру', 'Abhay Charan das', 'manual', False),
 latex_documents = [
- ('index', 'bonafide.guru.tex', u'Истинный гуру -- подношение лотосным стопам Его Божественной Милости Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄де', u'Йагйасена -- Прабхупа̄да дас', 'manual', False),
+ ('index', 'bonafide.guru.tex', u'Истинный гуру', u'Йагйасена -- Прабхупа̄да дас', 'manual', False),
 ]
 
 latex_elements = {
@@ -76,7 +76,7 @@ latex_elements = {
     #'passoptionstopackages': r'\usepackage[pdfusetitle,hidelinks,unicode]{hyperref}',
     #'passoptionstopackages': r'\usepackage[pdfusetitle,unicode,xetex,bookmarks=true,colorlinks=true,linkcolor=headernfooter,urlcolor=headernfooter,linktoc=section,]{hyperref}',
     #'passoptionstopackages': r'\usepackage[%draft=true,pdfa=true,bookmarks=true,bookmarksopen=true,bookmarksopenlevel=1,unicode=true,pdfauthor={My Name},pdftitle={My Title}, breaklinks,hidelinks,colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}',
-    'passoptionstopackages': r'\usepackage[pdfa=true,dvipdfmx-outline-open,bookmarks=true,bookmarksopen=true,bookmarksopenlevel=2,unicode=true,pdfusetitle=true,hidelinks=true]{hyperref}',
+    'passoptionstopackages': r'\usepackage[pdfa=true,dvipdfmx-outline-open,bookmarks=true,bookmarksopen=true,bookmarksopenlevel=2,unicode=true,pdfusetitle=true,hidelinks=true,pdfkeywords={Гаўдӣйа-Ваишн̣авизм,ISKCON,Международное Общество для Осознания Кришны, Его Божественная Милость Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄да,Дӣкша̄-гуру},pdfsubject={подношение лотосным стопам нашего возлюбленного духовного учителя, к 110-летию божественного явления Основателя-А̄ча̄рйи ISKCON},]{hyperref}',
 
     # https://www.sphinx-doc.org/en/master/latex.html
     # The dimensions of the horizontal and vertical margins passed to the geometry package:
