@@ -224,16 +224,26 @@ latex_elements = {
 %        \hsp\textcolor{gray75}{|}\hsp}
 %        {0pt}
 %        {\huge\bfseries}
+
+% With Author and Book names:
+%\titleformat{\chapter}[frame]
+%    {\normalfont\bfseries}
+%    {\filright
+%      \normalsize
+%      \enspace  {\footnotesize Йагйасена \textendash~Прабхупа̄да дас}
+%                {\hsp\textcolor{gray75}{|}\hsp} 
+%                {Истинный гуру}  
+%     \enspace}
+%    {20pt}
+%    {\Huge\bfseries\filcenter}
+
 \titleformat{\chapter}[frame]
     {\normalfont\bfseries}
-    {\filright
-      \normalsize
-      \enspace  {\footnotesize Йагйасена \textendash~Прабхупа̄да дас}
-                {\hsp\textcolor{gray75}{|}\hsp} 
-                {Истинный гуру}  
-     \enspace}
-    {20pt}
+    {}
+    {8pt}
     {\Huge\bfseries\filcenter}
+
+
 
 %\titleformat{\section}[runin]
 %  {\normalfont\scshape}
