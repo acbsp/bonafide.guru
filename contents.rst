@@ -3055,10 +3055,12 @@ TRANSLATION
    :alt: alternate text
    :align: middle
 
-.. |image13| image:: images/_july9th.jpg
+.. figure:: :: images/_july9th.jpg
    :scale: 50 %
    :alt: alternate text
    :align: top
+
+   This is the caption of the figure (a simple paragraph).
 
 Завещание
 --------------------------------------------------------------------------------------
