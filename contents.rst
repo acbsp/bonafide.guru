@@ -74,31 +74,6 @@
 
 .. raw:: latex
 
-  \begin{}
-
-    % https://sharelatex.psi.ch/learn/Font_sizes,_families,_and_styles
-    \itshape
-
-    \begingroup
-    \centering
-    {\normalsize Ягьясена \textendash~Прабхупа̄да дас} \par
-    \vfill
-    \vfill
-    \vfill
-    \textbf{{\Huge Истинный гуру}} \par
-    \endgroup
-
-    \vfill
-    \vfill
-    \vfill
-    \vfill
-    \vfill
-
-  \end{}
-
-
-
-
 	\newpage
 
 ****************************
