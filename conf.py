@@ -20,10 +20,10 @@ sys.path.insert(0, os.path.abspath('.'))
 
 project = 'Истинный гуру'
 copyright = '2022, Abhay Charan das'
-author = 'Йагйасена -- Прабхупа̄да дас'
+author = 'Ягьясена -- Прабхупа̄да дас'
 
 # The full version, including alpha/beta/rc tags
-release = '2022.01.07'
+release = '2022.01.22'
 
 show_authors = False
 
@@ -68,7 +68,7 @@ latex_engine = 'xelatex'
 # ('index', 'bonafide.guru.tex', u'Истинный гуру', u'Abhay Charan das', 'manual'),
 # ('index', 'bonafide.guru.tex', 'Истинный гуру', 'Abhay Charan das', 'manual', False),
 latex_documents = [
- ('index', 'bonafide.guru.tex', u'Истинный гуру', u'Йагйасена -- Прабхупа̄да дас', 'manual', False),
+ ('index', 'bonafide.guru.tex', u'Истинный гуру', u'Ягьясена -- Прабхупа̄да дас', 'manual', False),
 ]
 
 latex_elements = {
@@ -217,7 +217,7 @@ latex_elements = {
 %            {
 %%        \begingroup
 %%        \centering        
-%            {\tiny Йагйасена\textendash~Прабхупа̄да дас}
+%            {\tiny Ягьясена\textendash~Прабхупа̄да дас}
 %            {\textcolor{gray75}{|}}
 %            {\normalsize Истинный гуру}
 %%        \endgroup
@@ -230,7 +230,7 @@ latex_elements = {
 %    {\normalfont\bfseries}
 %    {\filright
 %      \normalsize
-%      \enspace  {\footnotesize Йагйасена \textendash~Прабхупа̄да дас}
+%      \enspace  {\footnotesize Ягьясена \textendash~Прабхупа̄да дас}
 %                {\hsp\textcolor{gray75}{|}\hsp} 
 %                {Истинный гуру}  
 %     \enspace}

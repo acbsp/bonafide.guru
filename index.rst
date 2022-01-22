@@ -1,4 +1,4 @@
-.. sectionauthor:: Йагйасена прабху <yagyasena@gmail.com>
+.. sectionauthor:: Ягьясена прабху <yagyasena@gmail.com>
 .. codeauthor:: Abhay Charan das <abhay.charan.d@gmail.com>
 
 .. toctree::
