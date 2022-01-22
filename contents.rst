@@ -8587,7 +8587,25 @@ very good very good!" (перевод: "О! очень хорошо, очень 
 
 Мы будем благодарны за любую обратную связь.
 
-Эта книга доступна в электронном виде по адресу: **http://bonafide.guru**
+Эта книга доступна в электронном виде по адресу:
+
+.. raw:: latex
+
+   \begingroup
+   \setlength{\arrayrulewidth}{0pt}
+
+.. table::
+   :widths: auto
+   :align: right
+
+   +--------------------------+
+   | **http://bonafide.guru** |
+   +--------------------------+
+
+.. raw:: latex
+
+   \endgroup
+
 
 ..
 
