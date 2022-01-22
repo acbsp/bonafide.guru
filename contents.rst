@@ -8562,12 +8562,12 @@ very good very good!" (перевод: "О! очень хорошо, очень 
 
 Дорогие читатели, если у Вас возникли вопросы, обращайтесь к нам с помощью следующих средств коммуникации:
 
-.. tabularcolumns:: |l|l|
+.. tabularcolumns:: |r|l|
 
 .. raw:: latex
 
    \begingroup
-   \setlength{\arrayrulewidth}{0pt}
+   \setlength{\arrayrulewidth}{1pt}
 
 .. table::
    :widths: auto
