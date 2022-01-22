@@ -3055,7 +3055,7 @@ TRANSLATION
    :alt: alternate text
    :align: middle
 
-.. figure:: :: images/_july9th.jpg
+.. figure:: images/_july9th.jpg
    :scale: 50 %
    :alt: alternate text
    :align: center
