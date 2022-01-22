@@ -3048,17 +3048,17 @@ TRANSLATION
 .. |image11| image:: images/_will1.jpg
    :scale: 50 %
    :alt: alternate text
-   :align: right
+   :align: middle
 
 .. |image12| image:: images/_will2.jpg
    :scale: 50 %
    :alt: alternate text
-   :align: right
+   :align: middle
 
 .. |image12| image:: images/_july9th.jpg
    :scale: 50 %
    :alt: alternate text
-   :align: right
+   :align: middle
 
 Завещание
 --------------------------------------------------------------------------------------
