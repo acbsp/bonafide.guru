@@ -8632,8 +8632,8 @@ very good very good!" (перевод: "О! очень хорошо, очень 
 .. \href{mailto:yagyasena@gmail.com}{yagyasena@gmail.com}
 
 .. figure:: images/logo.png
-   :width: 6.77778in
-   :height: 10.29583in
+   :scale: 100 %
+   :align: center
 
 
 
