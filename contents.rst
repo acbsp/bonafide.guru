@@ -3047,16 +3047,16 @@ TRANSLATION
 
 .. figure:: images/_will1.jpg
    :scale: 50 %
-   :alt: alternate text
+   :alt: ЗАВЕЩАНИЕ 1
    :align: center
 
 .. figure:: images/_will2.jpg
    :scale: 100 %
-   :alt: alternate text
-   :align: middle
+   :alt: ЗАВЕЩАНИЕ 2
+   :align: center
 
 .. figure:: images/_july9th.jpg
-   :alt: alternate text
+   :alt: Директива 9 июля 1977
    :align: center
 
 Завещание
