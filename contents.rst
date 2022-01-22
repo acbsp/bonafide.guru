@@ -8562,6 +8562,13 @@ very good very good!" (перевод: "О! очень хорошо, очень 
 
 Дорогие читатели, если у Вас возникли вопросы, обращайтесь к нам по адресу: 
 
+.. tabularcolumns:: p{5cm} p{5cm}
+
+.. raw:: latex
+
+   \begingroup
+   \setlength{\arrayrulewidth}{0pt}
+
 .. table::
    :widths: auto
    :align: center
@@ -8573,6 +8580,12 @@ very good very good!" (перевод: "О! очень хорошо, очень 
    +----------------------------------------+---------------------------------------+
    | Site:                              | http://bonafide.guru                      |
    +------------------------------------+-------------------------------------------+
+
+
+.. raw:: latex
+
+   \endgroup
+
 
 E-mail:
  yagyasena@gmail.com
