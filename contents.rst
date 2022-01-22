@@ -3045,20 +3045,20 @@ TRANSLATION
 написал "Завещание от 04.06.1977" и издал "Директиву" от 09.07.1977", которая была разослана по всем храмам и центрам |ISKCON|.
 
 
-.. |image11| image:: _will1.jpg
+.. |image11| image:: images/_will1.jpg
    :scale: 50 %
    :alt: alternate text
    :align: middle
 
-.. |image12| image:: _will2.jpg
-   :scale: 50 %
+.. |image12| image:: images/_will2.jpg
+   :scale: 100 %
    :alt: alternate text
    :align: middle
 
-.. |image13| image:: _july9th.jpg
+.. |image13| image:: images/_july9th.jpg
    :scale: 50 %
    :alt: alternate text
-   :align: middle
+   :align: top
 
 Завещание
 --------------------------------------------------------------------------------------
@@ -8626,7 +8626,7 @@ very good very good!" (перевод: "О! очень хорошо, очень 
 
 .. \href{mailto:yagyasena@gmail.com}{yagyasena@gmail.com}
 
-.. |image0| image:: logo.png
+.. |image0| image:: images/logo.png
    :width: 6.77778in
    :height: 10.29583in
 
