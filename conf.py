@@ -315,6 +315,9 @@ html_static_path = ['_static']
 
 latex_additional_files = [
     "images/logo.png",
+    "images/_july9th.jpg",
+    "images/_will1.jpg",
+    "images/_will2.jpg",
     "style.tex.txt",
 ]
 
