@@ -8558,17 +8558,22 @@ very good very good!" (перевод: "О! очень хорошо, очень 
  пока все его ученики не уйдут в духовный мир. **Мой ответ да, таково правило**.
 
 
+----
+
 Дорогие читатели, если у Вас возникли вопросы,
 
 обращайтесь к нам по адресу: 
 
-E-mail: 
+E-mail:
  yagyasena@gmail.com
 
 .. \href{mailto:yagyasena@gmail.com}{yagyasena@gmail.com}
 
-Phone:    
+Phone:
  8(952) 830-00-61
+
+Site:
+ http://bonafide.guru
 
 
 .. |image0| image:: images/logo.png
