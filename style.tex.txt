@@ -1,9 +1,28 @@
 \renewcommand{\sphinxmaketitle}{%
   \begin{titlepage}%
 
-    % https://sharelatex.psi.ch/learn/Font_sizes,_families,_and_styles
-    \itshape
+     \itshape
 
+     \begingroup
+        \centering
+        \null
+        \vfill
+        \textbf{{\Huge Истинный гуру}} \par
+        \vfill
+        \vfill
+        \vfill
+        \vfill
+        \null
+    \endgroup
+
+  %\clearpage\null\thispagestyle{empty}
+
+  \clearpage\null\thispagestyle{empty}
+
+  \cleardoublepage\null\thispagestyle{empty}
+
+
+    % https://sharelatex.psi.ch/learn/Font_sizes,_families,_and_styles
     \begingroup
     \centering
     {\normalsize Ягьясена \textendash~Прабхупа̄да дас} \par
@@ -49,29 +68,28 @@
     \vfill
 
 
-	\newpage
-
-
-	\newpage
 
 
 
-    % https://sharelatex.psi.ch/learn/Font_sizes,_families,_and_styles
-    \itshape
-    \begingroup
-    \centering
-    {\normalsize Ягьясена \textendash~Прабхупа̄да дас} \par
-    \vfill
-    \vfill
-    \vfill
-    \textbf{{\Huge Истинный гуру}} \par
+  \clearpage
+  \if@openright\cleardoublepage\else\clearpage\fi
+
+
+
+     \begingroup
+        \centering
+        \null
+        \vfill
+        \vfill
+        \vfill
+        \vfill
+        \text{{copyright Истинный гуру 2021}} \par
+        \vfill
+        \null
     \endgroup
 
-    \vfill
-    \vfill
-    \vfill
-    \vfill
-    \vfill
+
+
 
 
 
@@ -79,6 +97,7 @@
 
   \end{titlepage}%
   \setcounter{footnote}{0}%
+%  \setcounter{chapter}{-1}
   \clearpage
   \if@openright\cleardoublepage\else\clearpage\fi
 }

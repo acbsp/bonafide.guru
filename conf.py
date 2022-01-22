@@ -86,6 +86,8 @@ latex_elements = {
     "papersize": "a5paper",
     # Oneside pages
     "classoptions": ",twoside",
+    #"classoptions": ",twoside,openright",
+    #"extraclassoptions": "openany", # allow chapters to start on any page
     # Custom preamble to tune title page
 #    "preamble": preamble,
     # The font size ('10pt', '11pt' or '12pt').
