@@ -3058,7 +3058,7 @@ TRANSLATION
 .. figure:: :: images/_july9th.jpg
    :scale: 50 %
    :alt: alternate text
-   :align: top
+   :align: center
 
    This is the caption of the figure (a simple paragraph).
 
