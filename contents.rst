@@ -74,7 +74,8 @@
 
 .. raw:: latex
 
-	\newpage
+    \cleardoublepage\null\thispagestyle{empty}
+
 
 ****************************
 Введение
@@ -247,10 +248,6 @@
  p\u{o}p\u{u}lus
  a § b
 
-
-.. raw:: latex
-
-	\newpage
 
 .. raw:: latex
 
