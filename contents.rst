@@ -71,6 +71,36 @@
 
 .. .. _my-reference-label:
 
+
+.. raw:: latex
+
+  \begin{}
+
+    % https://sharelatex.psi.ch/learn/Font_sizes,_families,_and_styles
+    \itshape
+
+    \begingroup
+    \centering
+    {\normalsize Ягьясена \textendash~Прабхупа̄да дас} \par
+    \vfill
+    \vfill
+    \vfill
+    \textbf{{\Huge Истинный гуру}} \par
+    \endgroup
+
+    \vfill
+    \vfill
+    \vfill
+    \vfill
+    \vfill
+
+  \end{}
+
+
+
+
+	\newpage
+
 ****************************
 Введение
 ****************************
@@ -242,6 +272,10 @@
  p\u{o}p\u{u}lus
  a § b
 
+
+.. raw:: latex
+
+	\newpage
 
 .. raw:: latex
 
@@ -8617,13 +8651,13 @@ very good very good!" (перевод: "О! очень хорошо, очень 
    \endgroup
 
 
+.. raw:: latex
+
+	\newpage
+
 ..
-
-.. \href{mailto:yagyasena@gmail.com}{yagyasena@gmail.com}
-
-..  figure:: images/logo.png
-    :scale: 100 %
-    :align: center
+  .. \href{mailto:yagyasena@gmail.com}{yagyasena@gmail.com}
+  .. figure:: images/logo.png
 
 
 
