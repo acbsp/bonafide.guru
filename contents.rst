@@ -71,12 +71,6 @@
 
 .. .. _my-reference-label:
 
-
-.. raw:: latex
-
-    \cleardoublepage\null\thispagestyle{empty}
-
-
 ****************************
 Введение
 ****************************
