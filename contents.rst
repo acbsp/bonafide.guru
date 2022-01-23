@@ -9145,10 +9145,6 @@ GBC, по крайней мере, должен знать азбучные ис
    \endgroup
 
 
-.. raw:: latex
-
-	\newpage
-
 ..
   .. \href{mailto:yagyasena@gmail.com}{yagyasena@gmail.com}
   .. figure:: images/logo.png
@@ -9158,11 +9154,6 @@ GBC, по крайней мере, должен знать азбучные ис
 .. sidebar:: ЗАМЕТКИ
 
    Ниже находится свободное место для ваших заметок.
-
-.. raw:: latex
-
-    % Add empty page:
-    \cleardoublepage\null\thispagestyle{empty}
 
 .. raw:: latex
 
