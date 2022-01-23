@@ -5,15 +5,14 @@
     \pagestyle{empty}
      \begingroup
        \centering
-       \null
-       \vfill
+       %\fbox{\phantom{\normalsize \Yagyasena}} \par
+       \phantom{\normalsize \Yagyasena} \par
+       \phantom{\normalsize \Yagyasena} \par
+       \vspace{3cm} %3cm vertical space
        \textbf{{\Huge \BonafideGuru}} \par
-       \vfill
-       \vfill
-       \vfill
-       \vfill
-       \null
      \endgroup
+     \vfill
+     \null
     
     \clearpage\null\thispagestyle{empty}
 
@@ -23,17 +22,15 @@
     \cleardoublepage\null\thispagestyle{empty}
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-    \begingroup
-     \centering
-      {\normalsize \Yagyasena} \par
-      \vfill
-      \vfill
-      \vfill
-      \textbf{{\Huge \BonafideGuru}} \par
-    \endgroup
+    \pagestyle{empty}
+     \begingroup
+      \centering
+       {\normalsize \Yagyasena} \par
+       \vspace{3cm} %3cm vertical space
+       \textbf{{\Huge \BonafideGuru}} \par
+     \endgroup
 
-    \vfill
-    \vfill
+     \vspace{3cm} %3cm vertical space
 
     \begin{changemargin}{1cm}{1cm}
      \begingroup
@@ -51,7 +48,7 @@
      \endgroup
     \end{changemargin}
 
-    \vfill
+     \vspace{1cm} %1cm vertical space
 
     %\par\vspace{0.1cm}
     %\textcolor{red}{\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}}
@@ -70,8 +67,6 @@
         живёт вместе с Ним. \par
     \endgroup
 
-    \vfill
-    \vfill
     \vfill
 
     \clearpage
