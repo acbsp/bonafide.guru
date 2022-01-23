@@ -7,7 +7,7 @@
         \centering
         \null
         \vfill
-        \textbf{{\Huge Истинный гуру}} \par
+        \textbf{{\Huge Истинный Гуру}} \par
         \vfill
         \vfill
         \vfill
@@ -29,7 +29,7 @@
     \vfill
     \vfill
     \vfill
-    \textbf{{\Huge Истинный гуру}} \par
+    \textbf{{\Huge Истинный Гуру}} \par
     \endgroup
 
     \vfill
@@ -83,7 +83,7 @@
         \vfill
         \vfill
         \vfill
-        \text{{copyright Истинный гуру 2021}} \par
+        \text{{copyright Истинный Гуру 2021}} \par
         \vfill
         \null
     \endgroup

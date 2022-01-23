@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Истинный гуру'
+project = 'Истинный Гуру'
 copyright = '2022, Abhay Charan das'
 author = 'Ягьясена -- Прабхупа̄да дас'
 
@@ -65,10 +65,10 @@ text_add_secnumbers = False
 latex_engine = 'xelatex'
 
 # Grouping the document tree into LaTeX files. List of tuples# (source start file, target name, title, author, documentclass [howto/manual]).
-# ('index', 'bonafide.guru.tex', u'Истинный гуру', u'Abhay Charan das', 'manual'),
-# ('index', 'bonafide.guru.tex', 'Истинный гуру', 'Abhay Charan das', 'manual', False),
+# ('index', 'bonafide.guru.tex', u'Истинный Гуру', u'Abhay Charan das', 'manual'),
+# ('index', 'bonafide.guru.tex', 'Истинный Гуру', 'Abhay Charan das', 'manual', False),
 latex_documents = [
- ('index', 'bonafide.guru.tex', u'Истинный гуру', u'Ягьясена -- Прабхупа̄да дас', 'manual', False),
+ ('index', 'bonafide.guru.tex', u'Истинный Гуру', u'Ягьясена -- Прабхупа̄да дас', 'manual', False),
 ]
 
 latex_elements = {
@@ -221,7 +221,7 @@ latex_elements = {
 %%        \centering        
 %            {\tiny Ягьясена\textendash~Прабхупа̄да дас}
 %            {\textcolor{gray75}{|}}
-%            {\normalsize Истинный гуру}
+%            {\normalsize Истинный Гуру}
 %%        \endgroup
 %        \hsp\textcolor{gray75}{|}\hsp}
 %        {0pt}
@@ -234,7 +234,7 @@ latex_elements = {
 %      \normalsize
 %      \enspace  {\footnotesize Ягьясена \textendash~Прабхупа̄да дас}
 %                {\hsp\textcolor{gray75}{|}\hsp} 
-%                {Истинный гуру}  
+%                {Истинный Гуру}  
 %     \enspace}
 %    {20pt}
 %    {\Huge\bfseries\filcenter}
