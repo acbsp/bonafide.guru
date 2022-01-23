@@ -1,52 +1,54 @@
 \renewcommand{\sphinxmaketitle}{%
   \begin{titlepage}%
 
-     \itshape
-
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \pagestyle{empty}
      \begingroup
-        \centering
-        \null
-        \vfill
-        \textbf{{\Huge Истинный Гуру}} \par
-        \vfill
-        \vfill
-        \vfill
-        \vfill
-        \null
-    \endgroup
+       \centering
+       \null
+       \vfill
+       \textbf{{\Huge \BonafideGuru}} \par
+       \vfill
+       \vfill
+       \vfill
+       \vfill
+       \null
+     \endgroup
+    
+    \clearpage\null\thispagestyle{empty}
 
-  %\clearpage\null\thispagestyle{empty}
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-  \clearpage\null\thispagestyle{empty}
+    % Add empty page:
+    \cleardoublepage\null\thispagestyle{empty}
 
-  \cleardoublepage\null\thispagestyle{empty}
-
-
-    % https://sharelatex.psi.ch/learn/Font_sizes,_families,_and_styles
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     \begingroup
-    \centering
-    {\normalsize Ягьясена \textendash~Прабхупа̄да дас} \par
-    \vfill
-    \vfill
-    \vfill
-    \textbf{{\Huge Истинный Гуру}} \par
+     \centering
+      {\normalsize \Yagyasena} \par
+      \vfill
+      \vfill
+      \vfill
+      \textbf{{\Huge \BonafideGuru}} \par
     \endgroup
 
     \vfill
     \vfill
-    \bfseries 
- 
+
     \begin{changemargin}{1cm}{1cm}
+     \begingroup
+      \bfseries 
+      \itshape
 
-    Со всем смирением, на какое только способен, я припадаю
-    и приношу эту книгу, как подношение лотосным стопам нашего   
-    возлюбленного духовного учителя, к 110-летию божественного
-    явления Основателя-А̄ча̄рйи \textemdash~Его Божественной Милости Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄де. 
-    Она основана на философии и наставлениях Ш́рӣлы Прабхупа̄ды,
-    данных в Его книгах, письмах и лекциях, на
-    подлинных документах, подписанных лично Ш́рӣлой Прабхупа̄дой.
+        Со всем смирением, на какое только способен, я припадаю
+        и приношу эту книгу, как подношение лотосным стопам нашего   
+        возлюбленного духовного учителя, к 110-летию божественного
+        явления Основателя-А̄ча̄рйи \textemdash~Его Божественной Милости Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄де. 
+        Она основана на философии и наставлениях Ш́рӣлы Прабхупа̄ды,
+        данных в Его книгах, письмах и лекциях, на
+        подлинных документах, подписанных лично Ш́рӣлой Прабхупа̄дой.
 
-
+     \endgroup
     \end{changemargin}
 
     \vfill
@@ -55,46 +57,64 @@
     %\textcolor{red}{\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}}
 
     \begingroup
-    \centering
-    \large
-    Он вечно живёт \par
-    в Своих божественных \par
-    наставлениях и Его ученик \par
-    живёт вместе с Ним. \par
+     \bfseries 
+     \itshape
+     \centering
+     \large
+     %\tnrItalicfam
+     \tnrBoldfam
+
+        Он вечно живёт \par
+        в Своих божественных \par
+        наставлениях и Его ученик \par
+        живёт вместе с Ним. \par
     \endgroup
 
     \vfill
     \vfill
     \vfill
 
+    \clearpage
+    \if@openright\cleardoublepage\else\clearpage\fi
 
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    % https://sharelatex.psi.ch/learn/Font_sizes,_families,_and_styles
+    % https://ru.overleaf.com/learn/latex/Font_typefaces
+    %{\fontfamily{qcr}\selectfont \textbf{Истинный Гуру This} text uses TeX Gyre font typeface.} \par
+    %{\fontfamily{cmr}\selectfont Истинный Гуру This text uses Computer Modern Roman font typeface.} \par
+    %{\fontfamily{lmr}\selectfont Истинный Гуру This text uses Latin Modern Roman  font typeface.} \par
+    %{\fontfamily{timesbd}\selectfont Истинный Гуру This text uses Times New Roman Bold font typeface.} \par
 
+    \pagestyle{empty}
+     \null
+     \vfill
+     \begin{minipage}[b]{0.9\textwidth}
+     \footnotesize\raggedright
+     \setlength{\parskip}{0.5\baselineskip}
+     \tnrfam
 
+        \BonafideGuruN, книга, печатное издание
 
-  \clearpage
-  \if@openright\cleardoublepage\else\clearpage\fi
+        Copyright \copyright 2006\textendash \the\year\ \Yagyasena
 
+        Все права защищены. Эта книга или любая её часть не могут быть воспроизведены или использованы каким-либо образом без письменного разрешения издателя, за исключением использования кратких цитат в рецензии на книгу.
 
+        Напечатано в России.
 
-     \begingroup
-        \centering
-        \null
-        \vfill
-        \vfill
-        \vfill
-        \vfill
-        \text{{copyright Истинный Гуру 2021}} \par
-        \vfill
-        \null
-    \endgroup
+        Издание 2-е, Киев, Украина, 2022 г.
+    
+        Издание 1-е, Москва, Россия, 2018 г.
 
+        Электронная почта: yagyasena@gmail.com
 
+        Мобильная связь:   8(952) 830-00-61
 
+        www.bonafide.guru
 
+     \end{minipage}
+    \cleardoublepage
 
-
-
-
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   \end{titlepage}%
   \setcounter{footnote}{0}%
 %  \setcounter{chapter}{-1}

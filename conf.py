@@ -137,6 +137,9 @@ latex_elements = {
 %\setkeys{russian}{babelshorthands=true}
 
   \usepackage{fontspec}
+  %\setmainfont{Times New Roman}
+  %\newfontfamily\cyrillicfont{Times New Roman}
+
   \setmainfont{CharisSIL}[
    Path = /usr/share/fonts/okalash/CharisSIL-6.001/,
    Extension = .ttf,
@@ -158,6 +161,19 @@ latex_elements = {
   %\newfontfamily{\cyrillicfonttt}{CharisSIL}
   %\newfontfamily{\cyrillicfontsf}{CharisSIL}
 
+  %\newfontface\tnrfam[Scale=MatchUppercase]{FreeSerifBold}
+  \newfontface\tnrfam{Times New Roman}
+  \newfontface\tnrItalicfam{Times New Roman Italic}
+  \newfontface\tnrBoldfam{Times New Roman Bold}
+  \newcommand*\BonafideGuru{%
+    {\tnrBoldfam Истинный Гуру}%
+  }%
+  \newcommand*\BonafideGuruN{%
+    {\tnrfam Истинный Гуру}%
+  }%
+  \newcommand*\Yagyasena{%
+    {\cyrillicfont Ягьясена \textendash~Прабхупа̄да дас}%
+  }%
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
@@ -175,7 +191,7 @@ latex_elements = {
   }
 \makeatother
 
-\defaultfontfeatures{Scale=MatchLowercase, Mapping=tex-text}
+%\defaultfontfeatures{Scale=MatchLowercase, Mapping=tex-text}
 
 \addtolength{\topmargin}{-.2in}
 \addtolength{\textheight}{0.4in}
