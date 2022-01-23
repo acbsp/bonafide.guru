@@ -6627,7 +6627,7 @@ ISKCON. Именно по этой причине в последние годы
 ----
 
 
-.. tabularcolumns:: p{5cm}
+.. tabularcolumns:: p{5cm} p{5cm}
 
 .. table::
    :widths: auto
