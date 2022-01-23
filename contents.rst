@@ -6627,6 +6627,9 @@ ISKCON. Именно по этой причине в последние годы
 ----
 
 
+.. topic:: ЗАМЕТКИ
+
+
 .. tabularcolumns:: | p{5cm} |
 
 .. table::
@@ -6637,16 +6640,10 @@ ISKCON. Именно по этой причине в последние годы
    | ЗАМЕТКИ       |
    +---------------+
 
-.. topic:: ЗАМЕТКИ
 
+.. sidebar:: ЗАМЕТКИ
 
-
-.. sidebar:: Sidebar Title
-    :subtitle: Optional Sidebar Subtitle
-
-    Subsequent indented lines comprise
-    the body of the sidebar, and are
-    interpreted as body elements.
+    Место для заметок
 
 ****************************
 Глава третья
