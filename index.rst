@@ -4,6 +4,7 @@
 .. toctree::
    :maxdepth: 3
    :caption: Содержание
+   :titlesonly:
 
    contents
 
