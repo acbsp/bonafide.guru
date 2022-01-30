@@ -4,13 +4,12 @@
 .. toctree::
    :maxdepth: 3
    :caption: Содержание
-   :titlesonly:
 
    contents
 
+..
    genindex
 
-..
    :ref:`genindex`
 
  .. index:: ! Указатель
