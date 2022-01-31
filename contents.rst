@@ -1632,17 +1632,14 @@
 \"*гуру*\" и каждый из них -- \"представитель\" Кр̣шн̣ы. И такой \"представитель\"
 
 
-`*гуру*` и каждый из них -- `представитель` Кр̣шн̣ы. И такой `представитель`
+``*гуру*'' и каждый из них -- ``представитель'' Кр̣шн̣ы. И такой ``представитель''
 
 ..
 
+
 .. raw:: latex
 
-   \textquotedblleft 
-   гуру
-    \textquotedblright
-
-   и каждый из них -- \textquotedblleft  представитель \textquotedblright Кр̣шн̣ы. И такой  \textquotedblleft представитель \textquotedblright
+   \textquotedblleft гуру \textquotedblright и каждый из них -- \textquotedblleft  представитель \textquotedblright Кр̣шн̣ы. И такой  \textquotedblleft представитель \textquotedblright
 
 ..
 
