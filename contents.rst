@@ -3931,10 +3931,10 @@ TRANSLATION
 .. raw:: latex
 
    \begingroup
-    \centering
     \normalsize
     \tnrBoldfam
-    Веды советуют нам обратиться к {\tnrItalicfam истинному} духовному учителю.
+    \centering
+    Веды советуют нам обратиться к {\tnrBIfam истинному} духовному учителю.
    \endgroup
 
 *Предание себя лотосным стопам истинного духовного учителя |ШПы| --

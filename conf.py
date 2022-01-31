@@ -163,6 +163,7 @@ latex_elements = {
   \newfontface\tnrfam{Times New Roman}
   \newfontface\tnrItalicfam{Times New Roman Italic}
   \newfontface\tnrBoldfam{Times New Roman Bold}
+  \newfontface\tnrBIfam{Times New Roman Bold Italic}
   \newcommand*\BonafideGuru{%
     {\tnrBoldfam Истинный Гуру}%
   }%
