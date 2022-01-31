@@ -5,6 +5,7 @@
    :maxdepth: 3
    :caption: Содержание
 
+   contents2
    contents
 
 ..
