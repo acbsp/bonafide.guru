@@ -3932,9 +3932,9 @@ TRANSLATION
 
    \begingroup
     \centering
-    \large
-    \tnrfam
-    Веды советуют нам обратиться к \textbf{\tnrItalicfam истинному} духовному учителю.
+    \normalsize
+    \tnrBoldfam
+    Веды советуют нам обратиться к {\tnrItalicfam истинному} духовному учителю.
    \endgroup
 
 *Предание себя лотосным стопам истинного духовного учителя |ШПы| --
