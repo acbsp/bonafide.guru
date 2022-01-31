@@ -1642,10 +1642,6 @@
 
    \textquotedblleft гуру \textquotedblright и каждый из них -- \textquotedblleft  представитель \textquotedblright Кр̣шн̣ы. И такой  \textquotedblleft представитель \textquotedblright \par
 
-   ``гуру'' и каждый из них -- ``представитель'' Кр̣шн̣ы. И такой ``представитель'' \par
-
-   \lq гуру \rq и каждый из них -- \lq представитель \rq Кр̣шн̣ы. И такой \lq представитель \rq \par
-
 ..
 
 

@@ -26,6 +26,7 @@ author = 'Ягьясена -- Прабхупа̄да дас'
 release = '2022.01.22'
 
 show_authors = False
+smartquotes = True
 
 # -- General configuration ---------------------------------------------------
 

@@ -3,12 +3,14 @@
 
 # You can set these variables from the command line, and also
 # from the environment for the first two.
-SPHINXOPTS    ?=
+SPHINXOPTS    ?=            
 SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = .
 BUILDDIR      = _build
 
 #SPHINXOPTS+=-Dlatex_show_urls=footnote
+SPHINXOPTS+=-Duser_agent="test123"
+# make latex O="-D smartquotes_action=
 
 # Build pdf by default.
 latexpdf:
