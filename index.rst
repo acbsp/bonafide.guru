@@ -5,10 +5,11 @@
    :maxdepth: 3
    :caption: Содержание
 
-   contents2
    contents
 
 ..
+   contents2
+
    genindex
 
    :ref:`genindex`
