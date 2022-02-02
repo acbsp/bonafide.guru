@@ -81,7 +81,7 @@
 
 .. raw:: latex
 
-   \vspace{9pt}
+   \vspace{3pt}
 
    \begingroup
    \centering
