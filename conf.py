@@ -200,12 +200,14 @@ latex_elements = {
         \hfill\strut}
 
 
-   \newcommand\oldpilcrowfour{%
-           {\oldpilcrowfour}\,}
-   \newcommand\oldpilcrowfive{%
-           {\oldpilcrowfive}\,}
-   \newcommand\oldpilcrowsix{%
-           {\oldpilcrowsix}\,}
+   \newcommand\myoldpilcrowfour{%
+           \noindent {\oldpilcrowfour}\,}
+
+   \newcommand\myoldpilcrowfive{%
+           \noindent {\oldpilcrowfive}\,}
+
+   \newcommand\myoldpilcrowsix{%
+           \noindent {\oldpilcrowsix}\,}
 
 
 \usepackage{fancyhdr}
