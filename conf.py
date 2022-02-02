@@ -81,12 +81,14 @@ latex_elements = {
 
     # https://www.sphinx-doc.org/en/master/latex.html
     # The dimensions of the horizontal and vertical margins passed to the geometry package:
-    'sphinxsetup': 'hmargin={0.8in,0.4in}, vmargin={0.7in,0.7in}, marginpar=1in',
+    # Default: 1in,1in,0.5in
+    #'sphinxsetup': 'hmargin={0.8in,0.4in}, vmargin={0.7in,0.7in}, marginpar=1in',
+    'sphinxsetup': 'hmargin={0.5in,0.5in}, vmargin={0.5in,0.5in}',
 
     # A5 paper size
     "papersize": "a5paper",
     # Oneside pages
-    "classoptions": ",twoside",
+    #"classoptions": ",twoside",
     # Custom preamble to tune title page
 #    "preamble": preamble,
     # The font size ('10pt', '11pt' or '12pt').
@@ -99,6 +101,16 @@ latex_elements = {
     #"printindex": "",
 
     'preamble': r'''
+
+    \setlength{\headheight}{0.5in}
+    \addtolength{\topmargin}{-0.2in}
+    % A similar change would be necessary for \footskip 
+    % if the footer comes out too tall:
+    %   \footskip 
+    \usepackage{fourier-orns}
+
+%\addtolength{\topmargin}{-.2in}
+%\addtolength{\textheight}{0.4in}
 
         \usepackage{xltxtra}
         \usepackage{xunicode}
@@ -175,26 +187,50 @@ latex_elements = {
     {\cyrillicfont Ягьясена \textendash~Прабхупа̄да дас}%
   }%
 
+  \newcommand\decorCenterRuler{%
+        \hrulefill
+        \raisebox{-2.1pt}
+        {\quad\decofourleft\decotwo\decofourright\quad}%
+        \hrulefill}
+
+  \newcommand\decorCenter{%
+        \strut\hfill
+        \raisebox{-2.1pt}
+        {\quad\decofourleft\decotwo\decofourright\quad}%
+        \hfill\strut}
+
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
 \makeatletter
   \fancypagestyle{normal}{
     \fancyhf{}
-%    \fancyfoot[LE,RO]{}
-%    \fancyfoot[LO]{}
-%    \fancyfoot[RE]{}
-%    \fancyfoot[C]{\thepage} % except the center  
-    \fancyhead[LE,RO]{\thepage}
-    \renewcommand{\headrulewidth}{0.1pt}
+%%    \fancyfoot[LE,RO]{}
+%%    \fancyfoot[LO]{}
+%%    \fancyfoot[RE]{}
+%%    \fancyfoot[C]{\thepage} % except the center  
+%%    \fancyhead[LE,RO]{\thepage}
+%%    \fancyfoot[C]{\textbf{--~\thepage~--}} % except the center
+    \renewcommand{\headrulewidth}{0pt}
     \renewcommand{\footrulewidth}{0pt}
+    \renewcommand{\headrule}{} % disappear
+    \renewcommand{\footrule}{} % disappear
+    \fancyhead[LE,RO]{\textbf{\thepage}}
+%    \renewcommand\footrule{%
+%        \hrulefill
+%        \raisebox{-2.1pt}
+%        {\quad\decofourleft\decotwo\decofourright\quad}%
+%        \hrulefill}
+  }
+  \fancypagestyle{plain}{%
+    \fancyhf{}% clear all header and footer fields
+%    \fancyfoot[C]{\textbf{--~\thepage~--}} % except the center
+    \renewcommand{\headrulewidth}{0pt}%
+    \renewcommand{\footrulewidth}{0pt}%
   }
 \makeatother
 
 %\defaultfontfeatures{Scale=MatchLowercase, Mapping=tex-text}
-
-\addtolength{\topmargin}{-.2in}
-\addtolength{\textheight}{0.4in}
 
 \input{style.tex.txt}
 
@@ -203,11 +239,11 @@ latex_elements = {
 %\addtolength{\parskip}{-.3em}
 %\renewcommand{\baselinestretch}{1.5} % Line spacing -
 
-\usepackage[titles]{tocloft}
-\cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
-\setlength{\cftchapnumwidth}{0.75cm}
-\setlength{\cftsecindent}{\cftchapnumwidth}
-\setlength{\cftsecnumwidth}{1.25cm}
+%\usepackage[titles]{tocloft}
+%\cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
+%\setlength{\cftchapnumwidth}{0.75cm}
+%\setlength{\cftsecindent}{\cftchapnumwidth}
+%\setlength{\cftsecnumwidth}{1.25cm}
 
 % Зачем: Отключает использование изменяемых межсловных пробелов.
 % Почему: Так не принято делать в текстах на русском языке.

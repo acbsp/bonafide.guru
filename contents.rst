@@ -189,6 +189,7 @@
 
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 **От автора**
@@ -262,6 +263,7 @@
 
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 
@@ -438,6 +440,7 @@
 
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 
@@ -1381,6 +1384,7 @@
 
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 Истинные преданные |ШПы|
@@ -1612,6 +1616,7 @@
 
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 Самый актуальный вопрос
@@ -1813,6 +1818,7 @@
 
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 Великая удача
@@ -2008,6 +2014,7 @@
 
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 Высшая истина
@@ -2332,6 +2339,7 @@
 
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 
@@ -2521,6 +2529,7 @@
 
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 Преступление |GBC|
@@ -3611,10 +3620,9 @@ TRANSLATION
 этому никакого отношения. Оно не требуется, потому что его не может
 быть.
 
-----
-
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 
@@ -3808,6 +3816,7 @@ TRANSLATION
 
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 Философские “изыскания” Ниранджана Свами
@@ -4404,6 +4413,7 @@ TRANSLATION
 
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 Всемирное Движение |ISKCON|
@@ -5595,6 +5605,7 @@ TRANSLATION
 
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 Интервью с Ш́рӣ Баннанджем Говиндачарьей.
@@ -6068,6 +6079,7 @@ TRANSLATION
 
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 Отрывки из интервью с профессором М.А. Татачаром.
@@ -7401,6 +7413,7 @@ TRANSLATION
 
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 |ШПу| обвиняют в невнимательности
@@ -7878,6 +7891,7 @@ TRANSLATION
 
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 Самадхи греховных душ на святой земле
@@ -8054,6 +8068,7 @@ TRANSLATION
 
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 
@@ -8170,6 +8185,7 @@ TRANSLATION
 
 .. raw:: latex
 
+    \decorCenterRuler
 	\newpage
 
 Цитаты из книг, писем и бесед со |ШПой|
@@ -8681,6 +8697,7 @@ TRANSLATION
 .. raw:: latex
 
    \endgroup
+   \decorCenterRuler
    \newpage
 
 .. sidebar:: ЗАМЕТКИ

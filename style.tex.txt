@@ -53,6 +53,10 @@
     %\par\vspace{0.1cm}
     %\textcolor{red}{\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}}
 
+
+    \decorCenter
+
+
     \begingroup
      \bfseries 
      \itshape
@@ -66,6 +70,8 @@
         наставлениях и Его ученик \par
         живёт вместе с Ним. \par
     \endgroup
+    
+    \decorCenter
 
     \vfill
 
