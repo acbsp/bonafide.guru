@@ -79,12 +79,6 @@ latex_elements = {
     #'passoptionstopackages': r'\usepackage[%draft=true,pdfa=true,bookmarks=true,bookmarksopen=true,bookmarksopenlevel=1,unicode=true,pdfauthor={My Name},pdftitle={My Title}, breaklinks,hidelinks,colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}',
     'passoptionstopackages': r'\usepackage[pdfa=true,dvipdfmx-outline-open,bookmarks=true,bookmarksopen=true,bookmarksopenlevel=2,unicode=true,pdfusetitle=true,hidelinks=true,pdfkeywords={Гаўдӣйа-Ваишн̣авизм,ISKCON,Международное Общество для Осознания Кришны, Его Божественная Милость Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄да,Дӣкша̄-гуру},pdfsubject={подношение лотосным стопам нашего возлюбленного духовного учителя, к 110-летию божественного явления Основателя-А̄ча̄рйи ISKCON},]{hyperref}',
 
-    # https://www.sphinx-doc.org/en/master/latex.html
-    # The dimensions of the horizontal and vertical margins passed to the geometry package:
-    # Default: 1in,1in,0.5in
-    #'sphinxsetup': 'hmargin={0.8in,0.4in}, vmargin={0.7in,0.7in}, marginpar=1in',
-    'sphinxsetup': 'hmargin={0.5in,0.5in}, vmargin={0.5in,0.5in}',
-
     # A5 paper size
     "papersize": "a5paper",
     # Oneside pages
@@ -100,19 +94,19 @@ latex_elements = {
     # Disable Index page
     #"printindex": "",
 
+    # https://www.sphinx-doc.org/en/master/latex.html
+    # The dimensions of the horizontal and vertical margins passed to the geometry package:
+    # Default: 1in,1in,0.5in
+    #'sphinxsetup': 'hmargin={0.8in,0.4in}, vmargin={0.7in,0.7in}, marginpar=1in',
+    'sphinxsetup': 'hmargin={0.5in,0.5in}, vmargin={0.5in,0.5in}',
+
     'preamble': r'''
 
-    \setlength{\headheight}{0.5in}
-    \addtolength{\topmargin}{-0.2in}
-    % A similar change would be necessary for \footskip 
-    % if the footer comes out too tall:
-    %   \footskip 
-
-    \usepackage{fourier-orns}
-    \usepackage{pgfornament}
-
-%\addtolength{\topmargin}{-.2in}
-%\addtolength{\textheight}{0.4in}
+%    \setlength{\headheight}{36pt} %from Top to Number
+%    \addtolength{\topmargin}{-8pt}
+    \setlength{\headsep}{15pt} % 25
+    \setlength{\footskip}{20pt} % 30
+    \addtolength{\topmargin}{18pt} % 16+18
 
         \usepackage{xltxtra}
         \usepackage{xunicode}
@@ -206,6 +200,8 @@ latex_elements = {
    \newcommand\myoldpilcrowsix{%
            \noindent {\oldpilcrowsix}\,}
 
+\usepackage{fourier-orns}
+\usepackage{pgfornament}
 \usepackage{eso-pic}
 \newcommand\AtPageUpperRight[1]{\AtPageUpperLeft{%
  \put(\LenToUnit{\paperwidth},\LenToUnit{0\paperheight}){#1}%
