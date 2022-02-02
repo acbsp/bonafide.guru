@@ -448,10 +448,10 @@
 
 .. raw:: latex
 
-   \strut \par
+   \strut
    \begingroup
    \centering
-   \textbf{Ш́рӣла Прабхупа̄да̄ КИ ДЖАЯ!}
+   \textbf{Ш́рӣла Прабхупа̄да̄ ки Джая!} \par
    \endgroup
 
    \decorCenterRuler
