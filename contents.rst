@@ -81,7 +81,7 @@
 
 .. raw:: latex
 
-   \strut \par
+   \strut
    \begingroup
    \centering
 
@@ -92,6 +92,7 @@
 .. raw:: latex
 
    \endgroup
+
    \decorCenterRuler
    \newpage
 
@@ -451,7 +452,7 @@
    \strut
    \begingroup
    \centering
-   \textbf{Ш́рӣла Прабхупа̄да̄ ки Джая!} \par
+     Ш́рӣла Прабхупа̄да̄ ки Джая! \par
    \endgroup
 
    \decorCenterRuler
