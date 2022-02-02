@@ -107,7 +107,9 @@ latex_elements = {
     % A similar change would be necessary for \footskip 
     % if the footer comes out too tall:
     %   \footskip 
+
     \usepackage{fourier-orns}
+    \usepackage{pgfornament}
 
 %\addtolength{\topmargin}{-.2in}
 %\addtolength{\textheight}{0.4in}
@@ -204,6 +206,26 @@ latex_elements = {
    \newcommand\myoldpilcrowsix{%
            \noindent {\oldpilcrowsix}\,}
 
+\usepackage{eso-pic}
+\newcommand\AtPageUpperRight[1]{\AtPageUpperLeft{%
+ \put(\LenToUnit{\paperwidth},\LenToUnit{0\paperheight}){#1}%
+ }}%
+\newcommand\AtPageLowerRight[1]{\AtPageLowerLeft{%
+ \put(\LenToUnit{\paperwidth},\LenToUnit{0\paperheight}){#1}%
+ }}%
+\newcommand{\beautify}{%
+ \AddToShipoutPictureBG{%
+   \AtPageUpperLeft{\put(0,-25){\pgfornament[width=1.75cm]{61}}}
+   \AtPageUpperRight{\put(-50,-25){\pgfornament[width=1.75cm,symmetry=v]{61}}}
+   \AtPageLowerLeft{\put(0,25){\pgfornament[width=1.75cm,symmetry=h]{61}}}
+   \AtPageLowerRight{\put(-50,25){\pgfornament[width=1.75cm,symmetry=c]{61}}}
+   }
+   }
+
+\newcommand{\simplify}{%
+     \cleardoublepage\ClearShipoutPictureBG
+     %\ClearShipoutPictureBG
+   }
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}

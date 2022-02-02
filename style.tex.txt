@@ -3,6 +3,8 @@
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     \pagestyle{empty}
+
+     \beautify
      \begingroup
        \centering
        %\fbox{\phantom{\normalsize \Yagyasena}} \par
@@ -11,18 +13,22 @@
        \vspace{3cm} %3cm vertical space
        \textbf{{\Huge \BonafideGuru}} \par
      \endgroup
+
      \vfill
      \null
-    
-    \clearpage\null\thispagestyle{empty}
+
+     \clearpage\null\thispagestyle{empty}
+     \simplify  % with cleardoublepage
+
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
     % Add empty page:
-    \cleardoublepage\null\thispagestyle{empty}
+%    \cleardoublepage\null\thispagestyle{empty}
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     \pagestyle{empty}
+     \beautify
      \begingroup
       \centering
        {\normalsize \Yagyasena} \par
@@ -30,13 +36,21 @@
        \textbf{{\Huge \BonafideGuru}} \par
      \endgroup
 
-     \vspace{3cm} %3cm vertical space
+%     \vspace{3cm} %3cm vertical space
+     \vspace{1cm} %1cm vertical space
+     
+
+     \begingroup
+      \centering
+        \strut\hfill {\pgfornament[scale=.35]{72}\pgfornament[scale=.35]{73}} \hfill\strut
+     \endgroup
+
+     \vspace{1cm} %1cm vertical space
 
     \begin{changemargin}{1cm}{1cm}
      \begingroup
       \bfseries 
       \itshape
-
 
         Со всем смирением, на какое только способен, я припадаю
         и приношу эту книгу, как подношение лотосным стопам нашего   
@@ -114,7 +128,8 @@
         www.bonafide.guru
 
      \end{minipage}
-    \cleardoublepage
+    %\cleardoublepage
+    \simplify  % with cleardoublepage
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   \end{titlepage}%
