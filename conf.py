@@ -192,20 +192,15 @@ latex_elements = {
         \raisebox{-2.1pt}
         {\quad\decofourleft\decotwo\decofourright\quad}%
         \hrulefill}
-
   \newcommand\decorCenter{%
         \strut\hfill
         \raisebox{-2.1pt}
         {\quad\decofourleft\decotwo\decofourright\quad}%
         \hfill\strut}
-
-
    \newcommand\myoldpilcrowfour{%
            \noindent {\oldpilcrowfour}\,}
-
    \newcommand\myoldpilcrowfive{%
            \noindent {\oldpilcrowfive}\,}
-
    \newcommand\myoldpilcrowsix{%
            \noindent {\oldpilcrowsix}\,}
 
