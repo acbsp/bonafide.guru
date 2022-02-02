@@ -450,7 +450,9 @@
 
 .. raw:: latex
 
-   \strut
+   \vspace{3pt}
+   %\strut
+
    \begingroup
    \centering
      Ш́рӣла Прабхупа̄да̄ ки Джая! \par
