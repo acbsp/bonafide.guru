@@ -28,7 +28,6 @@
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     \pagestyle{empty}
-     \beautify
      \begingroup
       \centering
        {\normalsize \Yagyasena} \par
@@ -128,8 +127,7 @@
         www.bonafide.guru
 
      \end{minipage}
-    %\cleardoublepage
-    \simplify  % with cleardoublepage
+    \cleardoublepage
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   \end{titlepage}%
