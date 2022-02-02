@@ -92,7 +92,8 @@
 .. raw:: latex
 
    \endgroup
-   \strut \par
+   \decorCenterRuler
+   \newpage
 
 ..
 
@@ -199,11 +200,6 @@
  p\u{o}p\u{u}lus
  a § b
 
-
-.. raw:: latex
-
-    \decorCenterRuler
-	\newpage
 
 **От автора**
 
@@ -457,14 +453,9 @@
    \centering
    \textbf{Ш́рӣла Прабхупа̄да̄ КИ ДЖАЯ!}
    \endgroup
-   \strut \par
 
-..
-
-.. raw:: latex
-
-    \decorCenterRuler
-	\newpage
+   \decorCenterRuler
+   \newpage
 
 
 ..
