@@ -81,8 +81,9 @@
 
 .. raw:: latex
 
+   \strut \par
    \begingroup
-    \centering
+   \centering
 
 *Харе Кр̣шн̣а, Харе Кр̣шн̣а, Кр̣шн̣а Кр̣шн̣а, Харе Харе*
 
