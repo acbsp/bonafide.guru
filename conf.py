@@ -199,6 +199,15 @@ latex_elements = {
         {\quad\decofourleft\decotwo\decofourright\quad}%
         \hfill\strut}
 
+
+   \newcommand\oldpilcrowfour{%
+           {\oldpilcrowfour}\,}
+   \newcommand\oldpilcrowfive{%
+           {\oldpilcrowfive}\,}
+   \newcommand\oldpilcrowsix{%
+           {\oldpilcrowsix}\,}
+
+
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
