@@ -21,7 +21,7 @@
 
 .. raw:: latex
 
-   \fontfamily{qcr}\selectfont
+   \fontfamily{FreeSans}\selectfont
 
 
 **ОБРАЩЕНИЕ**
