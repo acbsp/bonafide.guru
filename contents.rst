@@ -21,7 +21,7 @@
 
 .. raw:: latex
 
-   \allsectionsfont{\sffamily}
+   \sffamily
 
  
 .. \fontfamily{FreeSans}\selectfont
@@ -104,7 +104,7 @@
 
    \endgroup
 
-   \allsectionsfont{\rmfamily}
+   \rmfamily
 
    \decorCenterRuler
    \newpage
