@@ -161,12 +161,12 @@ latex_elements = {
 
   \setromanfont{CharisSIL}
   \setsansfont{CharisSIL}
-  \setmonofont{CharisSIL}
+  %\setmonofont{DejaVuSansMono-BoldOblique}
 
   \newfontfamily{\cyrillicfont}{CharisSIL}
   \newfontfamily{\cyrillicfontrm}{CharisSIL}
-  \newfontfamily{\cyrillicfonttt}{CharisSIL}
   \newfontfamily{\cyrillicfontsf}{CharisSIL}
+  %\newfontfamily{\cyrillicfonttt}{DejaVuSansMono-BoldOblique}
 
   %\newfontface\fsfam{FreeSans}
   %\newfontface\fsItalicfam{FreeSansOblique}
