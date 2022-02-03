@@ -77,7 +77,7 @@ latex_elements = {
     #'passoptionstopackages': r'\usepackage[pdfusetitle,hidelinks,unicode]{hyperref}',
     #'passoptionstopackages': r'\usepackage[pdfusetitle,unicode,xetex,bookmarks=true,colorlinks=true,linkcolor=headernfooter,urlcolor=headernfooter,linktoc=section,]{hyperref}',
     #'passoptionstopackages': r'\usepackage[%draft=true,pdfa=true,bookmarks=true,bookmarksopen=true,bookmarksopenlevel=1,unicode=true,pdfauthor={My Name},pdftitle={My Title}, breaklinks,hidelinks,colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}',
-    'passoptionstopackages': r'\usepackage[pdfa=true,dvipdfmx-outline-open,bookmarks=true,bookmarksopen=true,bookmarksopenlevel=2,unicode=true,pdfusetitle=true,hidelinks=true,pdfkeywords={Гаўдӣйа-Ваишн̣авизм,ISKCON,Международное Общество для Осознания Кришны, Его Божественная Милость Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄да,Дӣкша̄-гуру},pdfsubject={подношение лотосным стопам нашего возлюбленного духовного учителя, к 110-летию божественного явления Основателя-А̄ча̄рйи ISKCON},]{hyperref}',
+    'passoptionstopackages': r'\usepackage[pdfa=true,dvipdfmx-outline-open,bookmarks=true,bookmarksopen=true,bookmarksopenlevel=2,unicode=true,pdfusetitle=true,hidelinks=true,pdfkeywords={Гаўдӣйа-Ваишн̣авизм, ISKCON,Международное Общество для Осознания Кришны, Его Божественная Милость Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄да, Дӣкша̄-гуру},pdfsubject={подношение лотосным стопам Основателя-А̄ча̄рйи ISKCON Его Божественной Милости Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Ш́рӣлы Прабхупа̄ды},]{hyperref}',
 
     # A5 paper size
     "papersize": "a5paper",
@@ -233,18 +233,12 @@ latex_elements = {
 \fancyhf{}
 \makeatletter
   \fancypagestyle{normal}{
-    \fancyhf{}
-%%    \fancyfoot[LE,RO]{}
-%%    \fancyfoot[LO]{}
-%%    \fancyfoot[RE]{}
-%%    \fancyfoot[C]{\thepage} % except the center  
-%%    \fancyhead[LE,RO]{\thepage}
-%%    \fancyfoot[C]{\textbf{--~\thepage~--}} % except the center
+    \fancyhf{}% clear all header and footer fields
     \renewcommand{\headrulewidth}{0pt}
     \renewcommand{\footrulewidth}{0pt}
     \renewcommand{\headrule}{} % disappear
     \renewcommand{\footrule}{} % disappear
-    \fancyhead[LE,RO]{\textbf{\thepage}}
+    \fancyhead[LE,RO]{\thepage}
 %    \renewcommand\footrule{%
 %        \hrulefill
 %        \raisebox{-2.1pt}

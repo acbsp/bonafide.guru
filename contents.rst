@@ -10,6 +10,19 @@
     Ш́рӣла Бхактисиддха̄нта Сарасватӣ Т̣ха̄кура
 
 ..      
+    \ backslash
+    ` backtick
+    * asterisk
+    _ underscore
+    {} curly braces
+    [] square brackets
+    () parentheses
+    # hash mark
+    + plus sign
+    - minus sign (hyphen)
+    . dot
+    ! exclamation mark
+
  "гуру" 
  'гуру'   - not used
  \"гуру\" 
@@ -148,41 +161,6 @@
 
   -- Jo the Jovyan
 
-  Here is a cool quotation 2.
-
-  -- Jo the Jovyan2
-
- .. compound::
-
-   The 'rm' command is very dangerous.  If you are logged
-   in as root and enter ::
-
-       cd /
-       rm -rf *
-
-   you will erase the entire contents of your file system.
-
-
- This is an ordinary paragraph, introducing a block quote.
-
-    "It is my business to know things.  That is my trade."
-
-    -- Sherlock Holmes
-
- The 'rm' command is very dangerous.  If you are logged  in as root and enter
-
- ::
-
-  cd /
-  rm -rf *
-
- you will erase the entire contents of your file system.
-
- ра̄ма Ра̄ма
-
- ..    {\MU{\d{а}}}
-    \MU{\d{а}}
-
  Hindi: \texthindi{हिन्दी}
 
  Sanskrit: \textsanskrit{संस्कृतम्}
@@ -204,45 +182,12 @@
 
  .. .. only:: builder_html
 
-   See :download:`this example script <../example.py>`.
-
- Ask a question on `my favorite Q&A website <http://stackoverflow.com/>`_.
-
- It refers to the section itself, see :ref:`my-reference-label`.
- :index:`term_3`
-   definition for an indexed term3
-
- Example of using term :term:`term_3` .
-
  .. math::
   :label: myequation
 
   a^2 + b^2 = c^2
 
  :abbr:LIFO is here.
-
- .. raw:: latex
-
-    \d{а}
-
-    \={а}
-
- 1 ā
- 2 *ā*
- 3 ṛ
- 4 *ṛ*
-
-
- *hare	kṛṣṇa,	hare	kṛṣṇa,	kṛṣṇa	kṛṣṇa,	hare	hare*
-
- *hare	rāma,	hare	rāma,	rāma	rāma,	hare	hare.*
-
-
-.. The :py:func:`enumerate` function can be used for ...
-.. 5 ṣ
- 6 ṇ
- p\u{o}p\u{u}lus
- a § b
 
 
 **От автора**
@@ -289,6 +234,9 @@
 
  Сейчас мир заполнили *асуры*, рядящиеся в одежды политиков, **гуру**,
  **садху**, йогов и воплощений Бога.
+
+ Сейчас мир заполнили *асуры*, рядящиеся в одежды политиков, ``гуру``,
+ ``садху``, йогов и воплощений Бога.
 
  --Ш́рӣмад-Бха̄гаватам 10.3.21 комментарий
 
