@@ -168,6 +168,11 @@ latex_elements = {
   %\newfontfamily{\cyrillicfonttt}{CharisSIL}
   %\newfontfamily{\cyrillicfontsf}{CharisSIL}
 
+  \newfontface\fsfam{FreeSans}
+  \newfontface\fsItalicfam{FreeSans Italic}
+  \newfontface\fsBoldfam{FreeSans Bold}
+  \newfontface\fsBIfam{FreeSans Bold Italic}
+
   %\newfontface\tnrfam[Scale=MatchUppercase]{FreeSerifBold}
   \newfontface\tnrfam{Times New Roman}
   \newfontface\tnrItalicfam{Times New Roman Italic}

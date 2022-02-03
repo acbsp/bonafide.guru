@@ -19,11 +19,11 @@
 Введение
 ****************************
 
-.. . 
- raw:: latex
+.. raw:: latex
 
- \fontfamily{FreeSans}\selectfont
-
+   \fsfam
+ 
+.. \fontfamily{FreeSans}\selectfont
  \fontfamily{CharisSIL}\selectfont
 
 
