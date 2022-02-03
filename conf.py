@@ -254,7 +254,7 @@ latex_elements = {
   }
 \makeatother
 
-%\defaultfontfeatures{Scale=MatchLowercase, Mapping=tex-text}
+\defaultfontfeatures{Scale=MatchLowercase, Mapping=tex-text}
 
 \input{style.tex.txt}
 
