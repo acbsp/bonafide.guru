@@ -24,6 +24,8 @@
 
  \fontfamily{FreeSans}\selectfont
 
+ \fontfamily{CharisSIL}\selectfont
+
 
 **ОБРАЩЕНИЕ**
 
@@ -86,8 +88,6 @@
 Нитьянанде, Ш́рӣ Адвайте, Гададхаре, Ш́рӣвасу и всем Их последователям".
 
 .. raw:: latex
-
-   \fontfamily{CharisSIL}\selectfont
 
    \vspace{3pt}
 
