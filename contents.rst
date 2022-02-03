@@ -9,7 +9,7 @@
     Ш́рӣле Прабхупа̄де Бхактисиддха̄нте Сарасватӣ Госва̄мӣ Маха̄ра̄дже
     Ш́рӣла Бхактисиддха̄нта Сарасватӣ Т̣ха̄кура
 
-.. .. _my-reference-label:
+..      
  "гуру" 
  'гуру'   - not used
  \"гуру\" 
@@ -21,14 +21,10 @@
 
 .. raw:: latex
 
+   % Change fontfamily to Sans for this page
    \sffamily
 
  
-.. \fontfamily{FreeSans}\selectfont
- \fontfamily{CharisSIL}\selectfont
-   \fsfam
-
-
 **ОБРАЩЕНИЕ**
 
  Дорогие преданные! Дорогие читатели!
@@ -104,6 +100,7 @@
 
    \endgroup
 
+   % Change fontfamily back to Roman
    \rmfamily
 
    \decorCenterRuler
