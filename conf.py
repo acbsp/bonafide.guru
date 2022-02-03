@@ -160,13 +160,13 @@ latex_elements = {
   ]
 
   \setromanfont{CharisSIL}
-  %\setsansfont{CharisSIL}
-  %\setmonofont{CharisSIL}
+  \setsansfont{CharisSIL}
+  \setmonofont{CharisSIL}
 
   \newfontfamily{\cyrillicfont}{CharisSIL}
   \newfontfamily{\cyrillicfontrm}{CharisSIL}
-  %\newfontfamily{\cyrillicfonttt}{CharisSIL}
-  %\newfontfamily{\cyrillicfontsf}{CharisSIL}
+  \newfontfamily{\cyrillicfonttt}{CharisSIL}
+  \newfontfamily{\cyrillicfontsf}{CharisSIL}
 
   %\newfontface\fsfam{FreeSans}
   %\newfontface\fsItalicfam{FreeSansOblique}
