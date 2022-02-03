@@ -21,10 +21,12 @@
 
 .. raw:: latex
 
-   \fsfam
+   \allsectionsfont{\sffamily}
+
  
 .. \fontfamily{FreeSans}\selectfont
  \fontfamily{CharisSIL}\selectfont
+   \fsfam
 
 
 **ОБРАЩЕНИЕ**
@@ -101,6 +103,8 @@
 .. raw:: latex
 
    \endgroup
+
+   \allsectionsfont{\rmfamily}
 
    \decorCenterRuler
    \newpage

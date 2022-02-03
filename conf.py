@@ -169,9 +169,9 @@ latex_elements = {
   %\newfontfamily{\cyrillicfontsf}{CharisSIL}
 
   \newfontface\fsfam{FreeSans}
-  \newfontface\fsItalicfam{FreeSans Italic}
-  \newfontface\fsBoldfam{FreeSans Bold}
-  \newfontface\fsBIfam{FreeSans Bold Italic}
+  \newfontface\fsItalicfam{FreeSansOblique}
+  \newfontface\fsBoldfam{FreeSansBold}
+  \newfontface\fsBIfam{FreeSansBoldOblique}
 
   %\newfontface\tnrfam[Scale=MatchUppercase]{FreeSerifBold}
   \newfontface\tnrfam{Times New Roman}
