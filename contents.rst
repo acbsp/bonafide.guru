@@ -2641,7 +2641,7 @@
 втором издании "Бхагавад-гӣты" по указанию |GBC| сделано более ста
 изменений и дополнений без каких-либо авторитетных санкций. А в третьем
 издании "Бхагавад-гӣты" 2001 года сделано столько изменений и
-дополнений, что её уже нельзя назвать "Бхагавад-гӣта̄ Как Она Есть".
+дополнений, что её уже нельзя назвать "Бхагавад-гӣта̄ **Как Она Есть**".
 Очень много изменений в комментариях |ШПы| и в переводах
 санскритских текстов.
 
@@ -2659,7 +2659,7 @@
 
 SYNONYMS
 
-*tat — that knowledge of different sacrifices; viddhi — try to understand; praṇipātena — by approaching a spiritual master; paripraśnena — by submissive inquiries; sevayā — by the rendering of service; upadekṣyanti —*\ **they will initiate; te — you; jñānam — into knowledge**\ *; jñāninaḥ — the self-realized; tattva —*\ **of the truth**\ *; darśinaḥ — seers.*
+*tat — that knowledge of different sacrifices; viddhi — try to understand; praṇipātena — by approaching a spiritual master; paripraśnena — by submissive inquiries; sevayā — by the rendering of service; upadekṣyanti —*\ **they will initiate**\ *; te — you; jñānam — into knowledge; jñāninaḥ — the self-realized; tattva — of the truth; darśinaḥ — seers.*
 
 TRANSLATION
 
@@ -2670,7 +2670,7 @@ TRANSLATION
 Перевод:
 
  Попытайся узнать Истину, обратившись к Духовному Учителю. Вопрошай его
- смиренно и служи ему. Самореализованные души способны дать тебе знание,
+ смиренно и служи ему. Самореализованные **души** способны дать тебе знание,
  ибо **они** видят истину.
 
 Представляем подлинный стих "Бхагавад-гӣты" 4.34, 1972 года выпуска:
@@ -2681,7 +2681,7 @@ TRANSLATION
 
 SYNONYMS
 
-*tat — that knowledge of different sacrifices; viddhi — try to understand; praṇipātena — by approaching a spiritual master; paripraśnena — by submissive inquiries; sevayā — by the rendering of service; upadekṣyanti —*\ **initiate**\ *; te —*\ **unto you; jñānam — knowledge**\ *; jñāninaḥ — the self-realized; tattva —*\ **truth**\ *; darśinaḥ — the seers.*
+*tat — that knowledge of different sacrifices; viddhi — try to understand; praṇipātena — by approaching a spiritual master; paripraśnena — by submissive inquiries; sevayā — by the rendering of service; upadekṣyanti —*\ **initiate**\ *; te — unto you; jñānam — knowledge; jñāninaḥ — the self-realized; tattva — truth; darśinaḥ — the seers.*
 
 
 TRANSLATION
@@ -2693,14 +2693,14 @@ TRANSLATION
 Перевод:
 
  Попытайся узнать Истину, обратившись к Духовному Учителю. Вопрошай его
- смиренно и служи ему. Самореализованная душа способна дать тебе знание,
+ смиренно и служи ему. Самореализованная **душа** способна дать тебе знание,
  ибо **она** видит истину.
 
-В дословном переводе этого стиха санскритское слово *upadeksyanti* --
+В дословном переводе этого стиха санскритское слово \"*upadeksyanti*\" --
 **initiate**, что буквально переводится как -- \"проявлять инициативу\",
-или, по-другому говоря -- \"быть способным\", перевели как множественное
+или, по-другому говоря -- "быть способным", перевели как множественное
 число, добавив слова -- \"**they will**\" к слову
-\"**initiate**\", что означает -- они способны. А в литературном
+\"**initiate**\", что означает -- "**они способны**". А в литературном
 переводе, слово \"**она**\", то есть душа (ед. число), заменили на
 слово \"**они**\" (мн. число). Вот так они обманывают простодушных
 людей, изменяя священные писания, приспосабливая их к своей измышлённой
@@ -2713,14 +2713,14 @@ TRANSLATION
 Представляем вторую версию измененного стиха "Бхагавад-гӣты" 4.34 2001 года выпуска, Русское издание:
 
  Чтобы узнать истину, вручи себя духовному учителю. Вопрошай его смиренно
- и служи ему. Осознавшие себя души могут дать тебе знание, ибо они узрели
+ и служи ему. Осознавшие себя души могут дать тебе знание, **ибо они узрели**
  истину.
 
 Представляем третью версию измененного стиха "Бхагавад-гӣты" 4.34:
 
  Попытайся узнать истину, обратившись к духовному учителю. Вопрошай его
- со смирением и служи ему. Осознавшие себя души способны открыть тебе
- знание, ибо сами они уже постигли его.
+ со смирением и служи ему. Осознавшие себя души способны **открыть** тебе
+ знание, **ибо сами они уже постигли его**.
 
 Представляем вашему вниманию небольшой абзац изменённого комментария
 |ШПы| к стиху 4.34, где было добавлено целое предложение,
@@ -2733,9 +2733,9 @@ TRANSLATION
 
 Представляем изменённый комментарий "Бхагавад-гӣты" 4.34 после 1972 года:
 
- ...Therefore, mental speculation or dry arguments cannot help lead one to
+ ...Therefore, mental speculation or dry arguments cannot help **lead one to
  the right path. Nor by independent study of books of knowlege can
- approach a bona fide spiritual life. One has to approach a bona fide
+ approach a bona fide spiritual life**. One has to approach a bona fide
  spiritual master to receive the knowledge...
 
 Перевод:
@@ -2754,7 +2754,7 @@ TRANSLATION
 Перевод:
 
  ...Поэтому мыслительные спекуляции или сухие доводы не смогут помочь
- прогрессировать в духовной жизни. Чтобы получить знание, следует
+ **прогрессировать в духовной жизни**. Чтобы получить знание, следует
  обратиться к истинному духовному учителю...
 
 Вот что говорит Cам |ШПа|:
