@@ -2677,7 +2677,7 @@
   *upadekṣyanti te jñānaṁ jñāninas tattva-darśinaḥ*
 
  SYNONYMS
- *tat — that knowledge of different sacrifices; viddhi — try to understand; praṇipātena — by approaching a spiritual master; paripraśnena — by submissive inquiries; sevayā — by the rendering of service; upadekṣyanti —*\ **initiate**\ *; te — unto you; jñānam — knowledge; jñāninaḥ — the self-realized; tattva — truth; darśinaḥ — the seers.*
+  *tat — that knowledge of different sacrifices; viddhi — try to understand; praṇipātena — by approaching a spiritual master; paripraśnena — by submissive inquiries; sevayā — by the rendering of service; upadekṣyanti —*\ **initiate**\ *; te — unto you; jñānam — knowledge; jñāninaḥ — the self-realized; tattva — truth; darśinaḥ — the seers.*
 
 
  TRANSLATION
