@@ -8780,8 +8780,9 @@
 
    Место для ваших заметок.
 
-.. raw:: latex
+..  
+   raw:: latex
 
-    % Add empty page:
-    \clearpage\null\thispagestyle{empty}
+   % Add empty page:
+   \clearpage\null\thispagestyle{empty}
 
