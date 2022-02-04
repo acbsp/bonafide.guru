@@ -268,11 +268,6 @@ latex_elements = {
 %\setlength{\cftsecindent}{\cftchapnumwidth}
 %\setlength{\cftsecnumwidth}{1.25cm}
 
-% Зачем: Отключает использование изменяемых межсловных пробелов.
-% Почему: Так не принято делать в текстах на русском языке.
-\frenchspacing
-
-
 % It is my code:
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
 \let\endchangemargin=\endlist
