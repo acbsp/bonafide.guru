@@ -4147,13 +4147,13 @@
 
   \textbf{Примечание:} С каких это пор слово "henceforward" означает "отныне и до тех пор, пока" ?
 
-  \vspace{3pt} % vertical space
+  \vspace{4pt} % vertical space
 
   \texttt{henceforward [hεns'fɔːwəd] с этого момента, впредь}
 
   \hspace{\fill} \texttt{(~Англо-Русский словарь~)}
 
-  \vspace{3pt} % vertical space
+  \vspace{4pt} % vertical space
 
   Удивительно, но факт \textendash~эти самозванные \emph{гуру} готовы
   любой ценой, даже ценой таких нелепых утверждений, отстаивать своё
