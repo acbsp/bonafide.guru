@@ -9,7 +9,7 @@ SOURCEDIR     = .
 BUILDDIR      = _build
 
 #SPHINXOPTS+=-Dlatex_show_urls=footnote
-SPHINXOPTS+=-Duser_agent="test123"
+#SPHINXOPTS+=-Duser_agent="test123"
 # make latex O="-D smartquotes_action=
 
 # Build pdf by default.
