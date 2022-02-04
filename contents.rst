@@ -2653,48 +2653,42 @@
 
 Представляем измененный стих "Бхагавад-гӣты" 4.34 после 1972 года выпуска.
 
- *tad viddhi praṇipātena paripraśnena sevayā*
+  *tad viddhi praṇipātena paripraśnena sevayā*
 
- *upadekṣyanti te jñānaṁ jñāninas tattva-darśinaḥ*
+  *upadekṣyanti te jñānaṁ jñāninas tattva-darśinaḥ*
 
-SYNONYMS
+ SYNONYMS
+  *tat — that knowledge of different sacrifices; viddhi — try to understand; praṇipātena — by approaching a spiritual master; paripraśnena — by submissive inquiries; sevayā — by the rendering of service; upadekṣyanti —*\ **they will initiate**\ *; te — you; jñānam — into knowledge; jñāninaḥ — the self-realized; tattva — of the truth; darśinaḥ — seers.*
 
-*tat — that knowledge of different sacrifices; viddhi — try to understand; praṇipātena — by approaching a spiritual master; paripraśnena — by submissive inquiries; sevayā — by the rendering of service; upadekṣyanti —*\ **they will initiate**\ *; te — you; jñānam — into knowledge; jñāninaḥ — the self-realized; tattva — of the truth; darśinaḥ — seers.*
+ TRANSLATION
+  Just try to learn the truth by approaching a spiritual master. Inquire
+  from him submissively and render service unto him. The self-realized
+  **souls** can impart knowledge unto you because **they have** seen the truth.
 
-TRANSLATION
-
- Just try to learn the truth by approaching a spiritual master. Inquire
- from him submissively and render service unto him. The self-realized
- **souls** can impart knowledge unto you because **they have** seen the truth.
-
-Перевод:
-
- Попытайся узнать Истину, обратившись к Духовному Учителю. Вопрошай его
- смиренно и служи ему. Самореализованные **души** способны дать тебе знание,
- ибо **они** видят истину.
+ Перевод:
+  Попытайся узнать Истину, обратившись к Духовному Учителю. Вопрошай его
+  смиренно и служи ему. Самореализованные **души** способны дать тебе знание,
+  ибо **они** видят истину.
 
 Представляем подлинный стих "Бхагавад-гӣты" 4.34, 1972 года выпуска:
 
- *tad viddhi praṇipātena paripraśnena sevayā*
+  *tad viddhi praṇipātena paripraśnena sevayā*
 
- *upadekṣyanti te jñānaṁ jñāninas tattva-darśinaḥ*
+  *upadekṣyanti te jñānaṁ jñāninas tattva-darśinaḥ*
 
-SYNONYMS
+ SYNONYMS
+ *tat — that knowledge of different sacrifices; viddhi — try to understand; praṇipātena — by approaching a spiritual master; paripraśnena — by submissive inquiries; sevayā — by the rendering of service; upadekṣyanti —*\ **initiate**\ *; te — unto you; jñānam — knowledge; jñāninaḥ — the self-realized; tattva — truth; darśinaḥ — the seers.*
 
-*tat — that knowledge of different sacrifices; viddhi — try to understand; praṇipātena — by approaching a spiritual master; paripraśnena — by submissive inquiries; sevayā — by the rendering of service; upadekṣyanti —*\ **initiate**\ *; te — unto you; jñānam — knowledge; jñāninaḥ — the self-realized; tattva — truth; darśinaḥ — the seers.*
 
+ TRANSLATION
+  Just try to learn the truth by approaching a spiritual master. Inquire
+  from him submissively and render service unto him. The self-realized
+  **soul** can impart knowledge unto you because **he has** seen the truth.
 
-TRANSLATION
-
- Just try to learn the truth by approaching a spiritual master. Inquire
- from him submissively and render service unto him. The self-realized
- **soul** can impart knowledge unto you because **he has** seen the truth.
-
-Перевод:
-
- Попытайся узнать Истину, обратившись к Духовному Учителю. Вопрошай его
- смиренно и служи ему. Самореализованная **душа** способна дать тебе знание,
- ибо **она** видит истину.
+ Перевод:
+  Попытайся узнать Истину, обратившись к Духовному Учителю. Вопрошай его
+  смиренно и служи ему. Самореализованная **душа** способна дать тебе знание,
+  ибо **она** видит истину.
 
 В дословном переводе этого стиха санскритское слово \"*upadeksyanti*\" --
 **initiate**, что буквально переводится как -- \"проявлять инициативу\",
