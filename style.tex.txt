@@ -8,7 +8,7 @@
      \begingroup
        \centering
        %\fbox{\phantom{\normalsize \Yagyasena}} \par
-       \phantom{\normalsize \Yagyasena} \par
+       %\phantom{\normalsize \Yagyasena} \par
        \phantom{\normalsize \Yagyasena} \par
        \vspace{3cm} %3cm vertical space
        \textbf{{\Huge \BonafideGuru}} \par
