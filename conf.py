@@ -62,7 +62,6 @@ latex_use_xindy = True
 
 text_add_secnumbers = False
 
-
 latex_engine = 'xelatex'
 
 # Grouping the document tree into LaTeX files. List of tuples# (source start file, target name, title, author, documentclass [howto/manual]).
@@ -73,10 +72,6 @@ latex_documents = [
 ]
 
 latex_elements = {
-    # 'passoptionstopackages': r'\usepackage{fancybox}',
-    #'passoptionstopackages': r'\usepackage[pdfusetitle,hidelinks,unicode]{hyperref}',
-    #'passoptionstopackages': r'\usepackage[pdfusetitle,unicode,xetex,bookmarks=true,colorlinks=true,linkcolor=headernfooter,urlcolor=headernfooter,linktoc=section,]{hyperref}',
-    #'passoptionstopackages': r'\usepackage[%draft=true,pdfa=true,bookmarks=true,bookmarksopen=true,bookmarksopenlevel=1,unicode=true,pdfauthor={My Name},pdftitle={My Title}, breaklinks,hidelinks,colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}',
     'passoptionstopackages': r'\usepackage[pdfa=true,dvipdfmx-outline-open,bookmarks=true,bookmarksopen=true,bookmarksopenlevel=2,unicode=true,pdfusetitle=true,hidelinks=true,pdfkeywords={Гаўдӣйа-Ваишн̣авизм, ISKCON,Международное Общество для Осознания Кришны, Его Божественная Милость Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄да, Дӣкша̄-гуру},pdfsubject={подношение лотосным стопам Основателя-А̄ча̄рйи ISKCON Его Божественной Милости Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Ш́рӣлы Прабхупа̄ды},]{hyperref}',
 
     # A5 paper size
@@ -97,55 +92,64 @@ latex_elements = {
     # https://www.sphinx-doc.org/en/master/latex.html
     # The dimensions of the horizontal and vertical margins passed to the geometry package:
     # Default: 1in,1in,0.5in
-    #'sphinxsetup': 'hmargin={0.8in,0.4in}, vmargin={0.7in,0.7in}, marginpar=1in',
     'sphinxsetup': 'hmargin={0.5in,0.5in}, vmargin={0.5in,0.5in}',
 
     'preamble': r'''
-
-%    \setlength{\headheight}{36pt} %from Top to Number
-%    \addtolength{\topmargin}{-8pt}
-    \setlength{\headsep}{15pt} % 25
-    \setlength{\footskip}{20pt} % 30
-    \addtolength{\topmargin}{18pt} % 16+18
+        \setlength{\headsep}{15pt} % 25
+        \setlength{\footskip}{20pt} % 30
+        \addtolength{\topmargin}{18pt} % 16+18
 
         \usepackage{xltxtra}
         \usepackage{xunicode}
-
-%\setmainlanguage[babelshorthands=true]{russian}
-%\setotherlanguage{english}
-
-%\defaultfontfeatures{Ligatures=TeX,Renderer=Basic}
-%\setmainfont{Times New Roman}
-%\newfontfamily\cyrillicfonttt{Times New Roman}
-%\newfontfamily\cyrillicfont{Times New Roman}
-
-%\usepackage{comment}
-%\usepackage{float}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % The first part is used for the ebook, 
 %  the second part for your PDF file !!
 \ifdefined\HCode
- \usepackage[russian]{babel}
- \usepackage[T1]{fontenc}
- \usepackage[utf8]{inputenc}
-% \usepackage{tex4ebook}
+  \usepackage[russian]{babel}
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  %\usepackage{tex4ebook}
 
   \usepackage{alternative4ht}
   \altusepackage{fontspec}
  
- \else
+\else
 
   \usepackage{polyglossia}
   \setdefaultlanguage{russian}
   \setotherlanguages{english}
-%\setotherlanguages{english,hindi,sanskrit}
-%\newfontfamily\devanagarifont[Script=Devanagari]{Lohit Devanagari}
-%\setkeys{russian}{babelshorthands=true}
+  %\setotherlanguages{english,hindi,sanskrit}
+  %\newfontfamily\devanagarifont[Script=Devanagari]{Lohit Devanagari}
+  %\setkeys{russian}{babelshorthands=true}
 
   \usepackage{fontspec}
   %\setmainfont{Times New Roman}
   %\newfontfamily\cyrillicfont{Times New Roman}
+
+ \setmainfont{FreeMono}[
+   Path = /usr/share/fonts/truetype/freefont/,
+   Extension = .ttf,
+   UprightFont = *,
+   %-- Upright --%
+   FontFace={m}{n}{Font=*},
+   FontFace={b}{n}{Font=*Bold},
+   % %-- Italic --%
+   FontFace={m}{it}{Font=*Oblique},
+   FontFace={b}{it}{Font=*BoldOblique},
+  ]
+
+ \setmainfont{Andika}[
+   Path = /usr/share/fonts/okalash/Andika-6.001/,
+   Extension = .ttf,
+   UprightFont = *-Regular,
+   %-- Upright --%
+   FontFace={m}{n}{Font=*-Regular},
+   FontFace={b}{n}{Font=*-Bold},
+   % %-- Italic --%
+   FontFace={m}{it}{Font=*-Italic},
+   FontFace={b}{it}{Font=*-BoldItalic},
+  ]
 
   \setmainfont{CharisSIL}[
    Path = /usr/share/fonts/okalash/CharisSIL-6.001/,
@@ -160,14 +164,14 @@ latex_elements = {
   ]
 
   \setromanfont{CharisSIL}
-  \setsansfont{DejaVuSans}
-  \setmonofont{DejaVuSansMono}
+  \setsansfont{Andika}
+  \setmonofont{FreeMono}
   %\setmonofont{DejaVuSansMono-BoldOblique}
 
   \newfontfamily{\cyrillicfont}{CharisSIL}
   \newfontfamily{\cyrillicfontrm}{CharisSIL}
-  \newfontfamily{\cyrillicfontsf}{DejaVuSans}
-  \newfontfamily{\cyrillicfonttt}{DejaVuSansMono}
+  \newfontfamily{\cyrillicfontsf}{Andika}
+  \newfontfamily{\cyrillicfonttt}{FreeMono}
   %\newfontfamily{\cyrillicfonttt}{DejaVuSansMono-BoldOblique}
 
   %\newfontface\fsfam{FreeSans}
@@ -200,41 +204,41 @@ latex_elements = {
         \raisebox{-2.1pt}
         {\quad\decofourleft\decotwo\decofourright\quad}%
         \hfill\strut}
-   \newcommand\myoldpilcrowfour{%
+  \newcommand\myoldpilcrowfour{%
            \noindent {\oldpilcrowfour}\,}
-   \newcommand\myoldpilcrowfive{%
+  \newcommand\myoldpilcrowfive{%
            \noindent {\oldpilcrowfive}\,}
-   \newcommand\myoldpilcrowsix{%
+  \newcommand\myoldpilcrowsix{%
            \noindent {\oldpilcrowsix}\,}
 
-\usepackage{fourier-orns}
-\usepackage{pgfornament}
-\usepackage{eso-pic}
-\newcommand\AtPageUpperRight[1]{\AtPageUpperLeft{%
- \put(\LenToUnit{\paperwidth},\LenToUnit{0\paperheight}){#1}%
- }}%
-\newcommand\AtPageLowerRight[1]{\AtPageLowerLeft{%
- \put(\LenToUnit{\paperwidth},\LenToUnit{0\paperheight}){#1}%
- }}%
-\newcommand{\beautify}{%
- \AddToShipoutPictureBG{%
-   \AtPageUpperLeft{\put(0,-25){\pgfornament[width=1.75cm]{61}}}
-   \AtPageUpperRight{\put(-50,-25){\pgfornament[width=1.75cm,symmetry=v]{61}}}
-   \AtPageLowerLeft{\put(0,25){\pgfornament[width=1.75cm,symmetry=h]{61}}}
-   \AtPageLowerRight{\put(-50,25){\pgfornament[width=1.75cm,symmetry=c]{61}}}
+  \usepackage{fourier-orns}
+  \usepackage{pgfornament}
+  \usepackage{eso-pic}
+  \newcommand\AtPageUpperRight[1]{\AtPageUpperLeft{%
+   \put(\LenToUnit{\paperwidth},\LenToUnit{0\paperheight}){#1}%
+   }}%
+  \newcommand\AtPageLowerRight[1]{\AtPageLowerLeft{%
+   \put(\LenToUnit{\paperwidth},\LenToUnit{0\paperheight}){#1}%
+   }}%
+  \newcommand{\beautify}{%
+   \AddToShipoutPictureBG{%
+     \AtPageUpperLeft{\put(0,-25){\pgfornament[width=1.75cm]{61}}}
+     \AtPageUpperRight{\put(-50,-25){\pgfornament[width=1.75cm,symmetry=v]{61}}}
+     \AtPageLowerLeft{\put(0,25){\pgfornament[width=1.75cm,symmetry=h]{61}}}
+     \AtPageLowerRight{\put(-50,25){\pgfornament[width=1.75cm,symmetry=c]{61}}}
    }
-   }
+  }
 
-\newcommand{\simplify}{%
+  \newcommand{\simplify}{%
      \cleardoublepage\ClearShipoutPictureBG
      %\ClearShipoutPictureBG
-   }
+  }
 
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhf{}
-\makeatletter
-  \fancypagestyle{normal}{
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhf{}
+  \makeatletter
+   \fancypagestyle{normal}{
     \fancyhf{}% clear all header and footer fields
     \renewcommand{\headrulewidth}{0pt}
     \renewcommand{\footrulewidth}{0pt}
@@ -246,111 +250,50 @@ latex_elements = {
 %        \raisebox{-2.1pt}
 %        {\quad\decofourleft\decotwo\decofourright\quad}%
 %        \hrulefill}
-  }
-  \fancypagestyle{plain}{%
+   }
+   \fancypagestyle{plain}{%
     \fancyhf{}% clear all header and footer fields
 %    \fancyfoot[C]{\textbf{--~\thepage~--}} % except the center
     \renewcommand{\headrulewidth}{0pt}%
     \renewcommand{\footrulewidth}{0pt}%
-  }
-\makeatother
+   }
+  \makeatother
 
-\defaultfontfeatures{Scale=MatchLowercase, Mapping=tex-text}
+  \defaultfontfeatures{Scale=MatchLowercase, Mapping=tex-text}
 
-\input{style.tex.txt}
+  \input{style.tex.txt}
 
-%\setlength{\parindent}{1.5em} % Paragraph Indentation - By default, LATEX does not indent the first paragraph of a section or a chapter.
-%\setlength{\parskip}{0.5em} % Paragraph spacing - determines the space between a paragraph and the preceding text.
-%\addtolength{\parskip}{-.3em}
-%\renewcommand{\baselinestretch}{1.5} % Line spacing -
+  \usepackage{titlesec, blindtext, color}
 
-%\usepackage[titles]{tocloft}
-%\cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
-%\setlength{\cftchapnumwidth}{0.75cm}
-%\setlength{\cftsecindent}{\cftchapnumwidth}
-%\setlength{\cftsecnumwidth}{1.25cm}
-
-% It is my code:
-\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
-\let\endchangemargin=\endlist
-
-%   {\thechapter\hsp\textcolor{gray75}
-\usepackage{titlesec, blindtext, color}
-\definecolor{gray75}{gray}{0.75}
-\newcommand{\hsp}{\hspace{20pt}}
-%\titleformat{\chapter}
-%    [hang]
-%    {\Huge\bfseries}
-%    {\thechapter\hsp\textcolor{gray75} {|}\hsp}
-%    {0pt}
-%    {\Huge\bfseries}
-
-%\titleformat{\chapter}
-%            [hang]
-%            {\huge\bfseries}
-%            {
-%%        \begingroup
-%%        \centering        
-%            {\tiny Ягьясена\textendash~Прабхупа̄да дас}
-%            {\textcolor{gray75}{|}}
-%            {\normalsize Истинный Гуру}
-%%        \endgroup
-%        \hsp\textcolor{gray75}{|}\hsp}
-%        {0pt}
-%        {\huge\bfseries}
-
-% With Author and Book names:
-%\titleformat{\chapter}[frame]
-%    {\normalfont\bfseries}
-%    {\filright
-%      \normalsize
-%      \enspace  {\footnotesize Ягьясена \textendash~Прабхупа̄да дас}
-%                {\hsp\textcolor{gray75}{|}\hsp} 
-%                {Истинный Гуру}  
-%     \enspace}
-%    {20pt}
-%    {\Huge\bfseries\filcenter}
-
-\titleformat{\chapter}[frame]
+  \titleformat{\chapter}[frame]
     {\normalfont\bfseries}
     {}
     {8pt}
     {\Huge\bfseries\filcenter}
 
+  \titleformat{\section}
+  {\normalfont\Large\bfseries}{\thesection}{1em}{}
+  \titleformat{\subsection}
+  {\normalfont\large\bfseries}{\thesubsection}{1em}{}
+  \titleformat{\subsubsection}
+  {\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
+  \titleformat{\paragraph}[runin]
+  {\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+  \titleformat{\subparagraph}[runin]
+  {\normalfont\normalsize\bfseries}{\thesubparagraph}{1em}{}
 
-
-%\titleformat{\section}[runin]
-%  {\normalfont\scshape}
-%  {}{0pt}{}
-%\titlespacing{\section}
-%  {\parindent}{*2}{\wordsep}
-%\titleformat{\section}
-%  {\titlerule
-%    \vspace{.8ex}%
-%    \normalfont\itshape}
-%  {\thesection.}{.5em}{}
-
-%\titleformat{\chapter}[display]
-%{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
-\titleformat{\section}
-{\normalfont\Large\bfseries}{\thesection}{1em}{}
-\titleformat{\subsection}
-{\normalfont\large\bfseries}{\thesubsection}{1em}{}
-\titleformat{\subsubsection}
-{\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
-\titleformat{\paragraph}[runin]
-{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
-\titleformat{\subparagraph}[runin]
-{\normalfont\normalsize\bfseries}{\thesubparagraph}{1em}{}
-
-%\titlespacing*{\chapter} {0pt}{50pt}{40pt}
-\titlespacing*{\section} {0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
-\titlespacing*{\subsection} {0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
-\titlespacing*{\subsubsection}{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
-\titlespacing*{\paragraph} {0pt}{3.25ex plus 1ex minus .2ex}{1em}
-\titlespacing*{\subparagraph} {\parindent}{3.25ex plus 1ex minus .2ex}{1em}
+  %\titlespacing*{\chapter} {0pt}{50pt}{40pt}
+  \titlespacing*{\section} {0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+  \titlespacing*{\subsection} {0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+  \titlespacing*{\subsubsection}{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+  \titlespacing*{\paragraph} {0pt}{3.25ex plus 1ex minus .2ex}{1em}
+  \titlespacing*{\subparagraph} {\parindent}{3.25ex plus 1ex minus .2ex}{1em}
 
 \fi
+
+% It is my code:
+\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+\let\endchangemargin=\endlist
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
