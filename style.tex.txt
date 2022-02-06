@@ -60,25 +60,24 @@
     %\par\vspace{0.1cm}
     %\textcolor{red}{\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}}
 
-
-    \decorCenter
-
+%    \decorCenter
 
     \begingroup
      \bfseries 
      \itshape
      \centering
-     \large
+     %\large
      %\tnrItalicfam
-     \tnrBoldfam
+     %\tnrBoldfam
 
-        Он вечно живёт \par
-        в Своих божественных \par
-        наставлениях и Его ученик \par
-        живёт вместе с Ним. \par
+Он вечно живёт\\
+в Своих божественных\\
+наставлениях и Его ученик\\
+живёт вместе с Ним.
+
     \endgroup
     
-    \decorCenter
+%    \decorCenter
 
     \vfill
 
@@ -96,6 +95,8 @@
     \pagestyle{empty}
      \null
      \vfill
+     \vfill
+     \vfill
      \begin{minipage}[b]{0.9\textwidth}
      \footnotesize\raggedright
      \setlength{\parskip}{0.5\baselineskip}
@@ -105,13 +106,7 @@
 
         Copyright \copyright 2006\textendash \the\year\ \Yagyasena
 
-        Все права защищены. Эта книга или любая её часть не могут быть воспроизведены или использованы каким-либо образом без письменного разрешения издателя, за исключением использования кратких цитат в рецензии на книгу.
-
-        Напечатано в России.
-
-        Издание 2-е, Киев, Украина, 2022 г.
-    
-        Издание 1-е, Москва, Россия, 2018 г.
+        %Все права защищены. Эта книга или любая её часть не могут быть воспроизведены или использованы каким-либо образом без письменного разрешения издателя, за исключением использования кратких цитат в рецензии на книгу.
 
         Электронная почта: yagyasena@gmail.com
 
@@ -119,7 +114,14 @@
 
         www.bonafide.guru
 
+        Издание 2-е, Киев, Украина, 2022 г.
+    
+        Издание 1-е, Москва, Россия, 2018 г.
+
+        Напечатано в России.
+
      \end{minipage}
+    \vfill
     \cleardoublepage
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
