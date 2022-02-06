@@ -81,7 +81,7 @@ latex_elements = {
     # Custom preamble to tune title page
 #    "preamble": preamble,
     # The font size ('10pt', '11pt' or '12pt').
-    "pointsize": "10pt",
+    "pointsize": "11pt",
 
     # https://www.sphinx-doc.org/en/master/latex.html
     'makeindex': '\\usepackage[columns=1]{idxlayout}\\makeindex',
