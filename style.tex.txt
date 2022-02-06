@@ -4,11 +4,11 @@
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     \pagestyle{empty}
 
-     \beautify
+     %\beautify
      \begingroup
        \centering
        %\fbox{\phantom{\normalsize \Yagyasena}} \par
-       %\phantom{\normalsize \Yagyasena} \par
+       \phantom{\normalsize \Yagyasena} \par
        \phantom{\normalsize \Yagyasena} \par
        \vspace{3cm} %3cm vertical space
        \textbf{{\Huge \BonafideGuru}} \par
@@ -18,13 +18,11 @@
      \null
 
      \clearpage\null\thispagestyle{empty}
-     \simplify  % with cleardoublepage
-
-
+     %\simplify  % with cleardoublepage
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
     % Add empty page:
-%    \cleardoublepage\null\thispagestyle{empty}
+    \cleardoublepage\null\thispagestyle{empty}
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     \pagestyle{empty}
@@ -35,16 +33,11 @@
        \textbf{{\Huge \BonafideGuru}} \par
      \endgroup
 
-%     \vspace{3cm} %3cm vertical space
-     \vspace{1cm} %1cm vertical space
-     
-
-     \begingroup
-      \centering
-        \strut\hfill {\pgfornament[scale=.35]{72}\pgfornament[scale=.35]{73}} \hfill\strut
-     \endgroup
-
-     \vspace{1cm} %1cm vertical space
+     \vspace{3cm} %3cm vertical space
+%     \begingroup
+%      \centering
+%        \strut\hfill {\pgfornament[scale=.35]{72}\pgfornament[scale=.35]{73}} \hfill\strut
+%     \endgroup
 
     \begin{changemargin}{1cm}{1cm}
      \begingroup
