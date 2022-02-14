@@ -23,7 +23,7 @@ copyright = '2022, Abhay Charan das'
 author = 'Ягьясена -- Прабхупа̄да дас'
 
 # The full version, including alpha/beta/rc tags
-release = '2022.01.22'
+release = '2022.02.14'
 
 show_authors = False
 smartquotes = True
@@ -49,7 +49,7 @@ language = 'ru'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '.git']
 
 # Enable figures numbering
 numfig = True
@@ -69,6 +69,14 @@ latex_engine = 'xelatex'
 # ('index', 'bonafide.guru.tex', 'Истинный Гуру', 'Abhay Charan das', 'manual', False),
 latex_documents = [
  ('index', 'bonafide.guru.tex', u'Истинный Гуру', u'Ягьясена -- Прабхупа̄да дас', 'manual', False),
+]
+
+latex_additional_files = [
+    "images/logo.png",
+    "images/_july9th.jpg",
+    "images/_will1.jpg",
+    "images/_will2.jpg",
+    "style.tex.txt",
 ]
 
 latex_elements = {
@@ -330,11 +338,23 @@ html_theme = 'alabaster'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-latex_additional_files = [
-    "images/logo.png",
-    "images/_july9th.jpg",
-    "images/_will1.jpg",
-    "images/_will2.jpg",
-    "style.tex.txt",
+
+# -- Options for ePub output -------------------------------------------------
+
+epub_theme = 'epub'
+epub_language = 'ru'
+version = '0.0.1'
+epub_cover = ('_static/cover-650x475.png', '')
+#epub_pre_files = [
+#    ('index.html', 'Welcome'),
+#]
+epub_post_files  = [
+    ('index.html', 'LastWelcome'),
 ]
+
+#epub_show_urls
+#Control whether to display URL addresses. This is very useful for readers that have no other means to display the linked URL. The settings can have the following values:
+# - 'inline' – display URLs inline in parentheses (default)
+# - 'footnote' – display URLs in footnotes
+# - 'no' – do not display URLs
 
