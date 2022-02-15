@@ -2350,6 +2350,15 @@
  .. |---| unicode:: U+02014 .. em dash
    :trim:
 
+.. only:: html
+
+  .. figure:: images/diagramDiksha.png
+     :scale: 100 %
+     :alt: Диаграмма "Дӣкша̄"
+     :align: center
+
+     Диаграмма "Дӣкша̄"
+
 .. |table1_di| raw:: latex
 
    \begingroup
