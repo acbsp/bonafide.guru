@@ -1,5 +1,11 @@
 # bonafide.guru
 
+https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html
+
+https://www.sphinx-doc.org/en/master/usage/configuration.html
+
+
+
 .local/lib/python3.8/site-packages/sphinx/writers/texinfo.py
  
  def visit_Text
