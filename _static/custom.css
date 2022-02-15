@@ -1,10 +1,40 @@
-@import url("default.css");
+/*
+@import url("css/theme.css");
+.wy-body-for-nav {
+    background: #f2ccbb;
+}
+
+
+.wy-side-nav-search {
+    width: 300px;
+    background-color: #aaaaaa;
+}
+.wy-nav-side {
+    width: 300px;
+    color: #aaaaaa;
+    background: #f2ccbb;
+}
+
+@import url("_static/css/theme.css");
+.wy-nav-side {
+    width: 300px;
+    color: #55a5d9;
+    background: #f2ccbb;
+}
+
+.wy-side-nav-search {
+    width: 300px;
+    background-color: #2980b9;
+}
+
+
+background-color: #f2ccbb
+#55a5d9  blue
+
+<div class="version"> 0.0.1</div>
+
 @import url("CharisSIL-webfont.css");
 
-
-
-
-/*
 i { font-size: 200%; }
 
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');

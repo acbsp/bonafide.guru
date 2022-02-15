@@ -18,3 +18,12 @@ mv ${FROMDIR}/CharisSIL-Regular.woff2 ${TODIR}/lato-normal.woff2
 mv ${FROMDIR}/CharisSIL-BoldItalic.woff  ${TODIR}/lato-bold-italic.woff
 mv ${FROMDIR}/CharisSIL-BoldItalic.woff2 ${TODIR}/lato-bold-italic.woff2
 
+
+cd _build/html
+
+for STR in contents.html genindex.html glossary.html index.html search.html
+do
+    echo "    Processing file: $STR"
+    sed -i 's/placeholder="Поиск в документации"/placeholder="Поиск в книге"/'  ${STR}
+done
+

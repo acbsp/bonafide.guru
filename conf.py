@@ -327,39 +327,22 @@ rst_prolog = """
 .. |sub234| replace:: mine234
 """
 
+version = '2-е издание'
 # -- Options for HTML output -------------------------------------------------
 
 html_title = 'Истинный Гуру : Ягьясена-Прабхупа̄да дас'
 
-# The theme to use for HTML and HTML Help pages.  See the documentation for
-# a list of builtin themes.
-#
-#html_theme = 'classic' # There are also various color and font options 
-#html_theme = 'scrolls'
-#html_theme = 'nature'
-#! html_theme = 'sphinx_book_theme'
-#html_theme = 'press'
-
-#html_permalinks_icon = '<span>#</span>'
-#html_theme = 'sphinxawesome_theme'
-
 #html_theme = 'bizstyle'
-
-#html_theme = 'cloud'
-#html_theme = 'agogo'  #  font-family: "Verdana", Arial, sans-serif;
-#html_theme = 'sphinxdoc'
-
-#html_theme = 'alabaster'
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
-    'analytics_id': 'G-XXXXXXXXXX',  #  Provided by Google in your dashboard
-    'analytics_anonymize_ip': False,
+    #'analytics_id': 'G-XXXXXXXXXX',  #  Provided by Google in your dashboard
+    #'analytics_anonymize_ip': False,
     'logo_only': False,
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
     'vcs_pageview_mode': '',
-    'style_nav_header_background': '#f2ccbb',# '#2980B9',#'white',
+    #'style_nav_header_background': '#2980B9', # '#f2ccbb' '#fcfcfc'
     # Toc options
     'collapse_navigation': False,
     'sticky_navigation': True,
@@ -374,14 +357,26 @@ html_theme_options = {
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-#html_css_files = [ 'css/custom.css', ]
+
+#html_css_files = [ 'custom.css', ]
 #html_js_files = [ 'js/custom.js', ]
+#html_style = '_static/custom.css'
+
+html_favicon = '_static/favicon32.ico'
+
+#html_additional_pages = {
+#    'download': 'customdownload.html',
+#}
+html_copy_source = False
+html_show_sourcelink = False
+html_show_copyright = False
+html_show_sphinx = True
+
 
 # -- Options for ePub output -------------------------------------------------
 
 epub_theme = 'epub'
 epub_language = 'ru'
-version = '0.0.1'
 epub_cover = ('_static/cover-650x475.png', '')
 #epub_pre_files = [
 #    ('index.html', 'Welcome'),
