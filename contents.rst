@@ -4161,14 +4161,13 @@
    <tbody>
     <tr>
       <td>
-        <b>Примечание:</b>
+        <b>Примечание:</b>class="align-right"
         <br /> 
         С каких это пор слово "henceforward" означает "отныне и до тех пор, пока" ?
-        <div class="align-right" style="padding:0;margin:0">
-
-        <pre class="align-right" style="padding:0;margin:0">henceforward [hεns'fɔːwəd] с этого момента, впредь</pre>
+        <div>
+        <pre style="text-align:right;padding:0;margin:0">henceforward [hεns'fɔːwəd] с этого момента, впредь</pre>
         
-        <pre class="align-right" style="padding:0;margin:0">( Англо-Русский словарь )</pre>
+        <pre style="text-align:right;padding:0;margin:0"> — Англо-Русский словарь</pre>
         </div>
 
         <div>
