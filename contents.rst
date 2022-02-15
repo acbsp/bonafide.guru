@@ -2353,7 +2353,7 @@
 .. only:: html
 
   .. figure:: images/diagramDiksha.png
-     :scale: 100 %
+     :scale: 50 %
      :alt: Диаграмма "Дӣкша̄"
      :align: center
 
