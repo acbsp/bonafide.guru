@@ -8824,7 +8824,9 @@
    \decorCenterRuler
    \newpage
 
-.. sidebar:: ЗАМЕТКИ
+.. only:: latex
+
+ .. sidebar:: ЗАМЕТКИ
 
    Место для ваших заметок.
 
