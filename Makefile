@@ -24,6 +24,11 @@ help:
 #printpdf: SPHINXOPTS+=-Dlatex_show_urls=footnote
 #printpdf: latexpdf
 
+# clean target
+clean:
+	@echo "DEBUG CLEAN ==========================================================================="
+	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+
 # pdf target
 latexpdf: Makefile
 #	@echo "Starting my Preprocessor:"
@@ -34,14 +39,26 @@ latexpdf: Makefile
 #	@echo "1 ==========================================================================="
 	@$(SPHINXBUILD) -M latexpdf "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
-# Catch-all target: route all unknown targets to Sphinx using the new
-# "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
-%: Makefile
+# html target
+html: Makefile
+	@echo "DEBUG  ==========================================================================="
 	@echo "Starting my Preprocessor:"
 	@bash ./Preprocessor.sh
 	@echo "Done Preprocessor."
-	@echo @$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
-	@echo "2 ==========================================================================="
+	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+	@echo "Starting my Postprocessor:"
+	@bash ./PostprocessorHTML.sh
+	@echo "Done Postprocessor."
+
+# Catch-all target: route all unknown targets to Sphinx using the new
+# "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
+%: Makefile
+	@echo "DEBUG  ==========================================================================="
+	@echo "DEBUG @$(SPHINXBUILD) -M $@ $(SOURCEDIR) $(BUILDDIR) $(SPHINXOPTS) $(O)"
+	@echo "DEBUG command = $@"
+	@echo "Starting my Preprocessor:"
+	@bash ./Preprocessor.sh
+	@echo "Done Preprocessor."
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 
