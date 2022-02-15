@@ -4155,34 +4155,13 @@
 
 .. only:: html
 
- .. raw:: html
-
-  <table>
-   <colgroup>
-    <col>
-    <col style="background-color: yellow">
-   </colgroup>
-   <tr>
-    <th>Data 1</th>
-    <th>Data 2</th>
-   </tr>
-   <tr>
-    <td>Calcutta</td>
-    <td>Orange</td>
-   </tr>
-   <tr>
-    <td>Robots</td>
-    <td>Jazz</td>
-   </tr>
-  </table>
-
  .. |table4_0| raw:: html
 
   <b>Примечание:</b> С каких это пор слово "henceforward" означает "отныне и до тех пор, пока" ?
   <br \>
-  <pre>henceforward [hεns'fɔːwəd] с этого момента, впредь
+  <pre>henceforward [hεns'fɔːwəd] с этого момента, впредь</pre>
   <br \>
-  (~Англо-Русский словарь~)</pre>
+  <pre>( Англо-Русский словарь )</pre>
   <br \>
 
   Удивительно, но факт - эти самозванные <em>гуру</em> готовы
