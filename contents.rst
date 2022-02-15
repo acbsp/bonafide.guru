@@ -4155,6 +4155,16 @@
 
 .. only:: html
 
+ .. raw:: html
+
+  <table cellspacing="0" cellpadding="0" border="0"  width="100%">
+   <tbody>
+    <tr>
+      <td>Data 1</td>
+    <tr>
+   </tbody>
+  </table>
+
  .. |table4_0| raw:: html
 
   <b>Примечание:</b> С каких это пор слово "henceforward" означает "отныне и до тех пор, пока" ?
