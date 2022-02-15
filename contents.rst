@@ -4164,11 +4164,11 @@
         <b>Примечание:</b>
         <br /> 
         С каких это пор слово "henceforward" означает "отныне и до тех пор, пока" ?
-        <div class="align-right">
 
-        <pre class="align-right">henceforward [hεns'fɔːwəd] с этого момента, впредь</pre>
-        
-        <pre class="align-right">( Англо-Русский словарь )</pre>
+        <div class="align-right">
+        <pre>henceforward [hεns'fɔːwəd] с этого момента, впредь
+        <br />
+        ( Англо-Русский словарь )</pre>
         </div>
 
         <div>
