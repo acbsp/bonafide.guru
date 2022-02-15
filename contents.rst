@@ -4156,6 +4156,7 @@
 .. only:: html
 
  .. raw:: html
+
   <table>
    <colgroup>
     <col>
