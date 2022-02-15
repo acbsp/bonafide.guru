@@ -4155,24 +4155,25 @@
 
 .. only:: html
 
- <table>
-  <colgroup>
+ .. raw:: html
+  <table>
+   <colgroup>
     <col>
     <col style="background-color: yellow">
-  </colgroup>
-  <tr>
+   </colgroup>
+   <tr>
     <th>Data 1</th>
     <th>Data 2</th>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td>Calcutta</td>
     <td>Orange</td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td>Robots</td>
     <td>Jazz</td>
-  </tr>
- </table>
+   </tr>
+  </table>
 
  .. |table4_0| raw:: html
 
