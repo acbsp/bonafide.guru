@@ -4164,7 +4164,7 @@
         <b>Примечание:</b>
         <br /> 
         С каких это пор слово "henceforward" означает "отныне и до тех пор, пока" ?
-        <div class="align-right">
+        <div class="align-right" padding="0" margin="0">
 
         <pre class="align-right">henceforward [hεns'fɔːwəd] с этого момента, впредь</pre>
         
