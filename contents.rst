@@ -4155,6 +4155,25 @@
 
 .. only:: html
 
+ <table>
+  <colgroup>
+    <col>
+    <col style="background-color: yellow">
+  </colgroup>
+  <tr>
+    <th>Data 1</th>
+    <th>Data 2</th>
+  </tr>
+  <tr>
+    <td>Calcutta</td>
+    <td>Orange</td>
+  </tr>
+  <tr>
+    <td>Robots</td>
+    <td>Jazz</td>
+  </tr>
+ </table>
+
  .. |table4_0| raw:: html
 
   \textbf{Примечание:} С каких это пор слово "henceforward" означает "отныне и до тех пор, пока" ?
