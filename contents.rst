@@ -2359,7 +2359,9 @@
 
      Диаграмма "Дӣкша̄"
 
-.. |table1_di| raw:: latex
+.. only:: latex
+
+  .. |table1_di| raw:: latex
 
    \begingroup
      \centering
@@ -2368,7 +2370,7 @@
        \par
    \endgroup
 
-.. |table1_ksha| raw:: latex
+  .. |table1_ksha| raw:: latex
 
    \begingroup
      \centering
@@ -2377,7 +2379,7 @@
        \par
    \endgroup
 
-.. |table1_1| raw:: latex
+  .. |table1_1| raw:: latex
 
    \begingroup
      \centering
@@ -2386,7 +2388,7 @@
        \par
    \endgroup
 
-.. |table1_2| raw:: latex
+  .. |table1_2| raw:: latex
 
    \begingroup
      \centering
@@ -2395,7 +2397,7 @@
        \par
    \endgroup
 
-.. |table1_downarrow| raw:: latex
+  .. |table1_downarrow| raw:: latex
 
    \begingroup
      \centering
@@ -2404,7 +2406,7 @@
        \par
    \endgroup
 
-.. |table1_3| raw:: latex
+  .. |table1_3| raw:: latex
 
    \begingroup
        \emph{дӣвйа-джн̃а̄на}~\textendash~(заключает в себе)
@@ -2415,7 +2417,7 @@
        \par
    \endgroup
 
-.. |table1_4| raw:: latex
+  .. |table1_4| raw:: latex
 
    \begingroup
        \emph{кша̄пайати}~\textendash~уничтожает ("Ш́рӣмад-Бха̄гаватам" 4.24.61).
@@ -2423,15 +2425,15 @@
        \par
    \endgroup
 
-.. tabularcolumns:: p{5cm} p{5cm}
+  .. tabularcolumns:: p{5cm} p{5cm}
 
-.. raw:: latex
+  .. raw:: latex
 
    \begingroup
    \setlength{\arrayrulewidth}{0pt}
 
 
-.. table::
+  .. table::
    :widths: auto
    :align: center
 
@@ -2447,7 +2449,7 @@
    ||table1_3|                              ||table1_4|                             |
    +----------------------------------------+---------------------------------------+
 
-.. raw:: latex
+  .. raw:: latex
 
    \endgroup
 
