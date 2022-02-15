@@ -10,10 +10,13 @@
    :caption: Содержание 
 
    contents
+   genindex
+
+..
+   Меню навигации
 
    glossary
 
-..
    contents2
 
    genindex
@@ -21,8 +24,6 @@
    :ref:`genindex`
 
  .. index:: ! Указатель
-
-   glossary
 
    :abbr:`LIFO (last-in, first-out)`
 
