@@ -14,7 +14,37 @@ blockquote {
   border-left: 3px solid #e6e6e6;
 }
 
+dl.field-list dt, dl.simple dt {
+  font-weight: bold;
+}
+
+dl.field-list.simple {
+    display: grid;
+    grid-template-columns: max-content auto;
+}
+
 /*
+dl.field-list.simple p, {
+    margin-bottom: 12px;
+
+    line-height: 24px;
+    font-size: 16px;
+    margin: 0 0 24px;
+
+    box-sizing: border-box;
+}
+
+dl.field-list>dt, {
+    margin-bottom: 0;
+}
+
+dl.field-list.simple dd {
+    margin: 0 0 12px 24px;
+    line-height: 24px;
+
+    box-sizing: border-box;
+}
+
  <p class="attribution">—Ш́рӣмад-Бха̄гаватам 6.3.19</p>
 
 blockquote p.attribution, div.topic p.attribution {
