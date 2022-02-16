@@ -330,6 +330,7 @@ rst_prolog = """
 version = '2-е издание'
 # -- Options for HTML output -------------------------------------------------
 
+#html_baseurl = '/html/'
 html_title = 'Истинный Гуру : Ягьясена-Прабхупа̄да дас'
 
 #html_theme = 'bizstyle'
@@ -369,7 +370,7 @@ html_favicon = '_static/favicon32.ico'
 #}
 html_copy_source = False
 html_show_sourcelink = False
-html_show_copyright = False
+html_show_copyright = True
 html_show_sphinx = True
 
 
