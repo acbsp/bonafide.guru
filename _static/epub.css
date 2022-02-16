@@ -1,5 +1,6 @@
 /* -- font-face ------------------------------------------------------------- */
 
+/*
 @font-face {
     font-family: "CharisSIL";
     font-style: oblique, italic;
@@ -18,7 +19,7 @@
     font-weight: normal;
     src: url("CharisSIL-Regular.ttf") format("truetype");
 }
-
+*/
 
 
 /*
@@ -56,7 +57,7 @@
     src: url("CharisSIL-BoldItalic.otf") format("opentype");
 }
 */
-/*
+
 @font-face {
     font-family: CharisSIL;
     font-style: oblique, italic;
@@ -75,7 +76,7 @@
     font-weight: normal;
     src: url("CharisSIL-Regular.otf") format("opentype");
 }
-*/
+
 
 /* set body to use Charis SIL */
 body {
