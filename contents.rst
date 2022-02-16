@@ -4157,7 +4157,7 @@
 
  .. raw:: html
 
-  <table cellpadding="10" border="1"  width="100%" table-layout="fixed">
+  <table border="1"  width="100%" table-layout="fixed">
    <tbody>
     <tr>
       <td>
