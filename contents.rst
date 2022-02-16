@@ -4153,19 +4153,25 @@
  сами. Все прекрасно понимали: \"henceforward\" означает -- отныне и до тех
  пор, пока |ШПа| не уйдет.
 
-.. only:: html
+.. only:: html and not epub
 
  .. raw:: html
 
- .. only:: html and not epub
-
   <table cellspacing="10" cellpadding="10" border="1"  width="100%" table-layout="fixed">
 
- .. only:: epub
+..
+
+.. only:: epub
+
+ .. raw:: html
 
   <table border="1">
 
- ..
+..
+
+.. only:: html
+
+ .. raw:: html
 
    <tbody>
     <tr>
