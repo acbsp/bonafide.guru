@@ -4157,7 +4157,16 @@
 
  .. raw:: html
 
-  <table border="1" table-layout="fixed">
+ .. only:: html and not epub
+
+  <table cellspacing="10" cellpadding="10" border="1"  width="100%" table-layout="fixed">
+
+ .. only:: epub
+
+  <table border="1">
+
+ ..
+
    <tbody>
     <tr>
       <td>
