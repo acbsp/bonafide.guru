@@ -1,6 +1,33 @@
 /* -- font-face ------------------------------------------------------------- */
 
+div.body p {
+  text-indent: 0;
+}
+
+blockquote p.attribution, div p.attribution {
+  text-align: right;
+  margin-left: 20%;
+}
+
+blockquote {
+  padding-left: 0.5em;
+  border-left: 3px solid #e6e6e6;
+}
+
 /*
+ <p class="attribution">—Ш́рӣмад-Бха̄гаватам 6.3.19</p>
+
+blockquote p.attribution, div.topic p.attribution {
+blockquote .attribution{
+}
+blockquote{
+  padding:1rem 1.5rem;
+  margin-bottom:2.5rem;
+  border-left:3px solid #e6e6e6;
+}
+
+
+ 
 @font-face {
     font-family: "CharisSIL";
     font-style: oblique, italic;
@@ -84,6 +111,8 @@ body {
   font-style: normal;
   font-weight: normal;
     /* fall back to sans serif so that it's really obvious if the fonts don't load */
+  background-color: #dddddd;
+  color: #3333ff;
 }
 /* remove bold styling from heading */
 h1 {

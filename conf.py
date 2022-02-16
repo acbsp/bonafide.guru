@@ -35,7 +35,9 @@ smartquotes = True
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 #extensions =  []
-extensions = ['sphinx_rtd_theme','sphinx.ext.mathjax']
+#extensions = ['sphinx_rtd_theme','sphinx.ext.mathjax']
+#extensions = [  'sphinxcontrib.bibtex',    'sphinx.ext.todo',    'sphinx.ext.autosectionlabel']
+extensions = ['sphinx_rtd_theme']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -382,9 +384,18 @@ epub_cover = ('_static/cover-650x475.png', '')
 #epub_pre_files = [
 #    ('index.html', 'Welcome'),
 #]
-epub_post_files  = [
-    ('index.html', 'LastWelcome'),
-]
+#epub_post_files  = [
+#    ('index.html', 'LastWelcome'),
+#]
+
+#epub_title = 
+#epub_author =
+#epub_contributor =
+#epub_publisher =
+#epub_description =
+#epub_copyright =
+#pub_identifier =
+
 
 #epub_show_urls
 #Control whether to display URL addresses. This is very useful for readers that have no other means to display the linked URL. The settings can have the following values:
