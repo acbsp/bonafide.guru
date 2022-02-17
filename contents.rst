@@ -8885,12 +8885,18 @@
 
 Эта книга доступна в электронном виде по адресу:
 
+.. only:: html
+
+ `http://bonafide.guru <http://bonafide.guru>`_
+
 .. raw:: latex
 
    \begingroup
    \setlength{\arrayrulewidth}{0pt}
 
-.. table::
+.. only:: latex
+
+ .. table::
    :widths: auto
    :align: right
 
