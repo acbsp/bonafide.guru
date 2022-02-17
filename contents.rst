@@ -8885,10 +8885,12 @@
 
 Эта книга доступна в электронном виде по адресу:
 
-.. only:: html
+.. raw:: html
 
    <a class="align-right" href="http://bonafide.guru">http://bonafide.guru</a>
 
+..  
+    only:: html
    `http://bonafide.guru <http://bonafide.guru>`_
 
 .. raw:: latex
