@@ -367,8 +367,8 @@ html_theme_options = {
 html_static_path = ['_static']
 
 #html_js_files = [ 'js/custom.js', ]
-html_css_files = [ 'custom.css', ]   # this one is additional CSS
-#html_style = 'custom.css'           # this one replaces theme CSS
+html_css_files = [ 'html.css', ]   # this one is additional CSS
+#html_style = 'html.css'           # this one replaces theme CSS
 
 html_favicon = '_static/favicon32.ico'
 
