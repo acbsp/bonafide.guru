@@ -24,7 +24,7 @@ copyright = '2022, Abhay Charan das'
 author = 'Ягьясена -- Прабхупа̄да дас'
 
 # The full version, including alpha/beta/rc tags
-release = '2022.02.14'
+release = '2022.02.17'
 
 show_authors = False
 smartquotes = True
@@ -88,7 +88,7 @@ latex_additional_files = [
 ]
 
 latex_elements = {
-    'passoptionstopackages': r'\usepackage[pdfa=true,dvipdfmx-outline-open,bookmarks=true,bookmarksopen=true,bookmarksopenlevel=2,unicode=true,pdfusetitle=true,hidelinks=true,pdfkeywords={Гаўдӣйа-Ваишн̣авизм, ISKCON,Международное Общество для Осознания Кришны, Его Божественная Милость Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄да, Дӣкша̄-гуру},pdfsubject={подношение лотосным стопам Основателя-А̄ча̄рйи ISKCON Его Божественной Милости Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Ш́рӣлы Прабхупа̄ды},]{hyperref}',
+    'passoptionstopackages': r'\usepackage[pdfa=true,dvipdfmx-outline-open,bookmarks=true,bookmarksopen=true,bookmarksopenlevel=2,unicode=true,pdfusetitle=true,hidelinks=true,pdfkeywords={Гаўдӣйа-Ваишн̣авизм, ISKCON,Международное Общество для Осознания Кришны, Его Божественная Милость Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄да, Дӣкша̄-гуру, Bona fide Guru},pdfsubject={подношение лотосным стопам Основателя-А̄ча̄рйи ISKCON Его Божественной Милости Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Ш́рӣлы Прабхупа̄ды},]{hyperref}',
 
     # A5 paper size
     "papersize": "a5paper",
@@ -394,13 +394,19 @@ epub_cover = ('_static/epub-cover-650x475.png', 'epub-cover.html')
 #    ('index.html', 'LastWelcome'),
 #]
 
-#epub_title = 
-#epub_author =
-#epub_contributor =
-#epub_publisher =
-#epub_description =
-#epub_copyright =
-#pub_identifier =
+epub_title = 'Истинный Гуру'
+epub_author = 'Ягьясена-Прабхупа̄да дас'
+epub_contributor  = 'Abhay Charan das'
+epub3_contributor = 'Abhay Charan das'
+epub_publisher = 'Abhay Charan das'
+epub_copyright =  '2022, Abhay Charan das'
+#epub_identifier = 'http://bonafide.guru' # or ISBN
+epub_identifier = 'www.bonafide.guru' # or ISBN
+epub_scheme = 'URL' # scheme for the 'epub_identifier'
+#epub_uid = 'Его Божественная Милость Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄да, ISKCON, Международное Общество для Осознания Кришны, Дӣкша̄-гуру,  Bona fide Guru, Гаўдӣйа-Ваишн̣авизм'
+epub_uid = epub_identifier
+epub_description = 'подношение лотосным стопам Основателя-А̄ча̄рйи ISKCON Его Божественной Милости Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Ш́рӣлы Прабхупа̄ды'
+epub3_description = epub_description
 
 
 #epub_show_urls

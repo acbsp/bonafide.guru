@@ -60,3 +60,17 @@ xindy -o outfile.ind -L russian -C utf8 -I xelatex -M texindy.xdy  sphinx.idx
 
     Персональный КОМПЬЮТЕР
         В браузере Chrome файлы EPUB можно читать с расширением Readium или EPUB Reader. В браузере Firefox файлы EPUB можно читать с расширением EPUB Reader. 
+
+
+```
+pip3 install -U sphinx
+pip3 install sphinx-rtd-theme
+git clone git@github.com:acbsp/bonafide.guru.git
+cd bonafide.guru
+make clean
+make epub
+git restore contents.rst
+epubcheck _build/epub/sphinx.epub
+sigil _build/epub/sphinx.epub
+
+```
