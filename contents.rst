@@ -8883,8 +8883,6 @@
 
 Мы будем благодарны за любую обратную связь.
 
-Эта книга доступна в электронном виде по адресу:
-
 .. raw:: html
 
    <a class="align-right" href="http://bonafide.guru">http://bonafide.guru</a>
@@ -8892,6 +8890,8 @@
 ..  
     only:: html
    `http://bonafide.guru <http://bonafide.guru>`_
+
+Эта книга доступна в электронном виде по адресу:
 
 .. raw:: latex
 
