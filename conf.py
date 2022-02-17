@@ -385,7 +385,8 @@ html_show_sphinx = True
 
 epub_theme = 'epub'
 epub_language = 'ru'
-epub_cover = ('_images/cover-650x475.png', '')
+epub_cover = ('_static/epub-cover-650x475.png', 'epub-cover.html')
+
 #epub_pre_files = [
 #    ('index.html', 'Welcome'),
 #]
