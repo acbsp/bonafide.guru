@@ -1,6 +1,3 @@
-.. sectionauthor:: Ягьясена прабху <yagyasena@gmail.com>
-.. codeauthor:: Abhay Charan das <abhay.charan.d@gmail.com>
-
 .. meta::
    :robots: index, follow
    :x–robots–tag: all
@@ -12,6 +9,9 @@
    :description lang=ru: подношение лотосным стопам Основателя-А̄ча̄рйи ISKCON Его Божественной Милости Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Ш́рӣлы Прабхупа̄ды
    :author lang=en: Abhay Charan das
    :author lang=ru: Абхай Чаран дас
+
+.. codeauthor:: Abhay Charan das <abhay.charan.d@gmail.com>
+.. sectionauthor:: Abhay Charan das <abhay.charan.d@gmail.com>
 
 ****************************
 Меню навигации
