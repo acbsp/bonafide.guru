@@ -37,7 +37,12 @@ smartquotes = True
 #extensions =  []
 #extensions = ['sphinx_rtd_theme','sphinx.ext.mathjax']
 #extensions = [  'sphinxcontrib.bibtex',    'sphinx.ext.todo',    'sphinx.ext.autosectionlabel']
-extensions = ['sphinx_rtd_theme']
+extensions = ['sphinx_rtd_theme', 'sphinxcontrib.programoutput']
+# Now you’ve two new directives:
+#  .. program-output:: python -V
+#  .. command-output:: python -V
+#to insert the output of programs.
+
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']

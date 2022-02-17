@@ -8,12 +8,21 @@ https://www.sphinx-doc.org/en/master/usage/configuration.html
 
 .local/lib/python3.8/site-packages/sphinx/writers/texinfo.py
  
- def visit_Text
+ ```
+  def visit_Text
+```
 
 .local/lib/python3.8/site-packages/sphinx/writers/latex.py
  
- def visit_attribution
+```
+    def visit_attribution(self, node: Element) -> None:
+        self.body.append(CR + r'\begin{flushright}' + CR)
+        self.body.append('(')
 
+    def depart_attribution(self, node: Element) -> None:
+        self.body.append(')')
+        self.body.append(CR + r'\end{flushright}' + CR)
+```
 
 .local/lib/python3.8/site-packages/sphinx/util/texescape.py
 
