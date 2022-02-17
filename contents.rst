@@ -98,6 +98,10 @@
 "Я предлагаю свои почтительные поклоны Ш́рӣ Кр̣шн̣а Чайтанье, Прабху
 Нитьянанде, Ш́рӣ Адвайте, Гададхаре, Ш́рӣвасу и всем Их последователям".
 
+.. raw:: html
+
+   <center>
+
 .. raw:: latex
 
    \vspace{3pt}
@@ -109,17 +113,6 @@
 
 *Харе Ра̄ма, Харе Ра̄ма, Ра̄ма Ра̄ма, Харе Харе*
 
-.. raw:: html
-
-   <hr class="style-one"> 
-
-   <h6><span>|ШПа| ки Джая!</span></h6>
-
-
-   <hr class="style-two"> 
-
-
-
 .. raw:: latex
 
    \endgroup
@@ -129,6 +122,11 @@
 
    \decorCenterRuler
    \newpage
+
+.. raw:: html
+
+   </center>
+   <hr class="style-acd"> 
 
 ..
 
