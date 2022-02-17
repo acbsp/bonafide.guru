@@ -4,11 +4,6 @@ div.body p {
   text-indent: 0;
 }
 
-blockquote p.attribution, div p.attribution {
-  text-align: right;
-  margin-left: 20%;
-}
-
 blockquote {
   padding-left: 0.5em;
   border-left: 3px solid #e6e6e6;

@@ -42,6 +42,7 @@ latexpdf: Makefile
 # html target
 html: Makefile
 	@echo "DEBUG  ==========================================================================="
+#	@rm -f glossary.rst
 	@echo "Starting my Preprocessor:"
 	@bash ./Preprocessor.sh
 	@echo "Done Preprocessor."

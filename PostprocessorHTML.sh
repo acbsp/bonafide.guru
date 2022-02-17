@@ -1,6 +1,7 @@
 #!/bin/bash - 
 set -o nounset                              # Treat unset variables as an error
 
+FILE=contents.html 
 FROMDIR=_build/html/_static
 TODIR=_build/html/_static/css/fonts
 
@@ -27,3 +28,8 @@ do
     sed -i 's/placeholder="Поиск в документации"/placeholder="Поиск в книге"/'  ${STR}
 done
 
+echo "    Processing file: $FILE"
+# <p class="attribution">—Нектар преданности, Введение</p>
+sed -i 's%<p class="attribution">—\(.*\)</p>%<p class="attribution">(\1)</p>%' ${FILE}
+# <p class="attribution" id="index-30">—Падма Пура̄н̣а</p>
+sed -i 's%\(<p class="attribution" id="index-[0-9]*">\)—\(.*\)</p>%\1(\2)</p>%' ${FILE}
