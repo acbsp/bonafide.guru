@@ -24,7 +24,7 @@ copyright = '2022, Abhay Charan das'
 author = 'Ягьясена -- Прабхупа̄да дас'
 
 # The full version, including alpha/beta/rc tags
-release = '2022.02.17'
+release = '2022.02.18'
 
 show_authors = False
 smartquotes = True
