@@ -111,12 +111,13 @@
 
 .. raw:: html
 
+   <hr class="style-one"> 
+
    <h6><span>|ШПа| ки Джая!</span></h6>
 
 
    <h2 class="divider line one-line" contenteditable>|ШПа| ки Джая!</h2>
 
-   <hr class="style-two"> 
 
 
 .. raw:: latex
