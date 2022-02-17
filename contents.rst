@@ -119,6 +119,15 @@
 
    <hr id="six" data-symbol="|ШПа| ки Джая!">
 
+   <div class="container">
+  <p>You can divide with any text you like.</p>
+  <p>For instance this...</p>
+  <hr class="hr-text" data-content="AND">
+  <p>...this...</p>
+  <hr class="hr-text" data-content="OR">
+  <p>...even this!</p>
+    </div>
+
 .. raw:: latex
 
    \endgroup
