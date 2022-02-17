@@ -3,7 +3,12 @@ set -o nounset                              # Treat unset variables as an error
 
 DIR=_static
 
-rm -f ${DIR}/CharisSIL-*.woff
+rm -f glossary.rst
+rm -f genindex.rst
+
+rm -f ${DIR}/CharisSIL-*.otf
+rm -f ${DIR}/CharisSIL-*.ttf
+#rm -f ${DIR}/CharisSIL-*.woff
 rm -f ${DIR}/CharisSIL-*.woff2
 rm -f ${DIR}/favicon*.ico
 rm -f ${DIR}/custom.css

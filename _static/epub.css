@@ -56,8 +56,37 @@ blockquote{
   border-left:3px solid #e6e6e6;
 }
 
+/* use Charis SIL - Regular in .woff2 format */
+@font-face {
+  font-family: CharisSILW;
+  font-style: normal;
+  font-weight: normal;
+  src: url(CharisSIL-Regular.woff);
+}
+/* use Charis SIL - Italic in .woff2 format */
+@font-face {
+  font-family: CharisSILW;
+  font-style: italic;
+  font-weight: normal;
+  src: url(CharisSIL-Italic.woff);
+}
+/* use Charis SIL - Bold in .woff2 format */
+@font-face {
+  font-family: CharisSILW;
+  font-style: normal;
+  font-weight: bold;
+        src: url(CharisSIL-Bold.woff);
+}
+/* use Charis SIL - Bold Italic in .woff2 format */
+@font-face {
+  font-family: CharisSILW;
+  font-style: italic;
+  font-weight: bold;
+  src: url(CharisSIL-BoldItalic.woff);
+}
 
  
+/*
 @font-face {
     font-family: "CharisSIL";
     font-style: oblique, italic;
@@ -114,7 +143,7 @@ blockquote{
     src: url("CharisSIL-BoldItalic.otf") format("opentype");
 }
 */
-
+/*
 @font-face {
     font-family: CharisSIL;
     font-style: oblique, italic;
@@ -133,26 +162,23 @@ blockquote{
     font-weight: normal;
     src: url("CharisSIL-Regular.otf") format("opentype");
 }
-
+*/
 
 /* set body to use Charis SIL */
 body {
-  font-family: CharisSIL, sans-serif;
+  font-family: CharisSILW, sans-serif;
   font-style: normal;
   font-weight: normal;
     /* fall back to sans serif so that it's really obvious if the fonts don't load */
-  background-color: #dddddd;
-  color: #3333ff;
 }
-/* remove bold styling from heading */
+/* remove bold styling from heading 
 h1 {
   font-style: normal;
   font-weight: normal;
 }
-
+*/
 
 /*
- *
 @font-face {
     font-family: "LiberationNarrow";
     font-style: normal;
