@@ -113,20 +113,9 @@
 
    <h6><span>|ШПа| ки Джая!</span></h6>
 
-   <hr id="four" data-symbol="|ШПа| ки Джая!">
 
-   <hr id="five" data-symbol="∞">
+   <h2 class="divider line one-line" contenteditable>|ШПа| ки Джая!</h2>
 
-   <hr id="six" data-symbol="|ШПа| ки Джая!">
-
-   <div class="container">
-  <p>You can divide with any text you like.</p>
-  <p>For instance this...</p>
-  <hr class="hr-text" data-content="AND">
-  <p>...this...</p>
-  <hr class="hr-text" data-content="OR">
-  <p>...even this!</p>
-    </div>
 
 .. raw:: latex
 
