@@ -45,5 +45,18 @@ cp  sed3_sorted_uniq.txt    sed_RESULT.txt
 
 ------------
 
+```
 cd ~/Book/bonafide.guru/_build/latex 
 xindy -o outfile.ind -L russian -C utf8 -I xelatex -M texindy.xdy  sphinx.idx
+```
+
+
+Способы чтения Epub3.
+    iOS
+        На мобильных устройствах на базе iOS (iPhone и iPad) файлы в формате EPUB можно читать с помощью «родного» приложения Apple Books.
+
+    Android
+        На мобильных устройствах с операционной системой Android книги в формате EPUB можно читать с помощью программ Google Books (обработка книг может занять несколько минут) и др.
+
+    Персональный КОМПЬЮТЕР
+        В браузере Chrome файлы EPUB можно читать с расширением Readium или EPUB Reader. В браузере Firefox файлы EPUB можно читать с расширением EPUB Reader. 
