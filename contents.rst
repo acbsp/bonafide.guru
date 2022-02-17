@@ -113,6 +113,12 @@
 
    <h6><span>|ШПа| ки Джая!</span></h6>
 
+   <hr id="four" data-symbol="|ШПа| ки Джая!">
+
+   <hr id="five" data-symbol="∞">
+
+   <hr id="six" data-symbol="|ШПа| ки Джая!">
+
 .. raw:: latex
 
    \endgroup
