@@ -111,7 +111,7 @@
 
 .. raw:: html
 
-   <h4><span>|ШПа| ки Джая!</span></h4>
+   <h6><span>|ШПа| ки Джая!</span></h6>
 
 .. raw:: latex
 
@@ -232,7 +232,7 @@
 
 .. raw:: html
 
-   <h4><span>|ШПа| ки Джая!</span></h4>
+   <h6><span>|ШПа| ки Джая!</span></h6>
 
 .. raw:: latex
 
@@ -413,7 +413,7 @@
 
 .. raw:: html
 
-   <h4><span>|ШПа| ки Джая!</span></h4>
+   <h6><span>|ШПа| ки Джая!</span></h6>
 
 .. raw:: latex
 
