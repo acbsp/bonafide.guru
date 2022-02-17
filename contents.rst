@@ -8887,7 +8887,9 @@
 
 .. only:: html
 
- `http://bonafide.guru <http://bonafide.guru>`_
+   <a class="align-right" href="http://bonafide.guru">http://bonafide.guru</a>
+
+   `http://bonafide.guru <http://bonafide.guru>`_
 
 .. raw:: latex
 
@@ -8896,13 +8898,13 @@
 
 .. only:: latex
 
- .. table::
-   :widths: auto
-   :align: right
+   .. table::
+      :widths: auto
+      :align: right
 
-   +--------------------------+
-   | **http://bonafide.guru** |
-   +--------------------------+
+      +--------------------------+
+      | **http://bonafide.guru** |
+      +--------------------------+
 
 .. raw:: latex
 
@@ -8916,9 +8918,9 @@
 
 .. only:: latex
 
- .. sidebar:: ЗАМЕТКИ
+   .. sidebar:: ЗАМЕТКИ
 
-   Место для ваших заметок.
+     Место для ваших заметок.
 
 ..  
    raw:: latex
