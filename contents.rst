@@ -116,6 +116,8 @@
 
    <h2 class="divider line one-line" contenteditable>|ШПа| ки Джая!</h2>
 
+   <hr class="style-two"> 
+
 
 .. raw:: latex
 
