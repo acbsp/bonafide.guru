@@ -85,7 +85,7 @@
 
 .. raw:: html
 
-   <p style="text-align:center">
+   <div style="text-align:center">
 
 .. raw:: latex
 
@@ -110,7 +110,7 @@
 
 .. raw:: html
 
-   </p>
+   </div>
    <hr class="acdclass" /> 
 
 ..
@@ -413,9 +413,9 @@
 
 .. raw:: html
 
-   <p style="text-align:center">
+   <div style="text-align:center">
      |ШПа| ки Джая!
-   </p>
+   </div>
    <hr class="acdclass" /> 
 
 
@@ -6249,10 +6249,10 @@
 
 .. raw:: html
 
-   <p style="text-align:center">
+   <div style="text-align:center">
      <p>Воспевайте Харе Кр̣шн̣а и будьте счастливы!</p>
      <p>Слава |ЕБМБСПе|!</p>
-   </p>
+   </div>
    <hr class="acdclass" /> 
 
 Отрывки из интервью с профессором М.А. Татачаром
@@ -6482,10 +6482,10 @@
 
 .. raw:: html
 
-   <p style="text-align:center">
+   <div style="text-align:center">
      <p>Воспевайте Харе Кр̣шн̣а и будьте счастливы!</p>
      <p>Слава |ЕБМБСПе|!</p>
-   </p>
+   </div>
    <hr class="acdclass" /> 
 
 ****************************
@@ -8107,9 +8107,9 @@
 
 .. raw:: html
 
-   <p style="text-align:center">
+   <div style="text-align:center">
      <p>|ШПа| ки Джая!</p>
-   </p>
+   </div>
    <hr class="acdclass" /> 
 
 Самадхи греховных душ на святой земле
