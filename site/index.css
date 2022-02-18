@@ -1,0 +1,59 @@
+/*
+@import url("css/theme.css");
+
+H6 { width:100%; text-align:center; border-bottom: 1px solid #2980B9; line-height:0.1em; margin:10px 0 20px; } 
+H6 span { background:#2980B9; color:#fff; padding:0 10px; }
+USING: 
+<h6><span>|ШПа| ки Джая!</span></h6>
+*/
+
+hr.acdclass {
+    border: 0;
+    height: 1px;
+    background: #2980B9;
+    background-image: linear-gradient(to right, #fff, #2980B9, #fff);
+}
+
+/* Move 'attribution' right */
+    blockquote p.attribution, div p.attribution {
+    text-align: right;
+    margin-left: 20%;
+}
+/* use Charis SIL - Regular in .woff2 format */
+@font-face {
+    font-family: CharisSILW;
+    src: url(CharisSIL-Regular.woff2);
+}
+/* use Charis SIL - Italic in .woff2 format */
+@font-face {
+    font-family: CharisSILW;
+    font-style: italic;
+    src: url(CharisSIL-Italic.woff2);
+}
+/* use Charis SIL - Bold in .woff2 format */
+@font-face {
+    font-family: CharisSILW;
+    font-weight: bold;
+    src: url(CharisSIL-Bold.woff2);
+}
+/* use Charis SIL - Bold Italic in .woff2 format */
+@font-face {
+    font-family: CharisSILW;
+    font-weight: bold;
+    font-style: italic;
+    src: url(CharisSIL-BoldItalic.woff2);
+}
+
+* {padding:0;margin:0;}
+.default {width: 500px; margin: 10px auto 10px auto; background: #f2ccbb; color:#691d07; padding: 0px 0px 0px 0px;box-shadow: 0 0 5px 1px #ddd;font-family:'Roboto',sans-serif;font-size:14px;}
+.default h1 {font-size:24px;margin-top: 20px;}
+.default img {display:block; margin:0 0 0 0;}
+.default p {font-size:14px; margin:10px 0;}
+.element_right {float: right;}
+.element_left {float: left;}
+a{color:#0075c4;}
+a:hover{color:#F60;}
+ul {margin:10px 10px 10px 30px;}
+/* set to use Charis SIL */
+.diacrit { font-family: "CharisSILW", sans-serif; }
+
