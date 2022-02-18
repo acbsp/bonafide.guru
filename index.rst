@@ -23,11 +23,13 @@
 
    contents
 
-.. toctree::
-   :caption: Указатели
+.. only:: html
 
-   genindex
-   glossary
+ .. toctree::
+     :caption: Указатели
+
+     genindex
+     glossary
 
 *  :ref:`Скан-копия оригинала Директивы от 9 июля 1977`
 
