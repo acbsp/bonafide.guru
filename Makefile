@@ -77,14 +77,13 @@ else
 endif
 	@echo "DEBUG  ==========================================================================="
 	@$(LNG)/pre.sh $@ $(LNG)
-	@echo "DEBUG @$(SPHINXBUILD) -M $@ $(SOURCEDIR) $(BUILDDIR) $(SPHINXOPTS) $(O)"
-	@$(LNG)/post.sh $@ $(LNG)
 	@echo "DEBUG command = $@"
 	@echo "DEBUG LNG = $(LNG)"
-	@echo "DEBUG BAR = $(BAR)"
 #	@echo "Starting my Preprocessor:"
 #	@bash ./Preprocessor.sh
 #	@echo "Done Preprocessor."
+	@echo "DEBUG @$(SPHINXBUILD) -M $@ $(SOURCEDIR) $(BUILDDIR) $(SPHINXOPTS) $(O)"
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+	@$(LNG)/post.sh $@ $(LNG)
 
 

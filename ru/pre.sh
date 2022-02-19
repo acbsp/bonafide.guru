@@ -3,7 +3,7 @@ set -o nounset                              # Treat unset variables as an error
 
 TARGET=$1
 LANGUAGE=$2
-FILENAME=contents.rst
+FILE_CONT=contents.rst
 SANSKRIT_LIST=$LANGUAGE/sed_RESULT.txt
 
 echo "Processing PRE TARGET=$TARGET LANGUAGE=$LANGUAGE"
@@ -17,7 +17,7 @@ if [ $TARGET == 'latexpdf' ] || [ $TARGET == 'html' ] ||[ $TARGET == 'epub' ]; t
         cp $LANGUAGE/$F .
     done
 
-    sed -i -f PreprocessorPatterns.sed ${FILENAME}
+    sed -i -f $LANGUAGE/PreprocessorPatterns.sed ${FILE_CONT}
 
     if [ -f "$SANSKRIT_LIST" ]; then
         echo "Create Indices for Sanskrit from file: $SANSKRIT_LIST"
@@ -28,11 +28,11 @@ if [ $TARGET == 'latexpdf' ] || [ $TARGET == 'html' ] ||[ $TARGET == 'epub' ]; t
             # 1..6 spaces before Diacritic text. Fix if it is needed more.
 
             # old variant: insert "after":
-            #s/^\( *\).*/&\n\n\1.. index:: '"$STR"'\n/' ${FILENAME}
+            #s/^\( *\).*/&\n\n\1.. index:: '"$STR"'\n/' ${FILE_CONT}
 
             echo "   Processing: $STR"
             sed -i '/^[ ]\{1,6\}\*'"$STR"'\*$/ !b
-s/^\( *\).*/\n\1.. index:: '"$STR"'\n&\n/' ${FILENAME}
+s/^\( *\).*/\n\1.. index:: '"$STR"'\n&\n/' ${FILE_CONT}
 
         done <$SANSKRIT_LIST
     fi
