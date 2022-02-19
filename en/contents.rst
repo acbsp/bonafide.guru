@@ -438,12 +438,12 @@ therefore advises us to approach a **bona fide** spiritual master in the
 a*\ **bona fide**\ *spiritual master without following this principle of
 disciplic succession.*\ ”
 
-“Supreme Lord has explained in details in “Bhagavad-gita” how one should
+“Supreme Lord has explained in details in Bhagavad-gītā how one should
 live and act in material world and how to get back home to God.
 Therefore\ *one should not allow to be baffled by*\ **false teachers**,
 fools and ignorant people. One should accept as one’s guru, mentor God
 Himself, the Supreme Personality of Godhead. However it is difficult to
-understand the instructions God or “Bhagavad-gita” without guru’s help.
+understand the instructions God or Bhagavad-gītā without guru’s help.
 **Therefore guru comes as a representative of
 the**\ *\ *\ **parampara.”**
 
@@ -464,11 +464,11 @@ through devotional service with faith in the disciplic succession and
 then advances further, he awakens his natural love for God, and then his
 success in life is assured.”
 
-(Srimad Bhagavatam 7.7.17 Shrila Prabhupada’s commentary)
+(Śrīmad Bhāgavatam 7.7.17 Shrila Prabhupada’s commentary)
 
 We belong to *Brahma-sampradaja*. Since Sri Chaytaniya Mahaprabhu joined
 this *sampradaja* it was called *Brahma-Madhva-Gaudiya-sampradaja*, or
-simply *Gaudiya-sampradaja*. In Bhagavad-gita Shrila Prabhupada quotes
+simply *Gaudiya-sampradaja*. In Bhagavad-gītā Shrila Prabhupada quotes
 *guru-parampara* - Brahma, Narada, Viyasa and so on up to Srila
 Prabhupada. After Bhaktisiddhanta Sarasvati Thakur passed away
 deflections began in our *guru-parampara*. This deflections used to
@@ -705,8 +705,7 @@ master's instructions and the spiritual master himself. In his absence,
 therefore, his words of direction should be the pride of the
 disciple**."
 
-(`Śrī Caitanya Caritāmṛta <http://vedabase.net/cc/en>`__ Adi 1.35
-commentary)
+(Śrī Caitanya Caritāmṛta Adi 1.35 commentary)
 
 In spite of everything GBC persistently continues to impose the body
 concept of LIVING guru.
@@ -790,7 +789,7 @@ Srila Prabhupada says:
 
 "If we want to know something about God, we should receive knowledge
 from Him directly, or from a person who knows Him. This is the direction
-given in Bhagavad-gita:
+given in Bhagavad-gītā:
 
 `tad <http://vedabase.net/t/tad>`__\ `viddhi <http://vedabase.net/v/viddhi>`__\ `praṇipātena <http://vedabase.net/p/pranipatena>`__\ `paripraśnena <http://vedabase.net/p/pariprasnena>`__\ `sevayā <http://vedabase.net/s/sevaya>`__
 
@@ -898,7 +897,7 @@ succession*".
 ("Nectar of devotion", introduction)
 
 "Regarding *parampara* system: *There is nothing to wonder for big gaps*
-[…] we find in the Bhagavad-gita that the Gita was taught to the sun god
+[…] we find in the Bhagavad-gītā that the Gītā was taught to the sun god
 some *millions of years ago*, but Krishna has mentioned *only three
 names* in this *parampara* system-namely, Vivasvan, Manu and Iksvaku;
 and so these gaps do not hamper from understanding the *parampara*
@@ -910,11 +909,11 @@ we belong to".
 (Srila Prabhupada letter to Dayananda 12.4.1968)
 
 **"…In order to receive the real message
-of**\ `Śrīmad <http://vedabase.net/s/srimad>`__\ **-**\ `Bhāgavatam <http://vedabase.net/b/bhagavatam>`__\ **one
+of Śrīmad Bhāgavatam one
 should approach the spiritual master who represents the chain of
 disciplic succession at this moment."**
 
-(Srimad Bhagavatam, 2.9.7 commentary)
+(Śrīmad Bhāgavatam, 2.9.7 commentary)
 
 With this statement Srila Prabhupada explains that we cannot get the
 transcendental knowledge (the *divya-jnana*) or in other words
@@ -979,7 +978,7 @@ is strictly bona fide. *Therefore one must accept
 the*\ `ācārya <http://srimadbhagavatam.com/a/acarya>`__\ *-*\ `sampradāya <http://srimadbhagavatam.com/s/sampradaya>`__\ *;
 otherwise one's endeavor will be futile*".
 
-(Srimad Bhagavatam 10.2.31 commentary)
+(Śrīmad Bhāgavatam 10.2.31 commentary)
 
 *Srila Prabhupada said*: "So person should not allow himself to be
 cheated by miscellaneous *false-teacher, fools and ignorant people*".
@@ -1031,7 +1030,7 @@ Bhagavad Gita, someone who never sees him physically, but he just comes
 in contact with the commentary, explanation, is this the same thing?”
 
 **Srila Prabhupada:** “ **Yes**. You can associate with Krishna by
-reading Bhagavad-Gita. And these saintly persons, they have given their
+reading Bhagavad-gītā. And these saintly persons, they have given their
 explanations, comments. So where is the difficulty?”
 
 (Walk with Srila Prabhupada 11.06. 1974 Paris.)
@@ -1046,18 +1045,18 @@ themselves cannot speak it is **bona fide** *sad-guru*\ who speaks
 through them and he lives in them. If someone *considers
 sad-guru*\ Srila Prabhupada to be death and thinks that this gives him
 right to pervert His philosophy, he is making a big mistake.
-Bhagavad-gita – is direct revelation of Lord Krishna and is not
+Bhagavad-gītā – is direct revelation of Lord Krishna and is not
 different from Him and one can worship and address his quest to
-Bhagavad-gita.
+Bhagavad-gītā.
 
-“The Bhagavad-gita is identical with Krsna; and because Krsna is the
+“The Bhagavad-gītā is identical with Krsna; and because Krsna is the
 Absolute Supreme Personality of Godhead, there is no difference between
-Krsna and His words. Therefore the Bhagavad-gita is as worshipable as
-Lord Krsna Himself, both being absolute. One who hears the Bhagavad-gita
+Krsna and His words. Therefore the Bhagavad-gītā is as worshipable as
+Lord Krsna Himself, both being absolute. One who hears the Bhagavad-gītā
 "as is" actually hears the words directly from the lotus lips of the
 Lord”.
 
-(“Science of Self-Realization” The Immortal Nectar of the Bhagavad-gita)
+(“Science of Self-Realization” The Immortal Nectar of the Bhagavad-gītā)
 
 Srila Gour Govinda Maharaja very skillfully falsifies meanings of the
 assigned questions so that answers come in accordance with false concept
@@ -1291,7 +1290,7 @@ mayavadi. But this does not mean that these words are applicable only to
 them. All He says has a deep meaning, these particular words are equally
 applicable to all of us and to all spiritual masters.
 
-In commentary to Bhagavad-gita (4.34.) it is said that blindly following
+In commentary to Bhagavad-gītā (4.34.) it is said that blindly following
 spiritual master is *condemned*. So we should use our intellegence to
 know whom to worship, whom to follow and where shall we arrive. Our
 ISKCON “gurus” can not occupy the position of *diksha-guru* ― they do
@@ -1881,7 +1880,7 @@ Prabhupada in Mayapur, Vrindavan, Calcutta, Delhi and other cities of
 India.*
 
 In beginning of October 1991 Bhakta-das purchased a book of A.C.
-Bhaktivedanta Svami Prabhupada "Bhagavad-gita as it is" and after some
+Bhaktivedanta Svami Prabhupada "Bhagavad-gītā as it is" and after some
 time began to read it. Having examined the illustrations in first hand
 he found the book to be very valuable. He was reading it one day,
 another, a week but understood nothing. He started reading it again and
@@ -1906,17 +1905,17 @@ heart. He has no words to describe his condition that time, but as he
 says, in that moment he failed to understand what was going on - "where
 he was or who he was". He kind of lost ability to feel the surrounding
 reality and was in the state of prostration. And so it was day after
-day. Bhakta-das fully sunk in "Bhagavad-gita" and does not remember how
+day. Bhakta-das fully sunk in "Bhagavad-gītā" and does not remember how
 many days he spent fasting like that, possibly 5 or 7.
 
 It was morning, sitting on the bed and facing the window Bhakta-das was
-reading "Bhagavad-gita" somewhere in the end of the fourth chapter.
+reading "Bhagavad-gītā" somewhere in the end of the fourth chapter.
 Reading and listening to the same voice on some moment he clearly
 realized how much sinful he was, what a rascal he was, his lifestyle was
 leading him directly to the hell. Bhakta-das had his tears running, sobs
 shook whole body and he caught his breath. Having lost his consciousness
 he fell flat on the back. All this happened instantly. When Bhakta-das
-regained consciousness he took up "Bhagavat-gita" from the floor and
+regained consciousness he took up "Bhagavat-gītā" from the floor and
 opened it, where Hare Krishna maha-mantra was written. He wrote it down
 on the piece of paper and started repeating holy name of the Lord:
 
@@ -1928,7 +1927,7 @@ on the piece of paper and started repeating holy name of the Lord:
 the suffering person and inject knowledge transcendental, which alone
 can extinguish the fire of material existence."**
 
-(Srimad Bhagavatam 1.7.22, commentary).
+(Śrīmad Bhāgavatam 1.7.22, commentary).
 
 From that moment he surrendered and accepted Srila Prabhupada as his
 spiritual master. He started following all adjusting principles:
@@ -2072,7 +2071,7 @@ master is discussed in this verse.
 
 Srila Prabhupada – is such a personality for us.
 
-"Bhagavad-gita" Verse 4. 34, Krishna says:
+"Bhagavad-gītā" Verse 4. 34, Krishna says:
 
    *tad viddhi pranipatena pariprasnena sevaya*
 
@@ -2089,13 +2088,13 @@ We have read this verse many times but hardly ever tried to understand
 the true meaning of it. Thoroughly studying this utterance we would
 understand that **bona fide**\ *\ guru*\ is **ONE**.
 
-According to Bhagavad-gita itself we must come to a *bona fideguru*\ who
+According to Bhagavad-gītā itself we must come to a *bona fideguru*\ who
 **sees the truth**.
 
 This verse with the commentary is especially important, or you may say,
-is the key verse of the whole "Bhagavad-gita". Without due understanding
+is the key verse of the whole "Bhagavad-gītā". Without due understanding
 of this verse it’s practically impossible to reach the spiritual
-perfection. Bhagavad-gita is a direct revelation of God and if we try to
+perfection. Bhagavad-gītā is a direct revelation of God and if we try to
 understand it we can realize God. In this verse Krishna advises us to
 address a **bona fide**\ spiritual master, who belongs to the chain of
 disciplic succession, starting from Lord Himself. Nobody can be a **bona
@@ -2120,7 +2119,7 @@ transcendental knowledge (*divya-jnana*).
 "Inquiry" is needed for the disciple to perceive the knowledge. There is
 no references proving that "inquiry", devotional service and "control of
 disciple" requires direct physical contact with the guru. In the
-commentary to the verse 4.34 of Bhagavad-gita Srila Prabhupada speaks of
+commentary to the verse 4.34 of Bhagavad-gītā Srila Prabhupada speaks of
 these as essential actions for the disciple. "Control" simply means that
 *disciple agrees to follow the adjusting principles* and that’s why it
 can be carried out through representatives of the guru.
@@ -2163,7 +2162,7 @@ Kurukshetra battle.
 **The influence of a pure devotee is such that if someone comes to
 associate with him with a little faith, one gets the chance
 of**\ **hearing**\ **about the Lord from**\ **authoritative
-scriptures**\ **like Bhagavad-gita and Srimad-Bhagavatam.... This is the
+scriptures**\ **like Bhagavad-gītā and Śrīmad Bhāgavatam.... This is the
 first stage of association with pure devotee."**
 
 ("Nectar to Devotion" ch.19)
@@ -2194,7 +2193,7 @@ similarly, spiritual master will guide.**
 
 (Srila Prabhupada, lecture 23.09.1969)
 
-Further in Bhagavad-gita verse 4.35. Krishna says:
+Further in Bhagavad-gītā verse 4.35. Krishna says:
 
 ..
 
@@ -2468,7 +2467,7 @@ of Krishna consciousness. Seven main goals:
    unity and peace in the world.
 
 2. To propagate a consciousness of Krishna, as it is revealed in the
-   Bhagavad-gita and the Srimad-Bhagavatam.
+   Bhagavad-gītā and the Śrīmad Bhāgavatam.
 
 3. **To bring the members of the Society together with each other and
    nearer to Krishna**, the prime entity, thus to develop the idea
@@ -2562,7 +2561,7 @@ was still alive (physically present) after 1972, they started making
 changes in His books trying to adapt them to their invented philosophy,
 particularly where *diksha-guru* matter was concerned. By that they were
 preparing a base ground for their criminal activity in the future. They
-started with "Bhagavad-gita as it is". Harikesha Svami was imposed a
+started with "Bhagavad-gītā as it is". Harikesha Svami was imposed a
 responsibility to execution of this criminal affair. There were many
 crimes caused by GBC including murders, violence, threats, beating and
 forbids.
@@ -2574,15 +2573,15 @@ GBC they made changes in the books of Srila Prabhupada to remove phrases
 "inconvenient" for GBC.
 
 In all books there are made more than thousand changes of philosophical
-nature. In the second publishing of "Bhagavat-gita" there were made more
+nature. In the second publishing of "Bhagavat-gītā" there were made more
 than hundred changes and additions by GBC instructions and without any
-authoritative sanctions. In third publishing of "Bhagavad-gita" in 2001
+authoritative sanctions. In third publishing of "Bhagavad-gītā" in 2001
 there were made so many changes and additions that it cannot be called
-"Bhagavad-gita **as it is**" any longer. A lot of changes also appeared
+"Bhagavad-gītā **as it is**" any longer. A lot of changes also appeared
 in Srila Prabhupada’s commentaries and in the translation of Sanskrit
 text.
 
-We shall give analysis of only one very important verse of Bhagavat-gita
+We shall give analysis of only one very important verse of Bhagavat-gītā
 4.34 and its commentary, revealing the truth for the general good. In
 this verse words of Krishna were changed. In first two sentences Krishna
 speaks of spiritual master in singular. In the third sentence it is
@@ -2716,11 +2715,11 @@ means of his books Srila Prabhupada endows us with transcendental
 knowledge (*divya-jnana*). From here it follows that transaction of
 transcendental knowledge is the initiation.
 
-"`Dīkṣā <http://vedabase.net/d/diksa>`__\ **actually means initiating a
+**Dīkṣā actually means initiating a
 disciple with transcendental knowledge by which he becomes freed from
-all material contamination."**
+all material contamination.**
 
-(C.C., Madhya, 4. 111. commentary)
+--C.C., Madhya, 4. 111. commentary
 
 Since Srila Prabhupada by means of His books initiates us with
 transcendental knowledge He becomes for us a **bona
@@ -2753,32 +2752,28 @@ in order to remain on the position of *diksha-guru*.
 As we already know *diksha-guru* should be on the level of
 *Maha-bhagavata*.
 
-`Mahā <http://vedabase.net/m/maha>`__\ **-**\ `bhāgavata <http://vedabase.net/b/bhagavata>`__\ *-śreṣṭho
-brāhmaṇo*\ `vai <http://vedabase.net/v/vai>`__\ *gurur*\ `nṛṇām <http://vedabase.net/n/nrnam>`__
+  *mahā-bhāgavata-śreṣṭho brāhmaṇo vai gurur nṛṇām*
 
-`sarveṣām <http://vedabase.net/s/sarvesam>`__\ `eva <http://vedabase.net/e/eva>`__\ `lokānām <http://vedabase.net/l/lokanam>`__\ `asau <http://vedabase.net/a/asau>`__\ *pūjyo*\ `yathā <http://vedabase.net/y/yatha>`__\ `hariḥ <http://vedabase.net/h/harih>`__
+  *sarveṣām  eva  lokānām asau pūjyo yathā hariḥ*
 
-`mahā <http://vedabase.net/m/maha>`__\ *-*\ `kula <http://vedabase.net/k/kula>`__\ *-prasūto
-'pi*\ `sarva <http://vedabase.net/s/sarva>`__\ *-*\ `yajñeṣu <http://vedabase.net/y/yajnesu>`__\ `dīkṣitaḥ <http://vedabase.net/d/diksitah>`__
+  *mahā-kula-prasūto pi sarva-yajñeṣu dīkṣitaḥ*
 
-`sahasra <http://vedabase.net/s/sahasra>`__\ *-śākhādhyāyī*\ `ca <http://vedabase.net/c/ca>`__\ `na <http://vedabase.net/n/na>`__\ `guruḥ <http://vedabase.net/g/guruh>`__\ *syād
-avaiṣṇavaḥ*
+  *sahasra-śākhādhyāyī ca na guruḥ syād avaiṣṇavaḥ*
 
-**"The**\ `guru <http://vedabase.net/g/guru>`__\ **must be situated on
-the topmost platform of devotional service. There are three classes of
-devotees, and the**\ `guru <http://vedabase.net/g/guru>`__\ **must be
-accepted from the topmost class. The first-class devotee is the
-spiritual master for all kinds of people".**
+  **"The guru must be situated on
+  the topmost platform of devotional service. There are three classes of
+  devotees, and the guru must be
+  accepted from the topmost class. The first-class devotee is the
+  spiritual master for all kinds of people".**
 
-**"When one has attained the topmost position
-of**\ `mahā <http://vedabase.net/m/maha>`__\ **-**\ `bhāgavata <http://vedabase.net/b/bhagavata>`__\ **,
-he is to be accepted as
-a**\ `guru <http://vedabase.net/g/guru>`__\ **and worshiped exactly
-like**\ `Hari <http://vedabase.net/h/hari>`__\ **, the Personality of
-Godhead. Only such a person is eligible to occupy the post of
-a**\ `guru <http://vedabase.net/g/guru>`__\ **."**
+ **When one has attained the topmost position
+ of mahā-bhāgavata, he is to be accepted as
+ a guru  and worshiped exactly
+ like Hari, the Personality of
+ Godhead. Only such a person is eligible to occupy the post of
+ a guru.**
 
-(C.C., Madhya, 24.330, commentary)
+ --C.C., Madhya, 24.330, commentary
 
 Unauthorized ISKCON gurus can initiate no one into Krishna consciousness
 since they do not possess the necessary qualification and never got
@@ -3562,7 +3557,7 @@ your own field and continue to become *ritvik* and act on my charge.
 People are becoming sympathetic there. The place is very nice.
 
 **Tamal Krisna Gosvami:** Yeah. He says: ‘The introduction of
-*Bhagavad-Gita* has been translated into Tamil, And l will have the
+*Bhagavad-gītā* has been translated into Tamil, And l will have the
 second charter done next. Then publish a small booklet for immediate
 distribution.
 
@@ -3793,14 +3788,12 @@ just like in the catholic churches the Holy Father is elected. Number of
 unauthorized gurus of ISKCON increased up to eighty by now and continues
 to grow.
 
-**"Mundane votes have no jurisdiction to elect
-a**\ `Vaiṣṇava <http://vedabase.net/v/vaisnava>`__\ `ācārya <http://vedabase.net/a/acarya>`__\ **.
-A**\ `Vaiṣṇava <http://vedabase.net/v/vaisnava>`__\ `ācārya <http://vedabase.net/a/acarya>`__\ **is
-self-effulgent, and there is no need for any court judgment."**
+**"Mundane votes have no jurisdiction to elect a Vaiṣṇava ācārya.
+A Vaiṣṇava ācārya is self-effulgent, and there is no need for any court judgment."**
 
 (C.C., Madhiya, 1.220, commentary)
 
-**"**\ `Sri <http://vedabase.net/s/sri>`__\ `Jiva <http://vedabase.net/j/jiva>`__\ **Gosvami
+**"Sri Jiva Gosvami
 advises that one not accept a spiritual master in terms of hereditary or
 customary social and ecclesiastical conventions."**
 
@@ -3921,20 +3914,20 @@ teaching?
 You may disapprove all what we say but you cannot argue against what
 Krishna or *His representative* His Divine Grace Srila Prabhupada says.
 
-Srimad-Bhagavatam – is a science of Krishna the Primordial Lord, the
-cause of all causes. Teaching of "Srimad-Bhagavatam" is consecutively
+Śrīmad Bhāgavatam – is a science of Krishna the Primordial Lord, the
+cause of all causes. Teaching of "Śrīmad Bhāgavatam" is consecutively
 opened in the first nine songs , elevating person to the highest level
 of the God realization. Srila Prabhupada recommends to study the
-Bhagavad-gita first.
+Bhagavad-gītā first.
 
-Bhagavat-gita – is a direct revelation of Lord Krishna and if we try to
+Bhagavat-gītā – is a direct revelation of Lord Krishna and if we try to
 understand it we shall be able to understand Krishna. Nobody can lead
 astray the one who got knowledge through revelation. Studying Gita
 person completely realizes the position of Lord Krishna: and when he is
 beside lotus feet of Krishna, he understands the tales about Krishna as
-they are given in Srimad-Bhagavatam.
+they are given in Śrīmad Bhāgavatam.
 
-In Bhagavad-gita Krishna says that He descends into material world for
+In Bhagavad-gītā Krishna says that He descends into material world for
 two reasons: to remove the violations in religions and to please his
 devotees, those who are always thirsty to see Him. Also He comes to
 attract the conditioned souls to Himself and invite everyone into His
@@ -3942,15 +3935,14 @@ transcendental abode, invite them to come back home to God.
 
 In (Bhagavad gita. 4.9.) Krishna says:
 
-`janma <http://vedabase.net/j/janma>`__\ `karma <http://vedabase.net/k/karma>`__\ `ca <http://vedabase.net/c/ca>`__\ *me*\ `divyam <http://vedabase.net/d/divyam>`__\ `evaḿ <http://vedabase.net/e/evam>`__\ *yo*\ `vetti <http://vedabase.net/v/vetti>`__\ `tattvataḥ <http://vedabase.net/t/tattvatah>`__
+ *janma karma ca me divyam evaṁ yo vetti tattvataḥ*
 
-`tyaktvā <http://vedabase.net/t/tyaktva>`__\ `dehaḿ <http://vedabase.net/d/deham>`__\ `punar <http://vedabase.net/p/punar>`__\ `janma <http://vedabase.net/j/janma>`__\ *naiti*\ `mām <http://vedabase.net/m/mam>`__\ `eti <http://vedabase.net/e/eti>`__\ *so
-'rjuna*
+ *tyaktvā dehaṁ punar janma naiti mām eti so ’rjuna*
 
 **"One who knows the transcendental nature of My appearance and
 activities does not, upon leaving the body, take his birth again in this
 material world, but attains My eternal abode,
-O**\ `Arjuna <http://vedabase.net/a/arjuna>`__\ **."**
+O Arjuna."**
 
 Here comes a question: how to perceive the transcendental nature of the
 Lord? Lord Krishna Himself gives the instructions, which help us to
@@ -3970,17 +3962,17 @@ this is the last material birth" (Dialectical spiritualism).
 
 For those who are serious and sincerely wants to realize the
 transcendental nature of the Lord and His deeds, Srila Prabhupada
-recommends to study Srimad-Bhagavatam consecutively starting from the
+recommends to study Śrīmad Bhāgavatam consecutively starting from the
 first song. In the very beginning of His multivolume work in the second
-song of Srimad-Bhagavatam, Shrila Prabhupada gives us very important
+song of Śrīmad Bhāgavatam, Shrila Prabhupada gives us very important
 instructions:
 
-**“In** **order to receive the real message
-of**\ `Srimad <http://vedabase.net/s/srimad>`__\ **-**\ `Bhagavatam <http://vedabase.net/b/bhagavatam>`__\ **one
+**“In order to receive the real message
+of Śrīmad Bhāgavatam one
 should approach the current link, or spiritual master, in the chain of
 disciplic succession."** (S.B., 2.9.7., commentary).
 
-Further in Srimad-Bhagavatam Srila Prabhupada tells us what kind of
+Further in Śrīmad Bhāgavatam Srila Prabhupada tells us what kind of
 personality is worth to be a representative of dicsiplic succession and
 recommends to accept such a person as a *diksha-guru*. These
 instructions are the base in realization of the "Shrimad-Bhagavatam"
@@ -3997,12 +3989,12 @@ It is self-evident that Srila Prabhupada is an acharya of our sampradaya
 next to the Srila Bhaktisiddhanta Sarasvati Thakur. Consequently Srila
 Prabhupada is a present section in the chain. He represents the
 disciplic succession at this time and thereby he is the person we shall
-address to learn the meaning of the “Srimad-Bhagavatam" teaching.
+address to learn the meaning of the “Śrīmad Bhāgavatam" teaching.
 
-So what *concludes* the meaning of the "Srimad-Bhagavatam" teaching?
+So what *concludes* the meaning of the "Śrīmad Bhāgavatam" teaching?
 
-Attentive and sincere study of Bagavad-gita and the first nine songs of
-Srimad-Bhagavatam makes one to understand following:
+Attentive and sincere study of Bagavad-gītā and the first nine songs of
+Śrīmad Bhāgavatam makes one to understand following:
 
 .. raw:: latex
 
@@ -4020,18 +4012,18 @@ Srimad-Bhagavatam makes one to understand following:
 
 *Surrendering oneself to the lotus feet of bona fide spiritual master
 Srila Prabhupada, the direct representative of Krishna, is a guaranteed
-success in understanding the meaning of Srimad-Bhagavatam teaching.* The
-whole snap of understanding the meaning of the Srimad-Bhagavatam
+success in understanding the meaning of Śrīmad Bhāgavatam teaching.* The
+whole snap of understanding the meaning of the Śrīmad Bhāgavatam
 teaching is in this.
 
 And thereby, as Lord says Himself, we return to His eternal abode.
 Without surrendering oneself to bona fide representative of Krishna it
 is impossible to understand the transcendental nature of the Lord and
-His deeds. As a matter of fact to study only one Bhagavad-gita is enough
+His deeds. As a matter of fact to study only one Bhagavad-gītā is enough
 for us to understand Krishna and reach His eternal abode. But
-Srimad-Bhagavatam, which concludes the essence of the Vedas, presents
+Śrīmad Bhāgavatam, which concludes the essence of the Vedas, presents
 the most pure nectar of Lords transcendental lilas, the nectar for which
-sincere bhaktas have such a powerful thirst. Srimad-Bhagavatam was told
+sincere bhaktas have such a powerful thirst. Śrīmad Bhāgavatam was told
 for them by Viyasadeva - the embodiment of the Supreme Personality of
 Godhead. What Srila Prabhupada says in His books is not different from
 what Lord Krisha says Himself. Krishna explains to Arjune the importance
@@ -4040,7 +4032,7 @@ master and Srila Prabhupada also gives special importance to this in his
 comments. For instance:
 
 "Actually, anyone who HEARS
-Bhagavad-\ `gītā <http://vedabase.net/g/gita>`__ from a **bona fide**
+Bhagavad-gītā from a **bona fide**
 spiritual master like `Kṛṣṇa <http://vedabase.net/k/krsna>`__ or *His
 representative* will find that all his ignorance is dispelled. [ ] Any
 person fortunate enough to HEAR these teachings from
@@ -4115,10 +4107,10 @@ without any effect."
 
 (The Science of the selfrealization ch. 2)
 
-*According to the Bhagavat-gita itself we should accept*\ **bona
+*According to the Bhagavat-gītā itself we should accept*\ **bona
 fide**\ *guru who sees the TRUTH.*
 
-Attentive study of the books Shrimat-Bhagavatam and Bhagavat-gita will
+Attentive study of the books Shrimat-Bhagavatam and Bhagavat-gītā will
 leave no doubts that only Srila Prabhupada, the *direct* representative
 of Suprime Personality of Godhead, can be a **bona fide** *diksha-guru*
 in our *Gaudiya-sampradaya*. And the last instruction of Srila
@@ -4434,7 +4426,7 @@ hearing, you contact me in reality**".
 associate with him with a little faith, one gets the chance
 of**\ **hearing**\ **about the Lord from**\ **authoritative
 scriptures**\ **like
-Bhagavad-**\ `gītā <http://nectarofdevotion.com/g/gita>`__\ **and**\ `Śrīmad <http://nectarofdevotion.com/s/srimad>`__\ **-**\ `Bhāgavatam <http://nectarofdevotion.com/b/bhagavatam>`__\ **.…This
+Bhagavad-gītā and Śrīmad Bhāgavatam …This
 is the first stage of association with pure devotee.".**
 
 ("Nectar of Devotion" ch.19)
@@ -4524,7 +4516,7 @@ Prabhupada has asked him to initiate others.
 one’s guru, cannot be a guru himself. If you stop obeying the guru, your
 practice stops".
 
-(Lecture of Srila Prabhupada on Srimad Bhagavatam 10 aug. 1974).
+(Lecture of Srila Prabhupada on Śrīmad Bhāgavatam 10 aug. 1974).
 
 Аnd in Sri Caitanya-Caritamrita, commentary to Madhya-lila, 19.156 it is
 said:
@@ -4630,7 +4622,7 @@ especially explained by
 `Srila <http://caitanyacaritamrta.com/s/srila>`__ Visvanatha
 `Cakravarti <http://caitanyacaritamrta.com/c/cakravarti>`__
 `Thakura <http://caitanyacaritamrta.com/t/thakura>`__ in his commentary
-on the Bhagavad-\ `gita <http://caitanyacaritamrta.com/g/gita>`__ verse
+on the Bhagavad-gītā verse
 beginning *vyavasayatmika buddhir
 ekeha*\ `kuru <http://caitanyacaritamrta.com/k/kuru>`__\ *-*\ `nandana <http://caitanyacaritamrta.com/n/nandana>`__.
 According to this instruction of Visvanatha
@@ -4796,7 +4788,7 @@ Narayana Maharaja allows many interpretations as well as distorts
 *shastras* where there is *diksha-guru*\ discussed, for instance: (B.g.
 verse 4.34); (Mundaka Upanishad 1.2.12); (S.B., 11.2.21); (C.C.,
 Adi.,1.32). Maharaja gives non authoritative scheme of *guru-parampara*
-which differs from that given by Srila Prabhupada in Bhagavad-gita.
+which differs from that given by Srila Prabhupada in Bhagavad-gītā.
 Narayana Maharaja brings forth his own speculations of
 *diksha-guru*\ meaning, for instance he writes: "If our
 *diksha-guru*\ is unable to free us from all the stages of the sins, it
@@ -4916,7 +4908,7 @@ mistakes and speak such words for which he would further have to ask for
 forgiveness? Srila Prabhupada – is *Maha-bhagavata* and each of His word
 – is a word of God. We all know that Lord has granted Him with power to
 fulfill this missions and words of such devotee are dictated by Lord
-Himself. In Bhagavad-gita 1-st Chapter the word Hrishikesha is used and
+Himself. In Bhagavad-gītā 1-st Chapter the word Hrishikesha is used and
 Srila Prabhupada clearly says that Lord *directly* controls and manages
 the feelings of pure devotee.
 
@@ -5296,7 +5288,7 @@ transcendental bhakti".
 (Narayana Maharaja, Hawaii 17 febr. 2001)
 
 "Prahlada Maharaja is the topmost example of a Vaisnava".
-(Srimad-Bhagavatam 4.21.47, purport)
+(Śrīmad Bhāgavatam 4.21.47, purport)
 
 "So we see practically how Prahlada Maharaja immediately attained the
 state of prema… he first of all followed the instruction of Brahma, then
@@ -5333,7 +5325,7 @@ Charitamrta as presented by Srila Prabhupada:
 
 "He (Advaita Acharya) delivered all living beings by offering the gift
 of Krishna-bhakti (pure devotion to Krishna). He explained Bhagavadgita
-and Srimad-Bhagavatam in the light of devotional service."
+and Śrīmad Bhāgavatam in the light of devotional service."
 
 (Srila Prabhupada, Caitanya caritamrita, Adi-lila 6.28)
 
@@ -5590,8 +5582,7 @@ violators of religious principles have no respect for the authoritative
 succession*. They ignore the Vedic injunction acaryopasana -- "One must
 worship the `acarya <http://vedabase.net/a/acarya>`__" -- and
 `Krsna <http://vedabase.net/k/krsna>`__'s statement in the
-Bhagavad-\ `gita <http://vedabase.net/g/gita>`__
-(`4.2 <http://vedabase.net/bg/4/2/en2>`__)
+Bhagavad-gītā (4.2)
 `evam <http://vedabase.net/e/evam>`__
 `parampara <http://vedabase.net/p/parampara>`__-`praptam <http://vedabase.net/p/praptam>`__,
 "This supreme science of God is received through the disciplic
@@ -5602,7 +5593,7 @@ of the *acaryas*.
 These rogues are the most dangerous elements in human society. Because
 there is no religious government, they escape punishment by the law of
 the state. They cannot, however, escape the law of the Supreme, who has
-clearly declared in the Bhagavad-\ `gita <http://vedabase.net/g/gita>`__
+clearly declared in the Bhagavad-gītā
 that envious demons in the garb of religious propagandists shall be
 thrown into the darkest regions of hell (`Bg.
 16.19-20 <http://vedabase.net/bg/16/19/en2>`__).
@@ -5770,7 +5761,7 @@ Unfortunately, many devotees judge the spiritual level of the person
 only by external signs and on this base move over to other *Maths* in
 quest of a *guru*.
 
-Let us bring an example from Srimad-Bhagavatam:
+Let us bring an example from Śrīmad Bhāgavatam:
 
 "A person's spiritual position will be ascertained merely according to
 external symbols, *and on that same basis people will change from one
@@ -6086,7 +6077,7 @@ Because if he is a *Maha-bhagavatha*, he cannot fall. If he falls down
 he is not a *Maha-bhagavatha*. What is the definition of
 *Maha-bhagavatha*? First we have to know that. According to the
 Bhagavata purana, a person who has practiced the vaishnava system
-according to Maha Srimad Bhagavatha and has reached certain level. Then
+according to Maha Śrīmad Bhāgavata and has reached certain level. Then
 if he is *Maha-bhagavatha*, he cannot come down. He cannot fall down.
 Sometimes it happens, even realised souls have *prarabhdha karma*. That
 is also told. Even the realised souls who have seen Narayana face to
@@ -6611,9 +6602,9 @@ institutes and agricultural communes.
 Already before His departure to America, living in a very plain way in
 the historical medieval temple Radha-Damodar, Srila Prabhupada began to
 work on His masterpiece - a multivolume translation and commentary to
-"Srimad-Bhagavatam" ("Bhagavata-purana"), the classical philosophical
+"Śrīmad Bhāgavatam" ("Bhagavata-purana"), the classical philosophical
 scripture on Sanskrit, which consists of eighteen thousand verses.
-Having published first three volumes of "Srimad-Bhagavatam" Srila
+Having published first three volumes of "Śrīmad Bhāgavatam" Srila
 Prabhupada went to America and within few years released more than sixty
 volumes of translation, commentaries and overview essays of the Indian
 classical works on philosophy and religion. His works are currently
@@ -6758,7 +6749,7 @@ been lost due to the influence of time."
 “Thus Sarvabhauma Bhattacharya understood that Caitanya Mahaprabhu – is
 the very same Krishna and He came to teach the *bhakti-yoga* and process
 of the renunciation. Sri Caitanya Mahaprabhu taught the same philosophy
-of Bhagavad-gita. However He didn’t come as Krishna, but as a devotee of
+of Bhagavad-gītā. However He didn’t come as Krishna, but as a devotee of
 Krishna. Rupa Gosvami also appreciated Caitanya Mahaprabhu as the most
 munificent incarnation because He does not only give Krishna, but also
 pure love to Krishna. *Namo maha vadanyaya-krisna-prema-pradaya te*. In
@@ -7028,13 +7019,13 @@ I surrender to Krishna."
 Radha and Krishna are not different form each other. Love of Krishna to
 Radharani is full of limitless bliss and faultless purity. Radhika, as
 if competing with Krishna in love, shows Her highest humility. Dear
-readers how do you think, why in all Srimad-Bhagavatam except the tenth
+readers how do you think, why in all Śrīmad Bhāgavatam except the tenth
 Canto Śrīmatī Radharani is never mentioned? Our pseudo gurus from ISKCON
 explain in their lecture that Vyāsadeva could not write the name of
 Radharani, since whenever He mentioned the name Radha he used to fall
-into ecstasy and could not write Srimad-Bhagavatam. *This is not true!*
+into ecstasy and could not write Śrīmad Bhāgavatam. *This is not true!*
 Actually Radhika came Herself personally to Vyāsadeva and asked him not
-to mention Her name in Srimad-Bhagavatam, but to write only about
+to mention Her name in Śrīmad Bhāgavatam, but to write only about
 Krishna, as the Supreme Personality of Godhead. And anyone else is His
 eternal servant. Also she asked that Her appearance in this world in the
 form of pure devotee should not be described in Sastras\ **.** It’s a
@@ -7206,7 +7197,7 @@ However we can see that there are such people who dear not only to
 interpret and reject the instructions of the **representative** of God,
 but also change the holy scriptures of God.
 
-In Bhagavad-gita (16. 6.) Krishna says: “O son of Prtha, in this world
+In Bhagavad-gītā (16. 6.) Krishna says: “O son of Prtha, in this world
 there are two kinds of created beings. One is called the divine and the
 other demonic”.
 
@@ -7280,7 +7271,7 @@ others will go back to Godhead. No, the whole plan is that everyone must
 come back to Godhead. Some living entities are very obstinate, just like
 bad boys. The father says: "Come on", but the boy says: "No, I’ll not
 go". It is then the fathers business to drag him. At the end of
-Bhagavad-gita\ *,*\ Krishna says:
+Bhagavad-gītā Krishna says:
 
 Sarva-guhyatamain ghuyah srnu me paramam vacah
 
@@ -7289,7 +7280,7 @@ Isto’si me drdham iti tato vaksyami te hitam
 "Because you are My very dear friend, I’m speaking to you the most
 confidential part of knowledge. Hear this from Me, for it is for your
 benefit.” (B.g. 18.64). Then He says: "surrender unto Me, and I will
-give you all protection." (B.g.18.66). In Bhagavad-gita, Krishan
+give you all protection." (B.g.18.66). In Bhagavad-gītā, Krishna
 instructed Arjuna in *karma-yoga*, *jnana-yoga* and other *yogas*, but
 His final instruction was to surrender. *Prabhupada says:* "Authentic
 truth is that God has a plan and person should learn this plan from the
@@ -7314,7 +7305,7 @@ souls. Unless we are liberated from conditioned life, we will remain
 confused under the influence of the exsternal material energy. Until we
 come to the spiritual platform, there is no possibility of escaping from
 envy and pride by so-called power. The transcendental stage is described
-in Bhagavad-gita as *brahma-bhutah prasannatma samah sarvesu bhutesu
+in Bhagavad-gītā as *brahma-bhutah prasannatma samah sarvesu bhutesu
 (18.54).*\ When we attain that stage, we can look at everyone with the
 same spiritual understanding.”
 
@@ -7444,8 +7435,8 @@ interpretations are imperfect as well. At the best, knowledge received
 in such a way, will be for us simply an information, food for mind.
 
 Due to the good memory some people can go on speaking for hours on these
-transcendental topics, quoting the shlokas from Bhagavad-gita and
-Srimad-Bhagavatam, become the good storyteller and thereby become known
+transcendental topics, quoting the shlokas from Bhagavad-gītā and
+Śrīmad Bhāgavatam, become the good storyteller and thereby become known
 as a great "pandit" (the scientist), but in the end this will not bring
 any good neither to him nor to the ones who listen. Shrimad-Bhagavatam
 should be heard from the mouth of pure devotee of Lord Krishna. Lectures
@@ -7494,22 +7485,22 @@ Sri Caytanya Mahaprabhu says: (S.B. 10.14.3)
    *ye prayaso ‘jita jito ‘py asi tais tri-lokyam*
 
 "Regardless what kind of guna man is influenced by – *rajas*, *tamas* or
-*satva*, hearing Srimad-Bhagavatam everyday *retelled by
+*satva*, hearing Śrīmad Bhāgavatam everyday *retelled by
 the*\ **self-realized**\ *person*, one can break free from the material
 bondage"
 
 In this verse Lord Caytanya Mahaprabhu recommends us to hear
-Srimad-Bhagavatam from the mouth of pure devotee. Srila Prabhupada is
+Śrīmad Bhāgavatam from the mouth of pure devotee. Srila Prabhupada is
 that very personality, **self-realized**\ *soul*, who *retells* us the
-Srimad-Bhagavatam in His books. One who takes these books in hands, gets
+Śrīmad Bhāgavatam in His books. One who takes these books in hands, gets
 the possibility to communicate with Srila Prabhupada and HEAR from His
-mouth Srimad-Bhagavatam.
+mouth Śrīmad Bhāgavatam.
 
 "**The influence of a pure devotee is such that if someone comes to
 associate with him with a little faith, one gets the chance
 of**\ **hearing**\ **about the Lord**\ **from authoritative
 scriptures**\ **like
-Bhagavad-**\ `gītā <http://nectarofdevotion.com/g/gita>`__\ **and**\ `Śrīmad <http://nectarofdevotion.com/s/srimad>`__\ **-**\ `Bhāgavatam <http://nectarofdevotion.com/b/bhagavatam>`__\ **....This
+Bhagavad-gītā and Śrīmad Bhāgavatam ....This
 is the first stage of association with pure devotee."**
 
 ("Nectar to Devotion" ch. 19)
@@ -7535,7 +7526,7 @@ guru himself.
 *Srila Prabhupada says:* " If you stop obeying the guru, your practice
 stops"
 
-(Lecture of Srila Prabhupada on Srimad Bhagavatam 10 aug 1974)
+(Lecture of Srila Prabhupada on Śrīmad Bhāgavatam 10 aug 1974)
 
 Being in slavery of one’s *false ego*, person *cannot give* instructions
 to others, not to mention the *Diksha*. Initiation is not simply a
@@ -8761,11 +8752,11 @@ do**\ *\ *\ **everything**\ *.*
 (S.P. Room conversation, 18/2/76)
 
 **Paramahamsa:**\ My question is: a pure devotee, when he comments on
-Bhagavad-Gita, someone who never sees him physically, but he just comes
+Bhagavad-gītā, someone who never sees him physically, but he just comes
 in contact with the commentary, explanation, is this the same thing?
 
 **Srila Prabhupada:**\ Yes. You can associate with Krsna by reading
-Bhagavad-Gita. And these saintly persons, they have given their
+Bhagavad-gītā. And these saintly persons, they have given their
 explanations, comments. So where is the difficulty?
 
 (S.P. Morning walk, 11/6/74, Paris)
@@ -8811,7 +8802,7 @@ first day he **hears**.
 The influence of a pure devotee is such that if someone comes to
 associate with him with a little faith, one gets the chance of
 **hearing** about the Lord **from authoritative scriptures** like
-Bhagavad-Gita and Srimad- Bhagavatam [...] This is the first stage of
+Bhagavad-gītā and Śrīmad Bhāgavatam [...] This is the first stage of
 association with pure devotees.
 
 (Nectar of Devotion, chapter 19)
