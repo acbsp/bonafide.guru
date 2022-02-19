@@ -18,7 +18,6 @@ endif
 # Build pdf by default.
 latexpdf:
 
-# Support "make help" to show available options.
 help:
 	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
