@@ -1,8 +1,3 @@
-# Configuration file for the Sphinx documentation builder.
-#
-# This file only contains a selection of the most common options. For a full
-# list see the documentation:
-# https://www.sphinx-doc.org/en/master/usage/configuration.html
 
 # -- Path setup --------------------------------------------------------------
 
@@ -19,12 +14,12 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Истинный Гуру'
+project = 'Bona Fide Guru'
 copyright = '2022, Abhay Charan das'
-author = 'Ягьясена -- Прабхупа̄да дас'
+author = 'Yagyasena -- Prabhupāda das'
 
 # The full version, including alpha/beta/rc tags
-release = '2022.02.18'
+release = '2022.02.19'
 
 show_authors = False
 smartquotes = True
@@ -34,9 +29,6 @@ smartquotes = True
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-#extensions =  []
-#extensions = ['sphinx_rtd_theme','sphinx.ext.mathjax']
-#extensions = [  'sphinxcontrib.bibtex',    'sphinx.ext.todo',    'sphinx.ext.autosectionlabel']
 extensions = ['sphinx_rtd_theme', 'sphinxcontrib.programoutput']
 # Now you’ve two new directives:
 #  .. program-output:: python -V
@@ -73,10 +65,8 @@ text_add_secnumbers = False
 latex_engine = 'xelatex'
 
 # Grouping the document tree into LaTeX files. List of tuples# (source start file, target name, title, author, documentclass [howto/manual]).
-# ('index', 'bonafide.guru.tex', u'Истинный Гуру', u'Abhay Charan das', 'manual'),
-# ('index', 'bonafide.guru.tex', 'Истинный Гуру', 'Abhay Charan das', 'manual', False),
 latex_documents = [
- ('index', 'bonafide.guru.tex', u'Истинный Гуру', u'Ягьясена -- Прабхупа̄да дас', 'manual', False),
+ ('index', 'bonafide.guru.tex', u'Bona Fide Guru', u'Yagyasena -- Prabhupāda das', 'manual', False),
 ]
 
 latex_additional_files = [
@@ -119,29 +109,13 @@ latex_elements = {
         \usepackage{xunicode}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% The first part is used for the ebook, 
-%  the second part for your PDF file !!
-\ifdefined\HCode
-  \usepackage[russian]{babel}
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-  %\usepackage{tex4ebook}
-
-  \usepackage{alternative4ht}
-  \altusepackage{fontspec}
- 
-\else
-
   \usepackage{polyglossia}
   \setdefaultlanguage{russian}
   \setotherlanguages{english}
   %\setotherlanguages{english,hindi,sanskrit}
   %\newfontfamily\devanagarifont[Script=Devanagari]{Lohit Devanagari}
-  %\setkeys{russian}{babelshorthands=true}
 
   \usepackage{fontspec}
-  %\setmainfont{Times New Roman}
-  %\newfontfamily\cyrillicfont{Times New Roman}
 
  \setmainfont{FreeMono}[
    Path = /usr/share/fonts/truetype/freefont/,
@@ -182,13 +156,11 @@ latex_elements = {
   \setromanfont{CharisSIL}
   \setsansfont{Andika}
   \setmonofont{FreeMono}
-  %\setmonofont{DejaVuSansMono-BoldOblique}
 
   \newfontfamily{\cyrillicfont}{CharisSIL}
   \newfontfamily{\cyrillicfontrm}{CharisSIL}
   \newfontfamily{\cyrillicfontsf}{Andika}
   \newfontfamily{\cyrillicfonttt}{FreeMono}
-  %\newfontfamily{\cyrillicfonttt}{DejaVuSansMono-BoldOblique}
 
   %\newfontface\fsfam{FreeSans}
   %\newfontface\fsItalicfam{FreeSansOblique}
@@ -201,13 +173,13 @@ latex_elements = {
   \newfontface\tnrBoldfam{Times New Roman Bold}
   \newfontface\tnrBIfam{Times New Roman Bold Italic}
   \newcommand*\BonafideGuru{%
-    {\tnrBoldfam Истинный Гуру}%
+    {\tnrBoldfam Bona Fide Guru}%
   }%
   \newcommand*\BonafideGuruN{%
-    {\tnrfam Истинный Гуру}%
+    {\tnrfam Bona Fide Guru}%
   }%
   \newcommand*\Yagyasena{%
-    {\cyrillicfont Ягьясена \textendash~Прабхупа̄да дас}%
+    {Yagyasena \textendash~Prabhupāda das}%
   }%
 
   \newcommand\decorCenterRuler{%
@@ -247,7 +219,6 @@ latex_elements = {
 
   \newcommand{\simplify}{%
      \cleardoublepage\ClearShipoutPictureBG
-     %\ClearShipoutPictureBG
   }
 
   \usepackage{fancyhdr}
@@ -307,12 +278,10 @@ latex_elements = {
 
 \fi
 
-% It is my code:
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
 \let\endchangemargin=\endlist
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 ''',
 }
 
@@ -327,20 +296,16 @@ rst_epilog = r"""
 .. |noFrameEnd| raw:: latex
 
    \endgroup
-
-.. |sub123| replace:: mine123
 """
 rst_prolog = """
-.. |sub234| replace:: mine234
 """
 
 version = '2-е издание'
 # -- Options for HTML output -------------------------------------------------
 
 #html_baseurl = '/html/'
-html_title = 'Истинный Гуру' # : Ягьясена-Прабхупа̄да дас'
+html_title = 'Bona Fide Guru'
 
-#html_theme = 'bizstyle'
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
     #'analytics_id': 'G-XXXXXXXXXX',  #  Provided by Google in your dashboard
@@ -380,34 +345,29 @@ html_show_sourcelink = False
 html_show_copyright = True
 html_show_sphinx = True
 
-
 # -- Options for ePub output -------------------------------------------------
 
 epub_theme = 'epub'
-epub_language = 'ru'
+epub_language = 'en'
 epub_cover = ('_static/epub-cover-650x475.png', 'epub-cover.html')
 
 #epub_pre_files = [
-#    ('index.html', 'Welcome'),
 #]
 #epub_post_files  = [
-#    ('index.html', 'LastWelcome'),
 #]
 
-epub_title = 'Истинный Гуру'
-epub_author = 'Ягьясена-Прабхупа̄да дас'
+epub_title = 'Bona Fide Guru'
+epub_author = 'Yagyasena-Prabhupāda das'
 epub_contributor  = 'Abhay Charan das'
 epub3_contributor = 'Abhay Charan das'
 epub_publisher = 'Abhay Charan das'
 epub_copyright =  '2022, Abhay Charan das'
-#epub_identifier = 'http://bonafide.guru' # or ISBN
 epub_identifier = 'www.bonafide.guru' # or ISBN
 epub_scheme = 'URL' # scheme for the 'epub_identifier'
-#epub_uid = 'Его Божественная Милость Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄да, ISKCON, Международное Общество для Осознания Кришны, Дӣкша̄-гуру,  Bona fide Guru, Гаўдӣйа-Ваишн̣авизм'
+#epub_uid = 'His Divine Grace Śrī Śrīmad A.C. Bhaktivedanta Swami Prabhupāda, ISKCON, Founder-Ācārya of the International Society for Krishna Consciousness, Bona fide Guru, Diksha Guru, Gauḍīya Vaiṣṇavism'
 epub_uid = epub_identifier
-epub_description = 'подношение лотосным стопам Основателя-А̄ча̄рйи ISKCON Его Божественной Милости Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Ш́рӣлы Прабхупа̄ды'
+epub_description = 'offering to the lotus feet of the Founder-Ācārya ISKCON His Divine Grace Śrī Śrīmad A.C. Bhaktivedanta Swami Prabhupāda'
 epub3_description = epub_description
-
 
 #epub_show_urls
 #Control whether to display URL addresses. This is very useful for readers that have no other means to display the linked URL. The settings can have the following values:

@@ -3,9 +3,9 @@
    :x–robots–tag: all
    :description lang=en: book - Bona Fide Guru
    :description lang=ru: книга - Истинный Гуру 
-   :keywords lang=en: His Divine Grace Shri Shrimad A.C. Bhaktivedanta Swami Prabhupada, ISKCON, Founder Acharya of the International Society for Krishna Consciousness, Bona fide Guru, Diksha Guru, Gauḍīya Vaiṣṇavism
-   :keywords lang=ru: Его Божественная Милость Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄да, ISKCON, Международное Общество для Осознания Кришны, Дӣкша̄-гуру,  Bona fide Guru, Гаўдӣйа-Ваишн̣авизм
-   :description lang=en: offering to the lotus feet of the Founder-Acarya ISKCON His Divine Grace Shri Shrimad A.C. Bhaktivedanta Swami Prabhupada
+   :keywords lang=en: His Divine Grace Śrī Śrīmad A.C. Bhaktivedanta Swami Prabhupāda, ISKCON, Founder-Ācārya of the International Society for Krishna Consciousness, Bona fide Guru, Diksha Guru, Gauḍīya Vaiṣṇavism
+   :keywords lang=ru: Его Божественная Милость Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄да, ISKCON, Международное Общество для Осознания Кришны, Дӣкша̄-гуру, Гаўдӣйа-Ваишн̣авизм
+   :description lang=en: offering to the lotus feet of the Founder-Ācārya ISKCON His Divine Grace Śrī Śrīmad A.C. Bhaktivedanta Swami Prabhupāda
    :description lang=ru: подношение лотосным стопам Основателя-А̄ча̄рйи ISKCON Его Божественной Милости Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Ш́рӣлы Прабхупа̄ды
    :author lang=en: Abhay Charan das
    :author lang=ru: Абхай Чаран дас
