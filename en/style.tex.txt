@@ -1,0 +1,134 @@
+\renewcommand{\sphinxmaketitle}{%
+  \begin{titlepage}%
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \pagestyle{empty}
+
+     %\beautify
+     \begingroup
+       \centering
+       %\fbox{\phantom{\normalsize \Yagyasena}} \par
+       \phantom{\normalsize \Yagyasena} \par
+       \phantom{\normalsize \Yagyasena} \par
+       \vspace{3cm} %3cm vertical space
+       \textbf{{\Huge \BonafideGuru}} \par
+     \endgroup
+
+     \vfill
+     \null
+
+     \clearpage\null\thispagestyle{empty}
+     %\simplify  % with cleardoublepage
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    % Add empty page:
+    \cleardoublepage\null\thispagestyle{empty}
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \pagestyle{empty}
+     \begingroup
+      \centering
+       {\normalsize \Yagyasena} \par
+       \vspace{3cm} %3cm vertical space
+       \textbf{{\Huge \BonafideGuru}} \par
+     \endgroup
+
+     \vspace{3cm} %3cm vertical space
+%     \begingroup
+%      \centering
+%        \strut\hfill {\pgfornament[scale=.35]{72}\pgfornament[scale=.35]{73}} \hfill\strut
+%     \endgroup
+
+    \begin{changemargin}{1cm}{1cm}
+     \begingroup
+      \bfseries 
+      \itshape
+
+        Со всем смирением, на какое только способен, я припадаю
+        и приношу эту книгу, как подношение лотосным стопам нашему   
+        возлюбленному духовному учителю, к 110-летию божественного
+        явления Основателя-А̄ча̄рйи: Его Божественной Милости Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄де. 
+        Она основана на философии и наставлениях Ш́рӣлы Прабхупа̄ды,
+        данных в Его книгах, письмах и лекциях, на
+        подлинных документах, подписанных лично Ш́рӣлой Прабхупа̄дой.
+
+     \endgroup
+    \end{changemargin}
+
+     \vspace{1cm} %1cm vertical space
+
+    %\par\vspace{0.1cm}
+    %\textcolor{red}{\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}}
+
+%    \decorCenter
+
+    \begingroup
+     \bfseries 
+     \itshape
+     \centering
+     %\large
+     %\tnrItalicfam
+     %\tnrBoldfam
+
+Он вечно живёт\\
+в Своих божественных\\
+наставлениях и Его ученик\\
+живёт вместе с Ним.
+
+    \endgroup
+    
+%    \decorCenter
+
+    \vfill
+
+    \clearpage
+    \if@openright\cleardoublepage\else\clearpage\fi
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    % https://sharelatex.psi.ch/learn/Font_sizes,_families,_and_styles
+    % https://ru.overleaf.com/learn/latex/Font_typefaces
+    %{\fontfamily{qcr}\selectfont \textbf{Истинный Гуру This} text uses TeX Gyre font typeface.} \par
+    %{\fontfamily{cmr}\selectfont Истинный Гуру This text uses Computer Modern Roman font typeface.} \par
+    %{\fontfamily{lmr}\selectfont Истинный Гуру This text uses Latin Modern Roman  font typeface.} \par
+    %{\fontfamily{timesbd}\selectfont Истинный Гуру This text uses Times New Roman Bold font typeface.} \par
+
+    \pagestyle{empty}
+     \null
+     \vfill
+     \vfill
+     \vfill
+     \begin{minipage}[b]{0.9\textwidth}
+     \footnotesize\raggedright
+     \setlength{\parskip}{0.5\baselineskip}
+     \tnrfam
+
+        \BonafideGuruN, книга, печатное издание
+
+        Copyright \copyright 2006\textendash \the\year\ \Yagyasena
+
+        %Все права защищены. Эта книга или любая её часть не могут быть воспроизведены или использованы каким-либо образом без письменного разрешения издателя, за исключением использования кратких цитат в рецензии на книгу.
+
+        Электронная почта: yagyasena@gmail.com
+
+        Мобильная связь:   8(952) 830-00-61
+
+        www.bonafide.guru
+
+        Издание 2-е, Киев, Украина, 2022 г.
+    
+        Издание 1-е, Москва, Россия, 2018 г.
+
+        Напечатано в России.
+
+     \end{minipage}
+    \vfill
+    \cleardoublepage
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \end{titlepage}%
+  \setcounter{footnote}{0}%
+%  \setcounter{chapter}{-1}
+  \clearpage
+  \if@openright\cleardoublepage\else\clearpage\fi
+}
+
