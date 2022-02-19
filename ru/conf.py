@@ -49,7 +49,7 @@ language = 'ru'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'ru', 'en', '_templates', 'site']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'ru', 'en', '_templates', 'site', 'fonts']
 
 # Enable figures numbering
 numfig = True
@@ -130,7 +130,7 @@ latex_elements = {
   ]
 
  \setmainfont{Andika}[
-   Path = /usr/share/fonts/okalash/Andika-6.001/,
+   Path = fonts/Andika-6.001/,
    Extension = .ttf,
    UprightFont = *-Regular,
    %-- Upright --%
@@ -142,7 +142,7 @@ latex_elements = {
   ]
 
   \setmainfont{CharisSIL}[
-   Path = /usr/share/fonts/okalash/CharisSIL-6.001/,
+   Path = fonts/CharisSIL-6.101/,
    Extension = .ttf,
    UprightFont = *-Regular,
    %-- Upright --%
@@ -162,12 +162,6 @@ latex_elements = {
   \newfontfamily{\cyrillicfontsf}{Andika}
   \newfontfamily{\cyrillicfonttt}{FreeMono}
 
-  %\newfontface\fsfam{FreeSans}
-  %\newfontface\fsItalicfam{FreeSansOblique}
-  %\newfontface\fsBoldfam{FreeSansBold}
-  %\newfontface\fsBIfam{FreeSansBoldOblique}
-
-  %\newfontface\tnrfam[Scale=MatchUppercase]{FreeSerifBold}
   \newfontface\tnrfam{Times New Roman}
   \newfontface\tnrItalicfam{Times New Roman Italic}
   \newfontface\tnrBoldfam{Times New Roman Bold}
