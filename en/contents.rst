@@ -5,7 +5,7 @@
    :description lang=ru: книга - Истинный Гуру 
    :keywords lang=en: His Divine Grace Shri Shrimad A.C. Bhaktivedanta Swami Prabhupada, ISKCON, Founder Acharya of the International Society for Krishna Consciousness, Bona fide Guru, Diksha Guru, Gauḍīya Vaiṣṇavism
    :keywords lang=ru: Его Божественная Милость Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄да, ISKCON, Международное Общество для Осознания Кришны, Дӣкша̄-гуру,  Bona fide Guru, Гаўдӣйа-Ваишн̣авизм
-   :description lang=en: offering to the lotus feet of the Founder-Acharya ISKCON His Divine Grace Shri Shrimad A.C. Bhaktivedanta Swami Prabhupada
+   :description lang=en: offering to the lotus feet of the Founder-Achамара агьяя гуру ханаarya ISKCON His Divine Grace Shri Shrimad A.C. Bhaktivedanta Swami Prabhupada
    :description lang=ru: подношение лотосным стопам Основателя-А̄ча̄рйи ISKCON Его Божественной Милости Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Ш́рӣлы Прабхупа̄ды
    :author lang=en: Abhay Charan das
    :author lang=ru: Абхай Чаран дас
@@ -5657,8 +5657,7 @@ As long as it goes on, there will be only failure".**
 
 *Shiksha-guru* – is also a spiritual master, there can be hundreds and
 thousands of them but *diksha-guru* is ONE. Lord Caytanya was calling
-for: "*amara agjana guru hana*\ ” become *shiksha-guru* but not
-*diksha*.
+for: "*āmāra ājñāya guru hañā*" become *shiksha-guru* but not *diksha*.
 
 .. |table3_1| raw:: html
 
