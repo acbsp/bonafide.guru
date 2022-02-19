@@ -1,17 +1,16 @@
 #!/bin/bash - 
 set -o nounset                              # Treat unset variables as an error
 
-echo "Processing POST TARGET=$TARGET LANGUAGE=$LANGUAGE"
-
 TARGET=$1
 LANGUAGE=$2
+echo "Processing POST TARGET=$TARGET LANGUAGE=$LANGUAGE"
 
 if [ $TARGET == 'latexpdf' ] || [ $TARGET == 'html' ] ||[ $TARGET == 'epub' ]; then
-    echo "    Processing test"
+    echo "  Processing: ALL"
 fi
 
 if [ $TARGET == 'html' ]; then
-    echo " Processing: HTML"
+    echo "  Processing: HTML"
 
     FILE=contents.html 
     FROMDIR=_build/html/_static
@@ -47,7 +46,8 @@ if [ $TARGET == 'html' ]; then
 fi
 
 if [ $TARGET == 'epub' ]; then
-    echo " Processing: EPUB"
+    echo "  Processing: EPUB"
+    echo "  PWD=`pwd`"
 
     # This file is run from
     #      /home/acd/.local/lib/python3.8/site-packages/sphinx/builders/_epub_base.py
@@ -55,8 +55,6 @@ if [ $TARGET == 'epub' ]; then
     #       def build_epub(self)
     # by command
     #       os.system('/home/acd/Book/bonafide.guru/en/post.sh epub en')
-
-    echo "PWD=`pwd`"
 
     DIR=_build/epub
     FILE_X=contents.xhtml 

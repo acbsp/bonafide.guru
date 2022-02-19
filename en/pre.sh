@@ -1,10 +1,10 @@
 #!/bin/bash - 
 set -o nounset                              # Treat unset variables as an error
 
-echo "Processing PRE TARGET=$TARGET LANGUAGE=$LANGUAGE"
-
 TARGET=$1
 LANGUAGE=$2
+echo "Processing PRE TARGET=$TARGET LANGUAGE=$LANGUAGE"
+
 FILE_CONT=contents.rst
 SANSKRIT_LIST=$LANGUAGE/sed_RESULT.txt
 
@@ -46,7 +46,7 @@ fi
 
 
 if [ $TARGET == 'epub' ]; then
-    echo " Processing: EPUB"
+    echo "  Processing: EPUB"
     DIR=_static
 
     rm -f ${DIR}/CharisSIL-*.otf
