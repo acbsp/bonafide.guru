@@ -11,8 +11,8 @@ BUILDDIR      = _build
 #SPHINXOPTS+=-Duser_agent="test123"
 # make latex O="-D smartquotes_action=
 
-ifeq ($(PROCESS_LANGUAGE_BOOK),)
-PROCESS_LANGUAGE_BOOK := en
+ifeq ($(BOOK_LANGUAGE),)
+BOOK_LANGUAGE := en
 endif
 
 # Build pdf by default.
@@ -32,17 +32,17 @@ clean:
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
-ifeq ($(PROCESS_LANGUAGE_BOOK),ru)
+ifeq ($(BOOK_LANGUAGE),ru)
 	@echo 'Russian'
-else ifeq ($(PROCESS_LANGUAGE_BOOK),en)
+else ifeq ($(BOOK_LANGUAGE),en)
 	@echo 'English'
 else
-	$(error Wrong PROCESS_LANGUAGE_BOOK.)
+	$(error Wrong BOOK_LANGUAGE.)
 endif
 	@echo "DEBUG  ==========================================================================="
-	@$(PROCESS_LANGUAGE_BOOK)/pre.sh $@ $(PROCESS_LANGUAGE_BOOK)
-	@echo "DEBUG PROCESS_LANGUAGE_BOOK = $(PROCESS_LANGUAGE_BOOK)"
+	@$(BOOK_LANGUAGE)/pre.sh $@ $(BOOK_LANGUAGE)
+	@echo "DEBUG BOOK_LANGUAGE = $(BOOK_LANGUAGE)"
 	@echo "DEBUG COMMAND=@$(SPHINXBUILD) -M $@ $(SOURCEDIR) $(BUILDDIR) $(SPHINXOPTS) $(O)"
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
-	@$(PROCESS_LANGUAGE_BOOK)/post.sh $@ $(PROCESS_LANGUAGE_BOOK)
+	@$(BOOK_LANGUAGE)/post.sh $@ $(BOOK_LANGUAGE)
 
