@@ -55,6 +55,7 @@ if [ $TARGET == 'epub' ]; then
     rm -f ${DIR}/CharisSIL-*.woff2
     rm -f ${DIR}/favicon*.ico
     rm -f ${DIR}/CharisSIL-webfont.css
+    rm -f ${DIR}/epub-cover.xhtml
     
     rm -f glossary.rst
     rm -f genindex.rst
