@@ -12,6 +12,10 @@ BUILDDIR      = _build
 #SPHINXOPTS+=-Duser_agent="test123"
 # make latex O="-D smartquotes_action=
 
+ifeq ($(LNG),)
+LNG := en
+endif
+
 # Build pdf by default.
 latexpdf:
 
@@ -63,12 +67,24 @@ epub: Makefile
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
+ifeq ($(LNG),ru)
+	@echo 'Russian'
+else ifeq ($(LNG),en)
+	@echo 'English'
+	@ls en
+else
+	$(error Wrong LNG.)
+endif
 	@echo "DEBUG  ==========================================================================="
+	@$(LNG)/pre.sh $@ $(LNG)
 	@echo "DEBUG @$(SPHINXBUILD) -M $@ $(SOURCEDIR) $(BUILDDIR) $(SPHINXOPTS) $(O)"
+	@$(LNG)/post.sh $@ $(LNG)
 	@echo "DEBUG command = $@"
-	@echo "Starting my Preprocessor:"
-	@bash ./Preprocessor.sh
-	@echo "Done Preprocessor."
+	@echo "DEBUG LNG = $(LNG)"
+	@echo "DEBUG BAR = $(BAR)"
+#	@echo "Starting my Preprocessor:"
+#	@bash ./Preprocessor.sh
+#	@echo "Done Preprocessor."
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 
