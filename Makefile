@@ -26,6 +26,7 @@ help:
 # clean target
 clean:
 	@echo "DEBUG CLEAN ==========================================================================="
+	@rm -f conf.py contents.rst genindex.rst glossary.rst index.rst style.tex.txt
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 # Catch-all target: route all unknown targets to Sphinx using the new
