@@ -1,6 +1,17 @@
-s/|МООК|/Международное Общество для Осознания Кр̣шн̣ы/g
-s/|МООКа|/Международного Общества для Осознания Кр̣шн̣ы/g
-s/|МООКу|/Международному Обществу для Осознания Кр̣шн̣ы/g
+s/|SPALL|/His Divine Grace Oṁ Viṣṇupāda Paramahaṁsa Parivrājakācārya Aṣṭottara-śata Śrī Śrīmad A.C. Bhaktivedanta Swami Prabhupāda Founder-Ācārya of the International Society for Krishna Consciousness and The Bhaktivedanta Book Trust./g
+s/|SP|/Śrīla Prabhupāda/g
+s/|HDGBSP|/His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda /g
+s/|BSP|/BHAKTIVEDANTA SWAMI PRABHUPĀDA/g
+s/|МООКа|//g
+s/|МООКа|//g
+s/|МООКа|//g
+s/|МООКу|/Gauḍiya Vaiṣṇava Śrīmad Bhagavad-gītā Śrīmad Bhāgavatam Śrī Īśopaniṣad/g
+paramparā
+brāhmaṇa, kṣatriya, vaiśya, śūdra
+pratyakṣa, anumāna and śabda
+
+Bhagavad-gītā As It Is 
+
 s/|МООКом|/Международным Обществом для Осознания Кр̣шн̣ы/g
 s/|ISKCON|/ISKCON/g
 s/|GBC|/GBC/g
@@ -12,7 +23,6 @@ s/|ШПой|/Ш́рӣлой Прабхупа̄дой/g
 s/|ЕБМШПа|/Его Божественная Милость Ш́рӣла Прабхупа̄да/g
 s/|ЕБМШПы|/Его Божественной Милости Ш́рӣлы Прабхупа̄ды/g
 s/|ЕБМШПе|/Его Божественной Милости Ш́рӣле Прабхупа̄де/g
-s/|ЕБМБСПа|/Его Божественная Милость А.Ч. Бхактиведанта Свами Прабхупа̄да/g
 s/|ЕБМБСПы|/Его Божественной Милости А.Ч. Бхактиведанта Свами Прабхупа̄ды/g
 s/|ЕБМБСПе|/Его Божественной Милости А.Ч. Бхактиведанта Свами Прабхупа̄де/g
 s/|ЕБМШШБСШПа|/Его Божественная Милость Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Ш́рӣла Прабхупа̄да/g

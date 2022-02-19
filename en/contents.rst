@@ -1,3 +1,17 @@
+.. meta::
+   :robots: index, follow
+   :x–robots–tag: all
+   :description lang=en: book - Bona Fide Guru
+   :description lang=ru: книга - Истинный Гуру 
+   :keywords lang=en: His Divine Grace Shri Shrimad A.C. Bhaktivedanta Swami Prabhupada, ISKCON, Founder Acharya of the International Society for Krishna Consciousness, Bona fide Guru, Diksha Guru, Gauḍīya Vaiṣṇavism
+   :keywords lang=ru: Его Божественная Милость Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Прабхупа̄да, ISKCON, Международное Общество для Осознания Кришны, Дӣкша̄-гуру,  Bona fide Guru, Гаўдӣйа-Ваишн̣авизм
+   :description lang=en: offering to the lotus feet of the Founder-Acarya ISKCON His Divine Grace Shri Shrimad A.C. Bhaktivedanta Swami Prabhupada
+   :description lang=ru: подношение лотосным стопам Основателя-А̄ча̄рйи ISKCON Его Божественной Милости Ш́рӣ Ш́рӣмад А.Ч. Бхактиведанта Свами Ш́рӣлы Прабхупа̄ды
+   :author lang=en: Abhay Charan das
+   :author lang=ru: Абхай Чаран дас
+
+.. codeauthor:: Abhay Charan das <abhay.charan.d@gmail.com>
+.. sectionauthor:: Ягьясена прабху <yagyasena@gmail.com>
 
 ****************************
 Introduction
@@ -7,6 +21,7 @@ Introduction
 
    % Change fontfamily to Sans for this page
    \sffamily
+
 
 **APOSTROPHE**
 
@@ -20,27 +35,26 @@ We humbly ask all devotees and sincere souls to forgive us if we have caused tro
 
 ..
 
-   *Vâñchâ-kalpatarubhyas' ca kripâ-sindhubhya eva ca*
+ *vāñchā-kalpatarubhyaś ca kṛpā-sindhubhya eva ca*
 
-   *patitânâm pâvanebhyo vaishnavebhyo namo namah*
+ *patitānāṁ pāvanebhyo vaiṣṇavebhyo namo namaḥ*
 
-"Unto the desire trees, the certain oceans of mercy, the purifiers of the
-fallen souls; unto the Vaishnava's, My respects again and again."
+"I offer my respectful obeisances unto all the Vaiṣṇava devotees of the Lord who can fulfill the desires of everyone, just like desire trees, and who are full of compassion for the fallen souls."
 
-   *om ajnana timirandhasya jnananjana salakaya*
+ *om ajñāna-timirāndhasya jñānāñjana-śalākayā*
 
-   *caksur unmilitam yena tasmai sri gurave namah*
+ *cakṣur unmīlitaṁ yena tasmai śrī-gurave namaḥ*
 
-"I was born in the darkest ignorance, and my master opened my eyes with
-the torch of knowledge. I offer respectful obeisances to him."
+"I was born in the darkest ignorance, and my spiritual master opened my eyes with the torch of knowledge. I offer my respectful obeisances unto him."
 
-   *nama om vishnu-padaya krishna-preshthaya bhu-tale*
+ *nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale*
+ 
+ *śrīmate bhaktivedānta-svāmin iti nāmine*
 
-   *srimate bhaktivedanta-svamin iti namine*
+ *namas te sārasvate deve gaura-vāṇī-pracāriṇe*
 
-   *namas te saraswate deve gaura-vani-pracarine*
+ *nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe*
 
-   *nirvishesha-shunyavadi-pashchatya-desha-tarine*
 
 "I offer my respectful obeisances unto His Divine Grace A.C.
 Bhaktivedanta Swami Prabhupada, who is very dear to Lord Krishna, having
@@ -49,20 +63,19 @@ O spiritual master, servant of Bhaktisiddhanta Saraswati Goswami. You
 are kindly preaching the message of Lord Chaitanyadeva and delivering
 the Western countries, which are filled with impersonalism and voidism."
 
-   *tapta-kancana-gaurangi radhe vrindavanesvari*
+ *tapta-kāñcana-gaurāṅgi rādhe vṛndāvaneśvari*
 
-   *vrishabhanu-sute devi pranamami hari-priye*
+ *vṛṣabhānu-sute devi praṇamāmi hari-priye*
 
-"I offer my respects to Radharani, whose bodily complexion is like molten
-gold and who is the Queen of Vrindavana. You are the daughter of King
-Vrishabhanu, and You are very dear to Lord Krishna."
+"I offer my respects to Radharani, whose bodily complexion is like molten gold and who is the Queen of Vrindavana. You are the daughter of King Vrishabhanu, and You are very dear to Lord Krishna."
+"I offer my respects to Rādhārāṇī whose bodily complexion is like molten gold and who is the Queen of Vṛndāvana. You are the daughter of King Vṛṣabhānu, and You are very dear to Lord Kṛṣṇa."
 
-   *sri-krishna-chaitanya prabhu-nityananda*
+ *śrī kṛṣṇa caitanya prabhu nityānanda*
 
-   *sri-advaita gadadhara srivasadi-gaura-bhakta-vrinda*
+ *śrī advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda*
 
-"I offer my obeisances to Sri Krishna Chaitanya, Prabhu Nityananda, Sri
-Advaita, Gadadhara, Srivasa and all others in the line of devotion."
+"I offer my obeisances to Śrī Kṛṣṇa Caitanya, Prabhu Nityānanda, Śrī Advaita, Gadādhara, Śrīvāsa and all others in the line of devotion."
+"I offer my obeisances to Sri Krishna Chaitanya, Prabhu Nityananda, Sri Advaita, Gadadhara, Srivasa and all others in the line of devotion."
 
 .. raw:: html
 
@@ -75,9 +88,9 @@ Advaita, Gadadhara, Srivasa and all others in the line of devotion."
    \begingroup
    \centering
 
-*Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare*
+ *hare kṛṣṇa, hare kṛṣṇa, kṛṣṇa kṛṣṇa, hare hare*
 
-*Hare Rama, Hare Rama, Rama Rama, Hare Hare*
+ *hare rāma, hare rāma, rāma rāma, hare hare.*
 
 .. raw:: latex
 
@@ -1318,7 +1331,7 @@ To accept the disciplic conclusion means to continue the activities the
 way they were performed at His physical presence – to stay **ritviks**
 and continue to initiate on behalf of Srila Prabhupada, according to His
 last instruction (from July 9 1977). Srila Prabhupada states that
-Sankirtana Movement will exist for 10.000 years on. Within this time
+Saṅkīrtana Movement will exist for 10.000 years on. Within this time
 Srila Prabhupada was, is and will remain the present section in the
 chain of disciplic succession – the **bona fide** *diksha-guru* of our
 *Gaudya-sampradaya.*
@@ -2137,7 +2150,7 @@ material barriers can hinder transaction of this knowledge.
 If person reading books of A.C. Bhaktivedanta Svami Prabhupada accepts
 transcendental knowledge and sincerely surrenders to this process – that
 becomes his initiation. All who are sincerely attracted to this
-SANKIRTANA movement are actually initiated by His Divine Grace A.C.
+Saṅkīrtana movement are actually initiated by His Divine Grace A.C.
 Bhaktivedanta Svami Prabhupada even though, unfortunately, not everyone
 realizes it.
 
@@ -2222,7 +2235,7 @@ In (Mundaka Upanishad 1.2.12) it is said:
 
 "The Vedas enjoin us to **accept** a guru; actually, they say to
 **accept** the guru, not just a guru. **The guru is one because he comes
-in disciplic succession**. What Vyasadeva and Krsna taught five thousand
+in disciplic succession**. What Vyāsadeva and Krsna taught five thousand
 years ago is also being taught now. There is no difference between the
 two instructions. Although hundreds and thousands of acaryas have come
 and gone, the message is one\ **. The real guru cannot be two**\ **, for
@@ -2400,7 +2413,7 @@ knowledge by which he becomes freed from al] material contamination."**
 (C.c. Madhya, 4.111, purport)
 
 **“In other words, the spiritual master awakens the sleeping living
-entity to his original consciousness so that he can worship Lord Visnu.
+entity to his original consciousness so that he can worship Lord Viṣṇu.
 This is the purpose of**\ **diksa,**\ **or initiation. Initiation means
 receiving**\ **the pure knowledge of spiritual consciousness."**
 
@@ -2462,7 +2475,7 @@ of Krishna consciousness. Seven main goals:
    within the members, and humanity at large, that each soul is part and
    parcel of the quality of Godhead (Krishna).
 
-4. To teach and encourage the sankirtana movement, congregational
+4. To teach and encourage the saṅkīrtana movement, congregational
    chanting of the holy names of God as revealed in the teachings of
    Lord Sri Chaitanya Mahaprabhu.
 
@@ -5715,7 +5728,7 @@ Movement of ISKCON, which will be headed by Him as a **bona fide**
 spiritual master for the period of ten thousand years. His Mission is to
 make the whole world to realize Krishna and bring back to God those
 conditioned souls who are devoted to Him. And nobody is able to disturb
-this Great Mission of *SANKIRTANA*, commenced by Lord Caytania.
+this Great Mission of *Saṅkīrtana*, commenced by Lord Caytania.
 
 **"Only Lord Caitanya can take my place. He will take care of the
 Movement."**
@@ -6451,7 +6464,7 @@ Again, will the parampara stop?
 --------------------------------------------------------------------------------------
 
 **ISKCON devotee:** In the Bhagavad Gita, Srila Prabhupada gives the
-*guru-parampara* - Brahma, Narada, Vyasa...and so on till Srila
+*guru-parampara* - Brahma, Narada, Vyāsa...and so on till Srila
 Prabhupada. In the *ritvik-system*, who comes after Srila Prabhupada?
 
 **Sri Tatachar:** Srila Prabhupada himself. Only the *ritvik-system*
@@ -6555,7 +6568,7 @@ Third Chapter
 
 This is the very elevated and mysterious subject. Here we shall come to
 know the innermost about His Divine Grace Srila Prabhupada. Before
-starting with this subject we prayed to Srimati Radharani and Lord
+starting with this subject we prayed to f Śrīmatī Radharani and Lord
 Krishna asking for Their Grace and consent to be able to glorify, in the
 best way, our dear and beloved Gurudeva His Divine Grace Srila
 Prabhupada, the greatest among the greatest in all material and
@@ -6679,13 +6692,13 @@ children and feels enormous compassion towards us because we are
 suffering in this material world. Lord always shows care for us and
 thinks how to help us come back to Him. And therefore once Krishna made
 a plan how to bless the most fallen souls with chanting His holy name in
-this *Kali-yuga*. When He shared this plan with His beloved Srimati
+this *Kali-yuga*. When He shared this plan with His beloved Śrīmatī
 Radharani She asked Krishna: “but what about me?” – “You will come with
 Me!” - the Lord said. “But what about My dear girlfriends: Lalita,
 Vishakha and all My dear gopies, as well as My beloved woods of
 Vrindavana, river Yamuna, Govardhan hill and so dear to My heart
 Radha-kunda and Siyama-kunda lakes?” – “You can take them also with
-You.” And then Srimati Radharani carried the holy Vrindavan over to
+You.” And then Śrīmatī Radharani carried the holy Vrindavan over to
 Navadvipa in the heart of Bengalia.
 
 Caytanya Mahaprabhu was born in Mayapure, Nadia city right after the
@@ -6779,10 +6792,10 @@ Sri Caytanya Mahaprabhu has said about this very well (Sikshashtaka 1):
 
    *sarvatma-snapanam param vijayate shri-krishna-sankirtanam*
 
-“Glory to the Shri Krishna sankirtana (congregational chanting of the
+“Glory to the Shri Krishna saṅkīrtana (congregational chanting of the
 Lord's holy names), which cleanses the heart of all the dust accumulated
 for years and extinguishes the fire of conditional life, of repeated
-birth and death. That sankirtana movement is the prime benediction for
+birth and death. That saṅkīrtana movement is the prime benediction for
 humanity at large because it spreads the rays of the benediction moon.
 It is the life of all transcendental knowledge. It increases the ocean
 of transcendental bliss, and it enables us to fully taste the nectar for
@@ -6792,7 +6805,7 @@ which we are always anxious.”
 `Caitanya <http://caitanyacaritamrta.com/c/caitanya>`__
 `Mahaprabhu <http://caitanyacaritamrta.com/m/mahaprabhu>`__ gives a
 practical demonstration of how to love God in a conjugal relationship.
-Taking the part of `Srimati <http://caitanyacaritamrta.com/s/srimati>`__
+Taking the part of `Śrīmatī <http://caitanyacaritamrta.com/s/srimati>`__
 Radharani, `Caitanya <http://caitanyacaritamrta.com/c/caitanya>`__
 `Mahaprabhu <http://caitanyacaritamrta.com/m/mahaprabhu>`__ tried to
 love `Krishna <http://caitanyacaritamrta.com/k/krsna>`__ as Radharani
@@ -6813,7 +6826,7 @@ attracted to Radharani? And what actually Radharani feels, when She
 feels My love?" To feel the taste of these amorous relations, Krishna
 appeared as Lord Caytanya Mahaprabhu.
 
-So, we come back to the point where Srimati Radharani confessed to
+So, we come back to the point where Śrīmatī Radharani confessed to
 Krishna that She has a plan. Radhika said: "I also want to spread the
 glory of Your holy name and gift the most fallen soles of this
 *Kali*\ age with *Krishna-prema*. I shall come right after You, in the
@@ -6849,7 +6862,7 @@ love to Lord Krishna and return home, back to God.
 Sastras say, that **bona fide** guru – is an external manifestation to
 Supreme Personality of Godhead (Krishna). However Srila Prabhupada – is
 a special avatar of the Lord. *His Divine Grace Srila Prabhupada is -*
-**an external manifestation of Srimati Radharani.**
+**an external manifestation of Śrīmatī Radharani.**
 
 This statement is based on some facts which we shell discuss now.
 
@@ -6884,14 +6897,14 @@ Thereby spiritual masters in our *bona fide* chain of disciplic
 succession descending from six Goswamis and up to Bhaktisiddhanta
 Sarasvati Thakur are - *radha-priya-sakhi*, dear maids, nearest
 companions of Radharani. They were all preparing "ground" for the plays
-of Srimati Radharani - Srila Prabhupada. Each of them was capable of
+of Śrīmatī Radharani - Srila Prabhupada. Each of them was capable of
 liberating all three worlds, but they acted in accordance with to plan
 of Lord Krishna. Even when Caytanya Mahaprabhu was on the planet
-Himself, He only initiated this great Movement of Sankirtana, but main
-role in these Lila Lord has given to His sweetheart Srimati Radharani ―
+Himself, He only initiated this great Movement of Saṅkīrtana, but main
+role in these Lila Lord has given to His sweetheart Śrīmatī Radharani ―
 Srila Prabhupada.
 
-Lilas of Lord Krishna and His eternal beloved Srimati Radharani are
+Lilas of Lord Krishna and His eternal beloved Śrīmatī Radharani are
 amazingly beautiful, inexhaustible and endless, they are innumerable
 just like waves in the ocean, they are instinct with boundless bliss,
 happiness and greatest pure love! As a matter of fact Radha-Krishna ― is
@@ -6911,14 +6924,14 @@ to His pure devotees, Lord adds to His Lilas special celestial color,
 thus baffling the self-conceited fools, who think themselves to be
 experts in Sastras. When the plays of Lord Caytanya were coming to an
 end His close companions asked Him: What will happen after your
-departure? Who will continue your play, Your Mission of Sankirtana?
+departure? Who will continue your play, Your Mission of Saṅkīrtana?
 Gauranga answered: **"My General will come and continue My Mission".**
 Pure devotees and close companions of Lord Caytanya immediately guessed
 whom He meant and started exclaiming in enthusiasm "Haribol! Haribol!"
 They were happy to hear from Lord Caytanya about such an amazing play of
 Radha and Krishna. Who can speak in this way? **"My General will
 come!"** Only the spouse can speak so of his wife. **"My General!"**
-This means that Krishna-Caytanya spoke of Srimati Radharani. And here
+This means that Krishna-Caytanya spoke of Śrīmatī Radharani. And here
 came the time, and appeared the "General" of Lord Gauranga – this is
 Srila Prabhupada.
 
@@ -6931,7 +6944,7 @@ this movement".**
 (Srila Prabhupada conversation 2.11 .1977)
 
 Lord Caytanya ― is Krishna Himself. Who can speak of Krishna in this way
-except Srimati Radharani? "Only Krishna can take My place!" *Only
+except Śrīmatī Radharani? "Only Krishna can take My place!" *Only
 Radharani can declare so, and no one else.*
 
 This statement can also be considered as a warning for self-appointed
@@ -6942,10 +6955,9 @@ Once disciples complained to Srila Prabhupada that people do not buy the
 Deities of Gaura-Nitay, telling them that this is an idolization. Srila
 Prabhupada smiled and said: "Just tell them: buy these *dolls* and they
 will bring you good luck". Who can afford such a transcendental
-"familiarity", except Srimati Radharani.
+"familiarity", except Śrīmatī Radharani.
 
-**It’s self-evident that Srila Prabhupada is an incarnation of Srimati
-Radharani.**
+**It’s self-evident that Srila Prabhupada is an incarnation of Śrīmatī Radharani.**
 
 When disciples asked Him: "Srila Prabhupada, who are you?" - He
 answered: "If I tell you, you won’t believe it". Of course, they
@@ -6961,7 +6973,7 @@ the press-conferences:
 (Srila Prabhupada press-conference, 16.07. 75 San Francisco)
 
 What does it mean? It means that His guru Maharaja Bhaktisiddhanta
-Sarasvati Thakur is the beloved maid of Srimati Radharani, as it was
+Sarasvati Thakur is the beloved maid of Śrīmatī Radharani, as it was
 already said above and He will replace Srila Prabhupada - Radharani,
 after 10.000 years, when His –Her play is finished. Srila Prabhupada is
 presently on one of the planets of this universe, where He continues to
@@ -6981,7 +6993,7 @@ spiritual master will guide.**
 
 (Shrila Prabhupada, lecture 23.09.1969)
 
-Lord Krishna loves Srimati Radharani so much that He accepts Her as His
+Lord Krishna loves Śrīmatī Radharani so much that He accepts Her as His
 guru.
 
 Krishna says:
@@ -6994,11 +7006,11 @@ Krishna says:
 and I am Her dancing pupil. Her `prema <http://vedabase.net/p/prema>`__
 makes Me dance various novel dances" (C.C., Adi, 4. 124).
 
-Krishna completely belongs to Srimati Radharani. Therefore without Her
+Krishna completely belongs to Śrīmatī Radharani. Therefore without Her
 grace it is impossible to get a service to Krishna. Only Radharani can
 give us a chance to serve Krishna. One who accepts Krishna as Highest
 guru, should also accept Radharani as a guru. Without the grace of
-Srimati Radharani no one can serve Krishna. Radhika as an honest spouse
+Śrīmatī Radharani no one can serve Krishna. Radhika as an honest spouse
 very carefully and jealously watches over Krishna and nobody is allowed
 to disturb Him in vain. She will check our sincere wish to serve Lord
 Krishna thousand times before we would be allowed to approach Him. Each
@@ -7017,11 +7029,11 @@ Radha and Krishna are not different form each other. Love of Krishna to
 Radharani is full of limitless bliss and faultless purity. Radhika, as
 if competing with Krishna in love, shows Her highest humility. Dear
 readers how do you think, why in all Srimad-Bhagavatam except the tenth
-Canto Srimati Radharani is never mentioned? Our pseudo gurus from ISKCON
-explain in their lecture that Vyasadeva could not write the name of
+Canto Śrīmatī Radharani is never mentioned? Our pseudo gurus from ISKCON
+explain in their lecture that Vyāsadeva could not write the name of
 Radharani, since whenever He mentioned the name Radha he used to fall
 into ecstasy and could not write Srimad-Bhagavatam. *This is not true!*
-Actually Radhika came Herself personally to Vyasadeve and asked him not
+Actually Radhika came Herself personally to Vyāsadeva and asked him not
 to mention Her name in Srimad-Bhagavatam, but to write only about
 Krishna, as the Supreme Personality of Godhead. And anyone else is His
 eternal servant. Also she asked that Her appearance in this world in the
@@ -7029,18 +7041,18 @@ form of pure devotee should not be described in Sastras\ **.** It’s a
 manifestation of the highest humility and the greatest pure love to Lord
 Krishna.
 
-Vyasadeva agreed to fulfill Her will and asked Radharani to allow him to
+Vyāsadeva agreed to fulfill Her will and asked Radharani to allow him to
 write at least one song about Radha and Krishna play. Radhika agreed
 with that. Krishna always admires the Radharani’s love. Krishna is
 all-attractive, but pure devotional service attracts even Him. This
 signifies that pure devotional service being the internal energy of
 Krishna possesses even greater transcendental power than He does
 Himself. Exactly for this reason being the internal energy of the
-enjoyment of Krishna, Srimati Radharani occupies, we can say, the top
+enjoyment of Krishna, Śrīmatī Radharani occupies, we can say, the top
 position in games of the Lord.
 
 For instance: Hare Krishna *Maha-mantra* begins with the word "Hare".
-Hare – is an internal energy of Krishna, which Srimati Radharani
+Hare – is an internal energy of Krishna, which Śrīmatī Radharani
 personifies. Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare /
 Hare Rama, Hare Rama, Rama Rama, Hare Hare.
 
@@ -7052,7 +7064,7 @@ Thereby the potency of enjoyments always stands before Krishna.
 For instance: Radha-Krishna; Sita-Rama; Lakshmi-Narayana.
 
 Lord Caytanya ― is Krishna, He demonstrated the extreme manifestations
-of love to God in marital relations. Srila Prabhupada – is Srimati
+of love to God in marital relations. Srila Prabhupada – is Śrīmatī
 Radharani. He demonstrated the highest perfection of the ideal servant
 of Krishna, showing limitless love and humility to Lord Krishna, as well
 as enormous compassion and love to all conditioned living beings. And we
@@ -7061,13 +7073,13 @@ servant of Krishna. He has shown us the highest ideal of devotion to the
 Lord. With the example of his own life Prabhupada taught us how we
 should live and serve Krishna with love in order to become absolutely
 pure devotee of Lord Krishna. Srila Prabhupada showing the qualities of
-Srimati Radharani felt enormous compassion and limitless love to all
+Śrīmatī Radharani felt enormous compassion and limitless love to all
 living beings, the love, which could be always seen in His lotus eyes,
 paved with the balm of love to the Lord. Totally giving oneself to the
 loving service to Krishna, Prabhupada had only one single desire - to
 awaken love to Lord Krishna in everyone and return home, back to God.
 
-This was the main mission of Srimati Radharani – to give everyone the
+This was the main mission of Śrīmatī Radharani – to give everyone the
 holy name of the Lord, so that the holy name of Lord Krishna would be
 chanted in every city and every village.
 
@@ -7081,7 +7093,7 @@ doesn’t matter anymore if it’s comprehensible or not.
 
 So, without receiving the Radharani’s patronage and grace nobody can
 serve Krishna. Every Hindu knows that. However Srila Prabhupada never
-stressed our attention on it. Why? Because Srila Prabhupada – is Srimati
+stressed our attention on it. Why? Because Srila Prabhupada – is Śrīmatī
 Radharani Himself. If we surrender and serve Srila Prabhupada – it means
 we surrender and serve Radharani, since He is Radha. And to serve Radha
 – means to serve Prabhupada. To become the servant of Srila Prabhupada –
@@ -7110,7 +7122,7 @@ Srila Prabhupada has reason to say that "ISKCON" is His body". The
 Krishna Consciousness Movement (ISKCON) is purely spiritual Movement and
 it’s not different from Krishna Himself, it’s one of the embodiments of
 Krishna in the form of His holy name. Srila Prabhupada is an embodiment
-of Srimati Radharani and is manifested in this Movement of Krishna
+of Śrīmatī Radharani and is manifested in this Movement of Krishna
 Consciousness, as well as Radha is. For this reason Srila Prabhupada
 identifies His transcendental body with this Worldwide Society "ISKCON",
 since He is the manifestation of Radharani.
@@ -7213,7 +7225,7 @@ and let them wash their feet and *offer riches.*..”
 (B.g. 17.18. commentary)
 
 There is one more example, Bhakta-das had a chance to see one procession
-in Mayapur during the *vyasa-puja* (birth day) of Jayapataka Maharaja,
+in Mayapur during the *vyāsa-puja* (birth day) of Jayapataka Maharaja,
 who also unlawfully occupies the position of *diksha-guru* in spite the
 fact that Srila Prabhupada ordered him to be a *ritvik*.
 
@@ -7637,11 +7649,11 @@ Radharani and always pray to Her for Krishna’s compassion".
 This once again confirms all that was already described above. Only by
 mercy of Radharani person can approach Krishne. Radha and Krishna are
 not different from each other. Srila Prabhupada is and embodiment of
-Srimati Radharani and therefore is not different from Her and thus not
+Śrīmatī Radharani and therefore is not different from Her and thus not
 different from Krishna. This kind of incarnations like Srila Prabhupada
 comes to material world once in *thousand kali-yugas*.
 
-Since Srila Prabhupada is an embodiment of Srimati Radharani He is even
+Since Srila Prabhupada is an embodiment of Śrīmatī Radharani He is even
 more compassionate and merciful, than Lord Caytanya Himself. Without
 expecting anything back Sri Caytanya Mahaprabhu kindly distributed
 *Krishna-prema* ― love to God to everyone (in the form of chanting the
@@ -8281,7 +8293,7 @@ perishable body, tie it with ropes and drag it through all the streets
 of the holy Navadvipa Dhama, to purify it with the dust from the feet of
 the devotees of the Lord. This is the only way I can purify myself.” As
 we know from above described this Great soul Srila Gaurakisora dasa
-Babaji Maharaja is *radha-prija-sakhi* beloved maid of Srimati
+Babaji Maharaja is *radha-prija-sakhi* beloved maid of Śrīmatī
 Radharani. He pronounced these words out of deepest humbleness. This is
 such an exulted soul, that even Krishna-Chandra Himself is ready to
 carry him on His head. Hallows of such a person purify everything around
