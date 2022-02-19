@@ -68,9 +68,14 @@ pip3 install sphinx-rtd-theme
 git clone git@github.com:acbsp/bonafide.guru.git
 cd bonafide.guru
 make clean
-make epub
-git restore contents.rst
+make epub BOOK_LANGUAGE=ru
+
 epubcheck _build/epub/sphinx.epub
 sigil _build/epub/sphinx.epub
+
+
+make clean
+git restore _static
+make html BOOK_LANGUAGE=ru
 
 ```
