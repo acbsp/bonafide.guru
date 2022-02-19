@@ -12,23 +12,27 @@ echo "Processing PRE TARGET=$TARGET LANGUAGE=$LANGUAGE"
 
 if [ $TARGET == 'latexpdf' ] || [ $TARGET == 'html' ] ||[ $TARGET == 'epub' ]; then
 
-    cp $LANGUAGE/$FILENAME .
+    for F in conf.py contents.rst genindex.rst glossary.rst index.rst style.tex.txt
+    do
+        cp $LANGUAGE/$F .
+    done
 
-    #sed -i -f PreprocessorPatterns.sed ${FILENAME}
+    sed -i -f PreprocessorPatterns.sed ${FILENAME}
 
     if [ -f "$SANSKRIT_LIST" ]; then
         echo "Create Indices for Sanskrit from file: $SANSKRIT_LIST"
         while read STR; do
 
-#      Below is an example of Sanskrit line with Diacritic text:
-# *сампрада̄йа-вихӣна̄ йе*
-       # 1..6 spaces before Diacritic text. Fix if it is needed more.
+            # Below is an example of Sanskrit line with Diacritic text:
+            # *сампрада̄йа-вихӣна̄ йе*
+            # 1..6 spaces before Diacritic text. Fix if it is needed more.
 
-           echo "   Processing: $STR"
-#      sed -i '/'"$STR"'/a\\n.. index:: '"$STR"'\n\n..\n'  ${FILENAME}
+            # old variant: insert "after":
+            #s/^\( *\).*/&\n\n\1.. index:: '"$STR"'\n/' ${FILENAME}
 
-#       sed -i '/^[ ]\{1,6\}\*'"$STR"'\*$/ !b
-#s/^\( *\).*/&\n\n\1.. index:: '"$STR"'\n/' ${FILENAME}
+            echo "   Processing: $STR"
+            sed -i '/^[ ]\{1,6\}\*'"$STR"'\*$/ !b
+s/^\( *\).*/\n\1.. index:: '"$STR"'\n&\n/' ${FILENAME}
 
         done <$SANSKRIT_LIST
     fi
