@@ -56,8 +56,8 @@ We humbly ask all devotees and sincere souls to forgive us if we have caused tro
  *nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe*
 
 
-"I offer my respectful obeisances unto His Divine Grace A.C.
-Bhaktivedanta Swami Prabhupada, who is very dear to Lord Kṛṣṇa, having
+"I offer my respectful obeisances unto His Divine Grace A.C.  Bhaktivedanta Swami Prabhupada,
+who is very dear to Lord Kṛṣṇa, having
 taken shelter at His lotus feet. Our respectful obeisances are unto you,
 O spiritual master, servant of Bhaktisiddhanta Saraswati Goswami. You
 are kindly preaching the message of Lord Chaitanyadeva and delivering
@@ -201,8 +201,8 @@ connection to him did not occur, even though Bhakta das put all his
 efforts.
 
 So he approached senior devotees asking them: “Why my spiritual
-connection to Niranjana Swami does not occur the way I had it with Srila
-Prabhupada?” - “That is because you are not initiated by him yet. It
+connection to Niranjana Swami does not occur the way I had it with |SP|?” - 
+“That is because you are not initiated by him yet. It
 shall be restored right after the initiation.” they said to him. But
 this turned out to be an **illusion**. Even after the initiation
 *ritual* that he passed through in September 1994 nothing changed. And
@@ -213,18 +213,18 @@ By the grace of the Lord he had a lucky opportunity to reside for a few
 years in holy dhama Mayapura and to associate with the senior devotees,
 its residents. That was an impetus for his spiritual progress. Thanks to
 their association all the doubts dissipated from his head. In 1998,
-after the GBC meeting, Bhakta das recommenced chanting pranama to Srila
-Prabhupada, having rejected everything **false**. The relationship with
-Him recovered very fast and his faith in his *diksha-guru* Srila
-Prabhupada became intense and steadfast. He again began to experience
+after the GBC meeting, Bhakta das recommenced chanting pranama to |SP|,
+having rejected everything **false**. The relationship with
+Him recovered very fast and his faith in his *diksha-guru* |SP|
+became intense and steadfast. He again began to experience
 the joy, the feeling of self-fulfillment, which he used to have before.
 
 Seeing the majority of devotees being deceived and remaining in
 ignorance of the true position of |SP|, he became very eager
 to tell the whole world about who |SP| really is. However
 that time he had no qualification required to do it. But now the real
-hour has struck to share with others this realization about Srila
-Prabhupada’s unequalled personality.
+hour has struck to share with others this realization about |SP|’s
+unequalled personality.
 
 This topic of “\ **the bona fide**\ **diksha-guru**\ **of ISKCON**\ ”
 has thrilled the minds of devotees for many years already and is still
@@ -256,7 +256,7 @@ spiritual life.
 This book is about the greatest personality who had granted the humanity
 with the invaluable gift - the holy name of the Lord. Within the whole
 material world there is nobody greater or equal to Him, His Divine Grace
-Shrila Prabhupada. And from this book we can learn the most confidential
+|SP|. And from this book we can learn the most confidential
 things about Him.
 
 Bhakta dasa has been cheated and deceived many times in his life, and he
@@ -265,7 +265,7 @@ has great compassion to those souls that are being cheated, especially
 when it is related to their spiritual lives. In this book we are doing
 our best to warn against deceit all the pious souls that are eager for
 receive the precious treasure of spiritual knowledge so kindly given by
-Shrila Prabhupada, and try to reveal the truth about the great deceit of
+|SP|, and try to reveal the truth about the great deceit of
 ISKCON gurus which has been lasting for almost thirty years already. It
 is not the figment of our imagination neither the wishful thinking,
 everything stated here is being confirmed by Sastras and documents.
@@ -300,15 +300,14 @@ it.
 
 “The wicked sons of Dhritarashtra” — are
 unauthorized ISKCON
-gurus, who go against the Acharya rejecting the last order of Srila
-Prabhupada (from July 9 1977).
+gurus, who go against the Acharya rejecting the last order of |SP| (from July 9 1977).
 
 Dear devotees, this example was brought up to turn your attention to the
 extreme situation in
 our society. GBC is fully lost and baffled, because they rejected the
 order of |SP| (from July 9 1977). Presently for GBC, it is
 very difficult to confess its own mistake and return to the last
-instruction of Shrila Prabhupada. Therefore, it is necessary for us,
+instruction of |SP|. Therefore, it is necessary for us,
 devotees, to puzzle out this complex situation together. Radical
 measures should be taken to solve this global problem, for the general
 good. In case of further delay, this situation can split our society not
@@ -319,8 +318,8 @@ This will happen because some devotees would choose |SP| as
 self-appointed gurus of ISKCON*. Those who are financially dependent on
 them would also *be verged* to the last. Unfortunately such motion is
 already taking place in ISKCON. This can bring about serious problems in
-spiritual field and discord between devotees. Is it really what Srila
-Prabhupada wanted? To prevent such oncoming catastrophe it is necessary
+spiritual field and discord between devotees. Is it really what |SP|
+wanted? To prevent such oncoming catastrophe it is necessary
 to unite into one joint family as it was bequeathed by |SP|.
 And then all problems will fade away. We shall hope that this book will
 help devotees to realize the importance, of this very relevant topic.
@@ -334,7 +333,7 @@ the books of |SP| that had been changed and hearing the
 perverted philosophy from unauthorized gurus we remain in ignorance of
 the true position of |SP| *and our relationship with Him.*
 
-*Shrila Prabhupada says*: **“**\ **Try to understand**\ **the philosophy
+*|SP| says*: **“**\ **Try to understand**\ **the philosophy
 given in my books**\ ”. (S.P.lecture 23.09. 69)
 
 In the same way we would like to formulate it: “Dear devotees please,
@@ -356,8 +355,7 @@ Movement, the cradle of the World Spiritual Revolution. From the bottom
 of the heart we pray and wish that all the devotees and all the sincere
 souls who are attracted to this Krishna Consciousness Movement get
 convinced that there is only ONE **bona fide** Acharya in our
-*Gaudya-sampradaya*, and that is the founder-acharya His Divine Grace A.
-C. Bhaktivedanta Swami Prabhupada. 
+*Gaudya-sampradaya*, and that is the founder-acharya His Divine Grace A. C. Bhaktivedanta Swami Prabhupada. 
 
 
 .. raw:: latex
@@ -367,7 +365,7 @@ C. Bhaktivedanta Swami Prabhupada.
 
    \begingroup
    \centering
-     SRILA PRABHUPADA KI-JAYA!!! \par
+     |SP| KI-JAYA!!! \par
    \endgroup
 
    \decorCenterRuler
@@ -376,7 +374,7 @@ C. Bhaktivedanta Swami Prabhupada.
 .. raw:: html
 
    <div style="text-align:center">
-     SRILA PRABHUPADA KI-JAYA!!!
+     |SP| KI-JAYA!!!
    </div>
    <hr class="acdclass" /> 
 
@@ -390,12 +388,11 @@ Disciplic succession
 
 His Divine Grace Shri Shrimad A. C. Bhaktivedanta Swami Prabhupada – the
 acharya-founder of International Krishna Consciousness Movement (ISKCON)
-left this world on 14 of November 1977, but it doesn’t mean that Shrila
-Prabhupada died or He is death. **NO!!!** Shrila Prabhupada is alive, he
+left this world on 14 of November 1977, but it doesn’t mean that |SP| 
+died or He is death. **NO!!!** |SP| is alive, he
 lives in his books, in his divine instructions. He lives in hearts of
-his sincere devotees. He will never die, He will live forever. Shrila
-Prabhupada is our eternal Guru. He is for *all of us* – the Bone Fide
-Spiritual Master!
+his sincere devotees. He will never die, He will live forever. |SP|
+is our eternal Guru. He is for *all of us* – the Bone Fide Spiritual Master!
 
 Krishna devotees sing everyday offering prayers to spiritual master. And
 we sincerely wish that everyone would fully realize to what kind of
@@ -431,7 +428,7 @@ accept his refuge by taking initiation.
 descends through Parampara, bone fide disciplic succession, **from one
 realized soul to another**.”
 
-In “Bhagavad gita“ (comments to verse 4.34) Shrila Prabhupada says: “The
+In “Bhagavad gita“ (comments to verse 4.34) |SP| says: “The
 path of spiritual realization is undoubtedly difficult. The Lord
 therefore advises us to approach a **bona fide** spiritual master in the
 *line of disciplic succession* from the Lord Himself. *No one can be
@@ -464,13 +461,13 @@ through devotional service with faith in the disciplic succession and
 then advances further, he awakens his natural love for God, and then his
 success in life is assured.”
 
-(Śrīmad Bhāgavatam 7.7.17 Shrila Prabhupada’s commentary)
+(Śrīmad Bhāgavatam 7.7.17 |SP|’s commentary)
 
 We belong to *Brahma-sampradaja*. Since Sri Chaytaniya Mahaprabhu joined
 this *sampradaja* it was called *Brahma-Madhva-Gauḍiya-sampradaja*, or
-simply *Gauḍiya-sampradaja*. In Bhagavad-gītā Shrila Prabhupada quotes
-*guru-parampara* - Brahma, Narada, Viyasa and so on up to Srila
-Prabhupada. After Bhaktisiddhanta Sarasvati Thakur passed away
+simply *Gauḍiya-sampradaja*. In Bhagavad-gītā |SP| quotes
+*guru-parampara* - Brahma, Narada, Viyasa and so on up to |SP|.
+After Bhaktisiddhanta Sarasvati Thakur passed away
 deflections began in our *guru-parampara*. This deflections used to
 happen every time when great acharyas left this world. For instance:
 sects deviating from His teaching appeared immediately after Shri
@@ -565,7 +562,7 @@ Right after our *acharya* |SP| died His eleven
 representatives stopped fulfilling their **ritvika** (the priests)
 duties as they used to do in His physical presence. They were supposed
 to conduct the initiation ritual both first and second one on behalf of
-Shrila Prabhupada. Instead they mystically became *diksha-gurus*.
+|SP|. Instead they mystically became *diksha-gurus*.
 According to directive (from July 9 1977), this **ritvik-system** should
 be followed as long as The International Society for Krishna Consciousnesses (ISKCON) exists.
 Though this directive is very short in
@@ -592,8 +589,7 @@ and came to a dead end in their efforts to present their own *sidhanta*.
 
 For this very reason some of ISKCON gurus refused to give initiation.
 Though, unfortunately, up to now they have not shown any activity in
-recovering the authentic system of initiation, installed by Srila
-Prabhupada.
+recovering the authentic system of initiation, installed by |SP|.
 
 "Devotees always humbly show their respect, but when it comes to the
 discussion of sastras they do not keep up usual etiquette and speak only
@@ -653,8 +649,7 @@ living in a sense of **physical presence**."
 
 This statement of Sivarama Svami is absolute fabrication and has nothing
 to do with the teaching of |SP|. Such a "law" simply does
-not exist. We will never come across such a statement in any of Srila
-Prabhupada books or records of His speeches.
+not exist. We will never come across such a statement in any of |SP| books or records of His speeches.
 
 |SP| gives following determination of disciplic succession
 (*parampara*):
@@ -695,7 +690,7 @@ vibration, **not physical presence**. That is real association".
 spiritually. So we should be concerned only with this spiritual
 connection”.
 
-(Letter of Shrila Prabhupada to Gaurasundari)
+(Letter of |SP| to Gaurasundari)
 
 On spiritual level there is no difference between guru and his
 teachings:
@@ -710,8 +705,8 @@ disciple**."
 In spite of everything GBC persistently continues to impose the body
 concept of LIVING guru.
 
-More amazing is that we devotees continue to believe them. Srila
-Prabhupada has never stated this kind of nonsense. It was physically
+More amazing is that we devotees continue to believe them. |SP|
+has never stated this kind of nonsense. It was physically
 impossible for Prabhupada to know all of his disciples, nevertheless
 they got the initiation and did become his disciples. Thereby initiation
 does not require physical presence of the guru. If Prabhupada is not
@@ -776,8 +771,8 @@ also one**".
 The easiest decision is to surrender |SP|, the bona fide
 **Mahajnani** – and accept the truth coming directly from His Divine
 mouths. And thus all the problems solve themselves automatically. But
-our trouble is that due to our delusion we try to understand Srila
-Prabhupada through false teachers who are not pure mediums. For this
+our trouble is that due to our delusion we try to understand |SP|
+through false teachers who are not pure mediums. For this
 reason it becomes so difficult to understand and accept the truth coming
 from |SP| directly.
 
@@ -834,8 +829,7 @@ ways".
 (“Dialectical Spiritualism”)
 
 Our ISKCON gurus can *only* be instructing gurus or *shiksha-gurus* but
-they should not preach that what disagrees with *sadhu* - Srila
-Prabhupada.
+they should not preach that what disagrees with *sadhu* - |SP|.
 
 *Prabhupada said*: "*Shiksha-guru* who gives instructions contradicting
 with the instructions of the spiritual master, is not a true
@@ -884,8 +878,7 @@ direction, then one's *perfection* of life in
 (Bhagavad gita 18.57 commentary)
 
 All holy scriptures speak of dedicated service to Krishna *under the
-guidance of His representative,* who at this present time is Srila
-Prabhupada.
+guidance of His representative,* who at this present time is |SP|.
 
 *|SP| says*: "…But all such activities must be in
 relationship with `Kṛṣṇa <http://vedabase.net/k/krsna>`__. This
@@ -932,8 +925,8 @@ planet. The Initiation means *spiritual*, transcendental connection
 between master and his disciple. Spiritual knowledge is given through
 *Vani* (transcendental sound) rather than physical contact. Having
 imperfect senses nobody is able to send this divine sound,
-*shabda-brahma*. Only His Divine Grace A. C. Bhaktivedanta Swami
-Prabhupada direct representative of Lord Krishna standing in the chain
+*shabda-brahma*. Only His Divine Grace A. C. Bhaktivedanta Swami Prabhupada 
+direct representative of Lord Krishna standing in the chain
 of *bona fide* disciplic succession is able to transmit this divine
 sound.
 
@@ -1206,8 +1199,8 @@ from (the July 9 1977) and signed personally by |SP|. This
 kind of statements are nothing but an insult of our spiritual master
 |SP| and the whole parampara. It is necessary for us to
 follow this system, since this was an order of *acharya* -
-representative of God. And as to initiation matter we can say that Srila
-Prabhupada continues to give it through his own books, which are
+representative of God. And as to initiation matter we can say that |SP| 
+continues to give it through his own books, which are
 representing Him. Thereby it is transmitted through
 *vani*\ (transcendental sound), rather than physical contact, as it was
 already discussed above. According to directive duties of these
@@ -1398,8 +1391,8 @@ modern architectural styles.
 
 Temple complex is equipped with different facilities allowing to
 introduce visitors with the cultural and spiritual message of Lord
-Krishna and His pure devotee His Divine Grace A.C. Bhaktivedanta Svami
-Prabhupada the acharya-founder and spiritual master of ISKCON. The
+Krishna and His pure devotee His Divine Grace A.C. Bhaktivedanta Svami Prabhupada
+the acharya-founder and spiritual master of ISKCON. The
 construction of the temple was sponsored by 25000 Bangalorian donators.
 On every birthday each of them is invited with the whole family to the
 temple where priests held a special puja for the Lord on their name.
@@ -1436,8 +1429,8 @@ preaching.
 Bhakta-das many times had a chance to stay at this wonderful temple for
 few days. Every time he used to come there he could see how devotees
 serve |SP| and Krishna with great enthusiasm and true love.
-In this temple devotees live as a one big family just the way Srila
-Prabhupada wanted it. Senior devotees with much attention and love show
+In this temple devotees live as a one big family just the way |SP|
+wanted it. Senior devotees with much attention and love show
 their care to junior ones helping them in their devotional service to
 Krishna. And they in turn showing respect to elders rely on them in
 every way.
@@ -1549,8 +1542,7 @@ mini revolution in the field of preaching.
 
 Madhu Pandit prabhu has declared that this is not just a charity but
 also the fulfillment of |SP|’s plan - to conquer the whole
-world. This program was encouraged by the following letter of Srila
-Prabhupada:
+world. This program was encouraged by the following letter of |SP|:
 
 “At a moment I’m especially concerned with distributing round India
 grain, rice, wheat, cooked as dal and rise Prasad. People here are much
@@ -1597,8 +1589,8 @@ a **bona fide** diksha-guru with their whole hearts and act according
 with His will. We should follow their example, we are all brothers and
 sisters of one big family. There should be no conflicts and
 disagreements between us, like: “This is my Godbrother and this is not
-my Godbrother.” This can lead to the split of our Society. Srial
-Prabhupada is a – Bona fide Spiritual Master for *all of us*. So let’s
+my Godbrother.” This can lead to the split of our Society. |SP| 
+is a – Bona fide Spiritual Master for *all of us*. So let’s
 unify into one big family, as it was settled by |SP|,
 creating a spirit of unity, brotherhood and cooperation.
 
@@ -1708,8 +1700,7 @@ Godhead, # 49)
 **Devotee:** How important is formal initiation?
 
 **|SP|**: Formal initiation means to officially agree to
-follow the instructions of Krishna and His representative. (Srila
-Prabhupada, lecture, 22.2.73 Oakland).
+follow the instructions of Krishna and His representative. (|SP|, lecture, 22.2.73 Oakland).
 
 Please note, |SP| always speaks of a guru or about
 representative of Shri Krishna in singular, since **bona fide** guru or
@@ -1723,8 +1714,8 @@ make us remember his instruction in the future and avoid the deceit.
 However by the will of the fate many of devotees are caught up in this
 fraud.
 
-For instance: those first Russian devotees sincerely dedicated to Srila
-Prabhupada in the beginning had a big progress in their spiritual lives.
+For instance: those first Russian devotees sincerely dedicated to |SP|
+in the beginning had a big progress in their spiritual lives.
 Some of them bared even severe punishment from demonic government for
 their sincere wish to serve Krishna and His Representative. But from the
 moment they have stopped to chante *pranama* to |SP| and
@@ -1776,8 +1767,8 @@ oneself. However it does not give him right to be a *diksha-guru.* He
 cannot become "Prabhupada" on his own whimsy. **Bona fide** guru should
 be from Goloka or receive special authorization from preceding acharya.
 When Krishna or Lord Caitanya appeared in this world they were God from
-very moment of their appearance. God is always God. Similarly when Srila
-Prabhupada appeared into this world He also was a guru since the moment
+very moment of their appearance. God is always God. Similarly when |SP|
+appeared into this world He also was a guru since the moment
 of his appearance and when the time came He manifested as a **bona
 fide** guru. Guru is self manifested. Guru is *always* guru. Spiritual
 master is *always* liberated. But how can conditioned soul give
@@ -1790,8 +1781,8 @@ EGO was badly touched. He left saying that we have no humility.
 the truth are considered offenders.*
 
 This is how this material world of this *Kali age* is – people are more
-pleased to hear the sweet lie rather than truth. In none of the Srila
-Prabhupada books shall we find explanation of what is "reinitiation"
+pleased to hear the sweet lie rather than truth. In none of the |SP|
+books shall we find explanation of what is "reinitiation"
 because to His disciples, that is to say to us, this term has nothing to
 do. Listening to the interpreted philosophy of unauthorized gurus
 majority of devotees do not know or understand in a wrong way what
@@ -1801,8 +1792,7 @@ How the process of *initiation* occurs? This complex subject has never
 been discussed on ISKCON “guru” lectures and for many years remained
 closed for us. In this book you shall find answers to all of these
 urgent questions. For an example we shall tell you how, where and under
-which circumstances Bhakta-das did receive initiation from Srila
-Prabhupada.
+which circumstances Bhakta-das did receive initiation from |SP|.
 
 .. raw:: latex
 
@@ -1875,12 +1865,11 @@ December 1991 up to December 1995 he lived and was occupied with
 devotional service in Moscow “Begovaia” temple. In September 1994 he
 passed through the*\ **ceremony**\ *of initiation (fire yajna) and got
 spiritual name from Niranjana Svami. From the end of 1995 till year 2000
-he lived in Sri Mayapura dhama. He was spreading books of Srila
-Prabhupada in Mayapur, Vrindavan, Calcutta, Delhi and other cities of
-India.*
+he lived in Sri Mayapura dhama. He was spreading books of |SP|
+in Mayapur, Vrindavan, Calcutta, Delhi and other cities of India.*
 
-In beginning of October 1991 Bhakta-das purchased a book of A.C.
-Bhaktivedanta Svami Prabhupada "Bhagavad-gītā as it is" and after some
+In beginning of October 1991 Bhakta-das purchased a book of 
+A.C. Bhaktivedanta Svami Prabhupada "Bhagavad-gītā as it is" and after some
 time began to read it. Having examined the illustrations in first hand
 he found the book to be very valuable. He was reading it one day,
 another, a week but understood nothing. He started reading it again and
@@ -1991,7 +1980,7 @@ devotional service." (C.C. Madhya 19.151).
 *|SP| says*: **"Even an instant contact with pure devotee
 brings absolute success!"**
 
-(Conversation with Shrila Prabhupada, 13.12.70)
+(Conversation with |SP|, 13.12.70)
 
 This is really true and Bhakt-das had a great luck to experience it.
 Twenty years after this meeting in 1991 he got first initiation from
@@ -2003,8 +1992,8 @@ thirty years from the first meeting with |SP|, which was
 possible only through His unconditional mercy, Bhakta-das is able to see
 a **bona fide** *sadhu*\ in Him. As a matter of fact we all had *great
 luck* to meet this\ *greatest* personality on our life journey. Each of
-us has a possibility to communicate with such a pure devotee as Srila
-Prabhupada and receive His mercy. It all depends on our desire and our
+us has a possibility to communicate with such a pure devotee as |SP|
+and receive His mercy. It all depends on our desire and our
 choice. If we accept |SP| as a **bona
 fide**\ *\ guru,*\ leave aside *all false* and place Him in our heart we
 shall never part from Him and will *ALWAYS* communicate!
@@ -2149,9 +2138,8 @@ material barriers can hinder transaction of this knowledge.
 If person reading books of A.C. Bhaktivedanta Svami Prabhupada accepts
 transcendental knowledge and sincerely surrenders to this process – that
 becomes his initiation. All who are sincerely attracted to this
-Saṅkīrtana movement are actually initiated by His Divine Grace A.C.
-Bhaktivedanta Svami Prabhupada even though, unfortunately, not everyone
-realizes it.
+Saṅkīrtana movement are actually initiated by His Divine Grace A.C. Bhaktivedanta Svami Prabhupada
+even though, unfortunately, not everyone realizes it.
 
 Our material feelings are covered with material mind and they are both
 contaminated. Until we clean our mind and intellect from material filth
@@ -2174,8 +2162,7 @@ to *communicate* with |SP| *through His books* but very few
 have even small faith on Him. This is the reason for our deafness.
 
 *|SP| says:*\ **"These are not ordinary books. It is
-recorded chanting. ANYONE WHO READS, HE IS HEARING.**" (Letter of Srila
-Prabhupada to Rupanuga 19.10. 74)
+recorded chanting. ANYONE WHO READS, HE IS HEARING.**" (Letter of |SP| to Rupanuga 19.10. 74)
 
 Only our faith in |SP| and full surrender to Him will give
 us possibility to hear this *recorded chanting.* But without faith in
@@ -2188,7 +2175,7 @@ my books**".
 Indian lady\ **:** **Is that spiritual master still guiding after the
 death?**
 
-*Shrila Prabhupada*: **yes, yes. Just like Krishna is guiding us,
+*|SP|*: **yes, yes. Just like Krishna is guiding us,
 similarly, spiritual master will guide.**
 
 (|SP|, lecture 23.09.1969)
@@ -2222,9 +2209,8 @@ different from each other. To have initiation from |SP| who
 is pure medium between God and us – is same as to get the initiation
 from Krishna himself like Ardjuna did in his time. And this is a fact!
 Such a sincere devotee is protected by Krishna from dawn fall. From
-these verses it becomes clear that only His Divine Grace A.C.
-Bhaktivedanta Svami Prabhupada can occupy the position of a
-*diksha-guru*.
+these verses it becomes clear that only His Divine Grace A.C. Bhaktivedanta Svami Prabhupada
+can occupy the position of a *diksha-guru*.
 
 In (Mundaka Upanishad 1.2.12) it is said:
 
@@ -2686,13 +2672,12 @@ simply have to read again and again. By reading daily **the knowledge
 will be revealed to you** and by this process your **spiritual life will
 develop**." (Letter to Bahurupa 22.11. 74).
 
-What for would Shrila Prabhupada write so many books if studying them
-nobody would be able to develop spiritually? What for? Shrila Prabhupada
+What for would |SP| write so many books if studying them
+nobody would be able to develop spiritually? What for? |SP|
 says: "**Spread my Books in thousands, a millions. Study my books and
 then you will get the answers to all of your questions".**
 
-Here is a small fragment from book "Last days of Prabhupada" Tamal
-Krishna Gosvami.
+Here is a small fragment from book "Last days of Prabhupada" Tamal Krishna Gosvami.
 
 EPILOGUE
 
@@ -2727,15 +2712,15 @@ still assumed a responsibility of a *diskha-guru* and accepts disciples
 initiating them on his own name.
 
 Recently GBC has made one more innovation in order to strengthen somehow
-already weakened *sidhanta*. They have added to their *pranama*, Srila
-Prabhupada’s *pranama*, hoping thereby to correct the situation and
+already weakened *sidhanta*. They have added to their *pranama*, |SP|’s
+*pranama*, hoping thereby to correct the situation and
 raise spiritual power among devotees. Such an innovation cannot correct
 the hopeless situation in our Society. Until GBC abandons its invented
 concept of initiation and accepts the last order of |SP|
 from (July 9 1977) the state of things wouldn’t better. This means that
 they should occupy position of *shiksha-guru* and act as ritviks
-(priests), they should conduct ritual of initiation on behalf of Srila
-Prabhupada, chant on the beads, give spiritual name to the disciple,
+(priests), they should conduct ritual of initiation on behalf of |SP|,
+chant on the beads, give spiritual name to the disciple,
 inform him that now he is a disciple of |SP| and that he
 should read *pranama-mantra* to |SP| only.
 
@@ -2804,8 +2789,8 @@ everywhere and we should be very careful in what we preach. We must
 understand and fully realize what are we preaching and never deviate
 from the teaching of |SP| even for a jot. If we preach
 distorted philosophy of *guru-tattwa*, presented by unauthorized ISKCON
-gurus, which disagrees with siddhanta clearly installed by Srila
-Prabhupada. In other words, if we in our preaching present unauthorized
+gurus, which disagrees with siddhanta clearly installed by |SP|.
+In other words, if we in our preaching present unauthorized
 ISKCON gurus as *bona fide* *diksha-gurus*, representatives of Supreme
 Personality of Godhead, then it will lead us to spiritual degradation
 and suffering in the end, because of our own invalid interpretation of
@@ -2881,9 +2866,8 @@ We would like to turn your attention to the point 3 of the Declaration
 of Will from 04. 06. 1977. It can be fulfilled only in case the second
 clause of given Declaration of Will and **directive** from 09. 07. 1977
 (see appendix) is observed. It becomes clear from here that new coming
-devotees should become disciples of His Divine Grace А. C. Bhaktivedanta
-Svami Prabhupada. This process should be followed for as long as ISKCON
-exists.
+devotees should become disciples of His Divine Grace А. C. Bhaktivedanta Svami Prabhupada.
+This process should be followed for as long as ISKCON exists.
  
 .. raw:: latex
 
@@ -2903,8 +2887,8 @@ Appendix
 ============================================================================
 
 
-So we have approached the main point. Before leaving this world Srila
-Prabhupada has written a "Declaration of Will" from 4.06.1977 and has
+So we have approached the main point. Before leaving this world |SP|
+has written a "Declaration of Will" from 4.06.1977 and has
 published "directive" from 9.07.1977, which was sent to all temples and
 centers of ISKCON.
 
@@ -3098,8 +3082,8 @@ To All G.B.C. and Temple Presidents,
 Dear Maharajas and Prabhus,
 
 Please accept my humble obeisances at your feet. Recently when all of
-the GBC members were with His Divine Grace in Vrndavana, Srila
-Prabhupada indicated that soon He would appoint some of His senior
+the GBC members were with His Divine Grace in Vrndavana, |SP|
+indicated that soon He would appoint some of His senior
 disciples to act as "rittik"- representative of the acarya, for the
 purpose of perfoming initiations, both first initiation and second
 initiation. His Divine Grace has so far given a list of eleven disciples
@@ -3128,16 +3112,16 @@ His Grace Bhagavan das Adhikari
 His Grace Jayatirtha das Adhikari
 
 In the past, Temple Presidents have written to |SP|,
-recommending a particular devotee's initiation. Now that Srila
-Prabhupada has named these representatives, Temple Presidents may
+recommending a particular devotee's initiation. Now that |SP|
+has named these representatives, Temple Presidents may
 *henceforward*\ send recommendation for first and second initiation to
 whichever of these representatives are nearest their temple. After
 considering the recommendation, these representatives may accept the
 **devotee as an initiated disciple of |SP|** by giving a
 spiritual name, or in the case of second initiation, by chanting on the
 Gayatri thread, just as |SP| has done. **The newly initiated
-devotees are disciples of His Divine Grace A.C. Bhaktivedanta Swami
-Prabhupada**, the above eleven senior devotees acting as His
+devotees are disciples of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada**,
+the above eleven senior devotees acting as His
 representative. After the Temple President receives a letter from these
 representatives, giving a spiritual name or the thread, he can perform
 the fire yajna in the temple as was being done before. **The name of a
@@ -3363,8 +3347,7 @@ discretion.
 
 **|SP|:** Hm.
 
-** Tamal Krisna Gosvami:** Shall I send a kirtana party, Srila
-Prabhupada?
+** Tamal Krisna Gosvami:** Shall I send a kirtana party, |SP|?
 
 .. raw:: latex
 
@@ -3449,8 +3432,7 @@ Fragment from Yashodanandan Svami diary
 This episode describes the dialogue which took place between
 Yashodanandan Svami and Tamala-Krishna Goswami on July 10 1977.*
 
-10 July, 9-25 morning. Tamala-Krishna Maharaja comes from Srila
-Prabhupada’s room near the garden (I came from gurucul).
+10 July, 9-25 morning. Tamala-Krishna Maharaja comes from |SP|’s room near the garden (I came from gurucul).
 
 **Tamala-Krishna Gosvami**: Hari Bol. Yashoda have you seen it?
 
@@ -3587,8 +3569,8 @@ What actually happened I'll explairi. I explained it but the
 interpretation is wrong. What actually happened was that Prabhupada
 mentioned he might be appointing some *ritviks*, so the GBC met for
 various reasons, and they went to Prabhupada, five or six of us. (This
-refers to the meeting of May 28th, 1977). We asked him, 'Srila
-Prabhupada, after your departure, if we accept disciples, whose
+refers to the meeting of May 28th, 1977). We asked him, '|SP|,
+after your departure, if we accept disciples, whose
 disciples will they be, your disciples or mine?'
 
 Later on there was a piled up list of people to get initiated, and it
@@ -3884,10 +3866,10 @@ Swami and honestly confessed that for him **bona fide** *diksha-guru* is
 **And here is what Nirandjana Swami said**: "What’s wrong is the
 misconception that one can establish relationship of initiation with the
 departed *Vaiṣṇava.* With such a *Vaiṣṇava* we can only have *shiksha*
-relations… I didn’t do anything to prevent the relationship with Srila
-Prabhupada, I never destruct the relationship with |SP|. And
-it's my duty to help those who depend on me to understand the Srila
-Prabhupada’s instructions in their life; to free them from any
+relations… I didn’t do anything to prevent the relationship with |SP|,
+I never destruct the relationship with |SP|. And
+it's my duty to help those who depend on me to understand the |SP|’s
+instructions in their life; to free them from any
 misconception they may have from |SP|’s instructions; to show
 them how Srila Prabhupdas instructions are perfect and complete; to
 remove any doubts and dualities they may experience in |SP|s
@@ -3962,7 +3944,7 @@ For those who are serious and sincerely wants to realize the
 transcendental nature of the Lord and His deeds, |SP|
 recommends to study Śrīmad Bhāgavatam consecutively starting from the
 first song. In the very beginning of His multivolume work in the second
-song of Śrīmad Bhāgavatam, Shrila Prabhupada gives us very important
+song of Śrīmad Bhāgavatam, |SP| gives us very important
 instructions:
 
 **“In order to receive the real message
@@ -3984,8 +3966,8 @@ spiritual master**. I his is called
 (S.B. 4.8. 54. commentary)
 
 It is self-evident that |SP| is an acharya of our sampradaya
-next to the Srila Bhaktisiddhanta Sarasvati Thakur. Consequently Srila
-Prabhupada is a present section in the chain. He represents the
+next to the Srila Bhaktisiddhanta Sarasvati Thakur. Consequently |SP|
+is a present section in the chain. He represents the
 disciplic succession at this time and thereby he is the person we shall
 address to learn the meaning of the “Śrīmad Bhāgavatam" teaching.
 
@@ -4072,8 +4054,7 @@ direction, then one's perfection of life in
 (B.g. 18. 57. commentary)
 
 All holy scriptures talk about dedicated service to Krishna under
-*guidance of His representative,* who at present moment is Srila
-Prabhupada.
+*guidance of His representative,* who at present moment is |SP|.
 
 *|SP| says*: "But all such activities must be in
 relationship with `Kṛṣṇa <http://vedabase.net/k/krsna>`__. This
@@ -4111,8 +4092,8 @@ fide**\ *guru who sees the TRUTH.*
 Attentive study of the books Shrimat-Bhagavatam and Bhagavad-gītā will
 leave no doubts that only |SP|, the *direct* representative
 of Suprime Personality of Godhead, can be a **bona fide** *diksha-guru*
-in our *Gauḍiya-sampradaya*. And the last instruction of Srila
-Prabhupada (from July 9 1977) contributes the final conclusion and
+in our *Gauḍiya-sampradaya*. And the last instruction of |SP| (from July 9 1977)
+contributes the final conclusion and
 closes this urgent question, at least for ISKCON.
 
 **Niranjana Svami continued**: "*and in this way, I take on the
@@ -4322,8 +4303,8 @@ he has written: “\ *I hereby make this Will in my full conscience and
 with sound mind without any persuasion, force or ompulsion from
 anybody.".*
 
-However there appear such "so-called disciples" who try to show Srila
-Prabhupada as "disable", in order to justify their "*crime*" - illegal
+However there appear such "so-called disciples" who try to show |SP|
+as "disable", in order to justify their "*crime*" - illegal
 position of *diksha-guru*.
 
 In some sense we all in this material world are "criminals" since we
@@ -4377,13 +4358,13 @@ In the same way we should accept as the truth ― all instructions of
 "Krishna and His representative are not different from each other".
 
 Initially in this conversation Niranjana Svami has said to this devotee
-that: “I didn’t do anything to prevent the relationship with Srila
-Prabhupada, I never destruct the relationship with |SP|.”
+that: “I didn’t do anything to prevent the relationship with |SP|,
+I never destruct the relationship with |SP|.”
 
-*This is not true!* As soon as devotee restores his relations with Srila
-Prabhupada and confesses to the ISKCON gurus that he accepts Srila
-Prabhupada as his *diksha-guru*\ there stars a “pressure”. For instance
-– devotee is forbidden to visit the ISKCON temple. When Bhakta-das told
+*This is not true!* As soon as devotee restores his relations with |SP|
+and confesses to the ISKCON gurus that he accepts |SP|
+as his *diksha-guru*\ there stars a “pressure”. For instance –
+devotee is forbidden to visit the ISKCON temple. When Bhakta-das told
 to Niranjana Svami that he communicates with |SP| and
 receives His instructions *through His books and lectures.*
 
@@ -4445,9 +4426,9 @@ self-appointed gurus, we cannot correctly perceive the words coming
 directly from Divine mouths of |SP|. The reason is that we
 try to communicate with |SP| listening to Him by the agency
 of such teachers, who’s self invented philosophy of
-*guru-tattva*\ disagrees with *siddhanta*\ installed by Srila
-Prabhupada. Thereby they delude us regarding the true position of Srila
-Prabhupada and our relations with Him. Such "gurus" do not only shade
+*guru-tattva*\ disagrees with *siddhanta*\ installed by |SP|.
+Thereby they delude us regarding the true position of |SP|
+and our relations with Him. Such "gurus" do not only shade
 |SP| with themselves but also move us further and further
 away from Him.
 
@@ -4507,8 +4488,8 @@ entity from the new birth".
 We shall hope that reader will make right conclusions about how strictly
 ISKCON gurus follow the instructions of |SP|. "Following" ―
 is a process and even-though someone strictly follows this process it
-does not yet signify that he is *Maha-bhagavata* or that Srila
-Prabhupada has asked him to initiate others.
+does not yet signify that he is *Maha-bhagavata* or that |SP|
+has asked him to initiate others.
 
 *|SP| says*: "One who doesn’t follow the instructions of
 one’s guru, cannot be a guru himself. If you stop obeying the guru, your
@@ -4562,8 +4543,8 @@ Worldwide ISKCON movement
 
 
 In our *Gauḍiya-sampradaya,* chain of disciplic succession, which comes
-from Bhaktisiddhanta Sarasvati Thakur, the only *diksha-guru*\ is His
-Divine Grace A.C. Bhaktivedanta Svami Prabhupada. He is *jagat-guru,*
+from Bhaktisiddhanta Sarasvati Thakur, the only *diksha-guru*\ is 
+His Divine Grace A.C. Bhaktivedanta Svami Prabhupada. He is *jagat-guru,*
 that is to say guru for all of us. Some surrender and serve Him
 willingly others do not do it straight. Just like some worship and serve
 the Supreme Personality of Godhead and others serve His energy - Maya.
@@ -4589,8 +4570,8 @@ from Lord Chaytanya. In other words ISKCON ― is a *true branch of
 Gauḍiya-sampradaya* headed by the acharya-founder of International Society for Krishna Consciousnesses,
 His Divine Grace A.C. Bhaktivedanta Svami Prabhupada.
 All others are just branches (unauthorized gurus
-acting on their own whimsy) growing aside from the main branch? As Srila
-Prabhupada said about them: "with the time they will dry up and fall
+acting on their own whimsy) growing aside from the main branch? As |SP|
+said about them: "with the time they will dry up and fall
 off, since they won’t get support and Grace from previous acharyas". Not
 a single guru out of all *Gauḍiya-maths* except |SP| can be
 a representative of Krishna and has an authority to be *diksha-guru* and
@@ -4656,8 +4637,8 @@ useless*".
 In spite of what |SP| speaks about of *Gaudya-math*
 activities in "Chaytanya Charitamrita", some disciples of Narayana
 Maharaja from *Gaudya-math* (we shall not mention their names for the
-sake of humanism) declare that their spiritual masters just like Srila
-Prabhupada belong to the chain of disciplic succession coming from
+sake of humanism) declare that their spiritual masters just like |SP|
+belong to the chain of disciplic succession coming from
 Bhaktisiddhanta Sarasvati Thakur. They *wrongly suppose* that it is
 enough to get the initiation from *bona fide* spiritual master to
 become\ *automatically* connected to *guru-parampara* and start
@@ -4750,9 +4731,10 @@ glory and His heritage.
 So, we got attentively acquainted with the book of Narayana Maharaja
 "From living sadhu" and we would like to state: this book – is an idle
 speculation of Narayana Maharaja which contaminate devotees of ISKCON
-and undermine the authority of the *acharya*-founder of International
-Society of Krishna Consciousnesses (ISKCON) His Divine Grace A.C.
-Bhaktivedanta Svami Prabhupada. In his book Narayana Maharaja states the
+and undermine the authority of the 
+*acharya*-founder of International Society of Krishna Consciousnesses (ISKCON)
+His Divine Grace A.C. Bhaktivedanta Svami Prabhupada.
+In his book Narayana Maharaja states the
 **body concept**\ *\ of "LIVING" guru* and disprove the
 "*ritvik-system*" thereby indirectly accusing |SP| in
 ineligibility of His actions.
@@ -4824,8 +4806,7 @@ no *ritviks*. I have never come across a word "*ritvik*\ ” in our
 *Vaiṣṇava* dictionary".
 
 From above stated it follows that Narayana Maharaja does not accept the
-authority of |SP| books and down grade the Prabhupada’s
-position.
+authority of |SP| books and down grade the Prabhupada’s position.
 
 The word *''ritvik'*\ (meaning 'priest')and its derivatives actually
 have 32 separateReferences in |SP|'s books, only slightly
@@ -4853,7 +4834,7 @@ in |SP|'s books:
 This *ritvik-system*, which Narayana Maharaja discusses here, came into
 operation in 1975. |SP| used His representatives, accredited
 devotees, for chanting on the malas and undertaking the ceremonies of
-initiations both first and second, on His name. Later Shrila Prabhupada
+initiations both first and second, on His name. Later |SP|
 named these representatives as "*ritviks*" and fixed their functions in
 order from July 9 1977. For some reason that time Narayana Maharaja
 never declared to |SP| that this "farfetched concept of
@@ -4870,16 +4851,15 @@ actions.
 
 In his book Narayana Maharaja accuses and humiliates the position of
 |SP| hiding behind the words "some speak", as if it’s not
-Narayana Maharaja who speaks, and hereon begins to abuse Srila
-Prabhupada. This is very bluffing policy "to create a phantom and
+Narayana Maharaja who speaks, and hereon begins to abuse |SP|.
+This is very bluffing policy "to create a phantom and
 afterwards split it into fuzz and ashes". Although he writes: "*Some
 speak..."* he knows well, better than most of us, that right before
 departure |SP| installed “\ *Ritvik-system*\ ” in the
 ISKCON, Society which He created. These\ *ritviks* (clergies) were to
 act on behalf of *acharya* |SP| conducting *rituals of
 initiation* both first and second.\ *Ritviks* do not give "*diksha*" and
-do not free from any sins. This is a duty of *diksha-guru* - Srila
-Prabhupada.
+do not free from any sins. This is a duty of *diksha-guru* - |SP|.
 
 "*Ritvik-system*" installed by the *acharya*-founder |SP|
 does not contradict with the shastras and this is confirmed by such a
@@ -4928,8 +4908,8 @@ order" and we have no rights to disagree with it. Within few years which
 Bhakta-das spent in Mayapure he happened to communicate with devotees
 from *Gaudya-maths*, he also had certain association with Maharajas and
 therefore can say that he is well acquainted with the preaching which
-*Gaudya-maths*\ carry out. Even now, after so many years, words of Srila
-Prabhupada do reflect the reality. To communicate on philosophical
+*Gaudya-maths*\ carry out. Even now, after so many years, words of |SP|
+do reflect the reality. To communicate on philosophical
 subjects with devotees from *Gaudya-maths*, more so Maharajas is as
 unfavorable as communication with *mayavadis*. The best communication
 with them is to show them respect from as big distance as possible.
@@ -4954,8 +4934,8 @@ Karune Sindhu, November 9 1975).
 
 |SP| sharply convicts wrong activity of the *Gaudya-maths*
 leaders. He doesn’t only forewarn His disciples in the letters, telling
-the truth about His own Godbrothers, but also in His books **Srila
-Prabhupada says**: "... our preaching work is going on successfully, *in
+the truth about His own Godbrothers, but also in His books **|SP| says**:
+"... our preaching work is going on successfully, *in
 spite of the many impediments offered by antagonistic demons*". Dear
 readers, which demons do you think |SP| speaks about?
 Further in the same chapter Prabhupada says: " *The members of the
@@ -4977,8 +4957,8 @@ they couldn’t see that |SP| is an external manifestation of
 the Supreme Personality of Godhead. And when He left for America nobody
 could even imagine that |SP| will be a success, since many
 of his Godbrothers already went to America before, for the preaching
-purpose, and returned empty-handed. While being in America Srila
-Prabhupada repeatedly asked His co-brothers including Narayana Maharaja
+purpose, and returned empty-handed. While being in America |SP|
+repeatedly asked His co-brothers including Narayana Maharaja
 to come to America and help him in preaching. Envy, which lived in their
 hearts, and unbelief in success kept them from answering this
 transcendental request. Hostile to him they could not allow and did not
@@ -4988,8 +4968,7 @@ and He does not make any difference, demon or not demon, He wants
 everyone to be occupied in service to Lord Krishna. Such are the
 qualities of the greatest personality, pure devotee of the Lord!
 
-In Sri Caytaniya Caritamrita (Adi, ch. 12.12. the commentary.) Srila
-Prabhupada says:
+In Sri Caytaniya Caritamrita (Adi, ch. 12.12. the commentary.) |SP| says:
 
 "... Bhaktisiddhānta `Sarasvatī <http://vedabase.net/s/sarasvati>`__
 `Ṭhākura <http://vedabase.net/t/thakura>`__ tried his best to spread the
@@ -5100,10 +5079,9 @@ They do not belong to the *bona fide* chain of *Gaudya-sampradaya* and
 act on their own, without accepting any authority. This kind of
 *apasampradayas* cannot exist for long and if they don’t verge with the
 Worldwide ISKCON Movemen, they will very soon cease to be. Some may say
-that ISKCON has its own problems! And nevertheless *true*\ Srila
-Prabhupada’s followers can see that true ISKCON will be revived very
-soon and *all false*\ will vanish in nowhere, it will be the way Srila
-Prabhupada wants to see it.
+that ISKCON has its own problems! And nevertheless *true*\ |SP|’s
+followers can see that true ISKCON will be revived very
+soon and *all false*\ will vanish in nowhere, it will be the way |SP| wants to see it.
 
 **"Only Lord Caitanya can take my place. He will take care of the
 Movement."**
@@ -5164,13 +5142,12 @@ glorify him, otherwise you cannot**."
 (Narayana Maharaja, Los Angeles, May 31st, 2000)
 
 In this article we shall use Narayana Maharaja’s own words to understand
-weather he really brings us closer to Shrila Prabhupada.
+weather he really brings us closer to |SP|.
 
-Narayana Maharaja states that he is a successor of Shrila Prabhupada.
+Narayana Maharaja states that he is a successor of |SP|.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-He lets us see that he came and exists not for bringing people to Shrila
-Prabhupada but to actually become a substitute to Shrila Prabhupada as
+He lets us see that he came and exists not for bringing people to |SP| but to actually become a substitute to |SP| as
 His successor:
 
 "I am the real successor of Srila Bhaktivedanta Swami Maharaja, and
@@ -5179,13 +5156,13 @@ there is no other."
 (Narayana Maharaja, Murwillumbah, Australia, February 18th, 2002)
 
 Here Narayana Maharaja boldly declares his rights in direct competition
-with all ISKCON gurus to inherit the position or replace Shrila
-Prabhupada rather than complement, assist or help Him. Narayana Maharaja
-*directly competes* with Shrila Prabhupada.
+with all ISKCON gurus to inherit the position or replace |SP|
+rather than complement, assist or help Him. Narayana Maharaja
+*directly competes* with |SP|.
 
-In order to fulfill the above task – to replace Shrila Prabhupada,
+In order to fulfill the above task – to replace |SP|,
 Narayana Maharaja persisted that his followers should spread mainly his
-books rather than Shrila Prabhupada one’s:
+books rather than |SP| one’s:
 
 "Now Srila Gurudeva (Narayana Maharaja) has requested that we start what
 he calls 'a second revolution' in preaching and book distribution. He
@@ -5194,15 +5171,15 @@ wants his books distributed in the same volume, 'not less than Swamiji
 
 (Gauḍiya Courier, Issue 15, July 1st, 2004)
 
-It is clear that this goal - to compete with Shrila Prabhupada can only
+It is clear that this goal - to compete with |SP| can only
 be reached if his followers would spread books of N. Maharaja solely,
 and this is what usually does occur.
 
-“N. Maharaja states that Shrila Prabhupada has given only a foundation"
+“N. Maharaja states that |SP| has given only a foundation"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *To create a demand for his service*\ Narayana Maharaja states, that
-there is a lot of spiritual knowledge which Shrila Prabhupada had no
+there is a lot of spiritual knowledge which |SP| had no
 time to give, so he can state that he has came to fill up this gap:
 
 “So Svamiji has first cleared up the atmosphere. Has prepared the
@@ -5216,33 +5193,33 @@ work".
 
 (Lecture of N. Maharaja 19 September 1994)
 
-Narayana Maharaja assured that Shrila Prabhupada did not give all.
+Narayana Maharaja assured that |SP| did not give all.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The fact that above given utterance of Narayana Maharaja is false can be
 even proved by the words of Narayana Maharaja himself which he said 17
-year earlier to Shrila Prabhupada:
+year earlier to |SP|:
 
 **"All your duties are fulfilled. You have done all in your life. There
 is no need to worry about anything else. Yes, you have done all, nothing
 is left undone".**
 
 (Translation of the conversation on Bengali between N. Maharaja and
-Shrila Prabhupada which took place in oct-nov. 1977. *Supplied by the N.
+|SP| which took place in oct-nov. 1977. *Supplied by the N.
 Maharaja followers*).
 
 The fact that Narayana Maharaja dared to say absolutely opposite to what
 he himself stated 17 years back, demonstrates *an extreme opportunism*.
 
-Narayana Maharaja states that Shrila Prabhupada is not a founder-acharya of ISKCON.
+Narayana Maharaja states that |SP| is not a founder-acharya of ISKCON.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This opportunism was later shown in Narayana Maharaja’s statement that
-Shrila Prabhupada was not an acharya-founder of ISKCON.
+|SP| was not an acharya-founder of ISKCON.
 
 Of cause Lord Caitanya Mahaprabhu is a source of the Krishna
 Consciousness therefore it is at least strange why would N. Maharaja
-pays such an importance to minimizing the role of Shrila Prabhupada and
+pays such an importance to minimizing the role of |SP| and
 supporting his own position by stating such obvious things:
 
 "You must also know that Caytanya Mahaprabhu is a founder of ISKCON.
@@ -5251,7 +5228,7 @@ founder.”
 
 (N.Maharaja 28April 1999, Karakas, Venezuela)
 
-"Your Shrila Prabhupada has only changed the name to English. He is not
+"Your |SP| has only changed the name to English. He is not
 an acharya-founder, this is eternal ISKCON. **I am ISKCON. I am not
 different from ISKCON. I am Bhaktivedanta**"
 
@@ -5264,17 +5241,17 @@ after I did. I'm senior to him in this regard. I'm Bhaktivedanta, and
 I'm also ISKCON. Don't think that I'm out of ISKCON." (Narayana
 Maharaja, Murwillumbah, Australia February 18 2002).
 
-*But according to Shrila Prabhupada*: "**I am an acharya-founder of the
-International Society of Krishna Consciousnesses**" (Shrila Prabhupada,
+*But according to |SP|*: "**I am an acharya-founder of the
+International Society of Krishna Consciousnesses**" (|SP|,
 letter to Bigelov, Allahabad January 20 1971).
 
-Narayana Maharaja deviates from Shrila Prabhupada - 1
+Narayana Maharaja deviates from |SP| - 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Although he claims to be a successor to |SP|, and that Srila
-Prabhupada is somehow speaking through him, it should be noted that
-Narayana Maharaja's teachings often seriously differ from Srila
-Prabhupada's. This is what Narayana Maharaja has to say about Prahlada
+Although he claims to be a successor to |SP|, and that |SP|
+is somehow speaking through him, it should be noted that
+Narayana Maharaja's teachings often seriously differ from |SP|'s.
+This is what Narayana Maharaja has to say about Prahlada
 Maharaja, who is worshipped on every altar throughout ISKCON as a
 completely pure devotee of Krishna: "Prahlada Maharaja was a very bona
 fide bhakta, and he never wanted anything worldly, but he could not
@@ -5349,8 +5326,8 @@ However, as will be seen from the full translation of this conversation
 provided by the Narayana Maharaja camp themselves, |SP| does
 not say anything of the sort. Whilst reading the relevant portion of the
 conversation below, please pay special attention to whom the word "them"
-in the above sentence refers to; what was the "matter" on which Srila
-Prabhupada wanted Narayana Maharaja to give instruction; and "when" this
+in the above sentence refers to; what was the "matter" on which |SP|
+wanted Narayana Maharaja to give instruction; and "when" this
 instruction was meant to be given:
 
 **|SP|**: Are any of my god-brothers in Vrindavana now?
@@ -5400,19 +5377,19 @@ skilfully.
 **|SP|**: YOU KINDLY INSTRUCT THEM ON THIS MATTER. I'm
 unable to speak
 
-1) Word "them" refers to Shrila Prabhupada’s Godbrothers who were to
-arrive shortly. And this has nothing to do with Shrila Prabhupada’s
+1) Word "them" refers to |SP|’s Godbrothers who were to
+arrive shortly. And this has nothing to do with |SP|’s
 disciples as Narayana Maharaja tries to present.
 
 2) Word "them" is twice used in the conversation and in both cases
-refers to Shrila Prabhupada’s Godbrothers: Indupati and Van Maharaja.
+refers to |SP|’s Godbrothers: Indupati and Van Maharaja.
 
-3) "Matter" on which Shrila Prabhupada asked N. Maharaja to give
+3) "Matter" on which |SP| asked N. Maharaja to give
 instructions to his Godbrothers concerns the apologies for "cutting of
 the arguments" which He could have allowed in His preaching activity.
 
 4) And when was this instruction to be given? There and then only. Right
-after asking N. Maharaja to give the instructions Shrila Prabhupada
+after asking N. Maharaja to give the instructions |SP|
 immediately states: "I'm unable to speak" That is why he asks N.
 Maharaja to explain these matter to his Godbrothers as soon as they
 arrive.
@@ -5422,8 +5399,8 @@ promote his agenda as being the "real successor" to |SP|.
 
 In conclusion, on the basis of all the above, it is clear from Narayana
 Maharaja's OWN WORDS that he is not simply a "dearmost siksa disciple"
-of |SP| whose aim is to help to bring us closer to Srila
-Prabhupada. Rather he is no different to the 80 wannabe "successor
+of |SP| whose aim is to help to bring us closer to |SP|.
+Rather he is no different to the 80 wannabe "successor
 Gurus" of ISKCON, doing and saying whatever is necessary to jockey for
 |SP|'s position.
 
@@ -5488,8 +5465,8 @@ others do not obey him directly."
 In this chapter |SP| reveals the importance and need of
 accepting the **bona fide** guru very well. He emphasizes that **bona
 fide** guru is ONE. The reason for our misunderstanding of this
-important aspect is that we do not address our *acharyadeva* Srila
-Prabhupada directly but through mediators – false-gurus or those who
+important aspect is that we do not address our *acharyadeva* |SP|
+directly but through mediators – false-gurus or those who
 consider themselves as high as "*jagat-guru".* This is why it is so
 difficult to understand the philosophy given in His books and as a
 consequence we fall victim of deceit.
@@ -5750,10 +5727,9 @@ find a bona fide spiritual master there. Leaders of self-appointed
 *acharyas* from *Gaudya-maths* are unable to create their own good
 devotees and concern only with enticing readymade devotees. Actually,
 all, who are attracted to the Krishna consciousness movement through
-|SP| books are disciples of His Divine Grace A.C.
-Bhaktivedanta Svami Prabhupada. And those who assigns such disciples to
-himself, whoever he is and whatever social position he has, is a
-*cheater*.
+|SP| books are disciples of His Divine Grace A.C. Bhaktivedanta Svami Prabhupada.
+And those who assigns such disciples to
+himself, whoever he is and whatever social position he has, is a *cheater*.
 
 Unfortunately, many devotees judge the spiritual level of the person
 only by external signs and on this base move over to other *Maths* in
@@ -5773,8 +5749,8 @@ the fruits of disappointment. There is an example of one devotee with
 whom we had a conversation on this topic. We mean Bhakti-vedanta
 Raddhanti Maharaja, former Ananta-shaya das. He has said: *"I always
 remembered about |SP|, chanted His pranama, worshipped and
-even conducted puja for Him*". That’s why he was shed a mercy of Srila
-Prabhupada in form of reasonable inspiration. He returned to ISKCON,
+even conducted puja for Him*". That’s why he was shed a mercy of |SP|
+in form of reasonable inspiration. He returned to ISKCON,
 although he came under GBC’s "wing", still this is already a first step
 back to Prabhupada. We shall hope that this will serve a good example
 for his congeners from *Gaudya-maths*...
@@ -5784,8 +5760,8 @@ Time will come when all these leaders of *Gaudya-maths* will accept
 master in the chain of true disciplic succession and will **JOIN this
 Worldwide ISKCON Movement**!
 
-In *Gaudya-sampradaya* there is ONE **bona fide** *guru* ― His Divine
-Grace A.C. Bhaktivedanta Svami Prabhupada and all rest occupy the
+In *Gaudya-sampradaya* there is ONE **bona fide** *guru* ― 
+His Divine Grace A.C. Bhaktivedanta Svami Prabhupada and all rest occupy the
 position of *non authoritative gurus* who have never brought anyone back
 to God.
 
@@ -6204,8 +6180,7 @@ When we (devotees at `ISKCON
 Bangalore <http://www.iskconirm.com/28.htm>`__) came to know that HG
 Basugosh Prabhu, was arranging a conference of Madhvas & Sri Vaiṣṇava
 Scholars to discuss the guru issue, we vehemently opposed. As we found
-no authorization from `Srila
-Prabhupada <http://www.iskconirm.com/tfo.htm>`__ for such an exercise.
+no authorization from |SP| for such an exercise.
 
 We see HG Basugosh Prabhus' postings are misleading devotees around the
 world by his one sided presentation.
@@ -6239,8 +6214,8 @@ if we accept |SP| as the diksa guru and receive initiation
 from the *ritviks*, is this system in accordance to sastric principles,
 what is your holiness' opinion?
 
-HH Rangapriya Swami: It appears from the system of initiation that Srila
-Prabhupada has proposed in his letter of July 9th 1977, that he wished
+HH Rangapriya Swami: It appears from the system of initiation that |SP|
+has proposed in his letter of July 9th 1977, that he wished
 to remain the *diksha-acharya*, vanquish sinful reactions of the
 disciples, take the responsibility of delivering his disciples and this
 way continue the parampara through the *rtviks*. This is a new system.
@@ -6270,8 +6245,8 @@ Others can be called ritviks and can be respected for their seniority.
 
 Copy of the letter given to ISKCON: (11.1.99).
 
-I have acquainted myself with the life and message of His Holiness Srila
-Prabhupada including his message in the letter of July 9th, 1977. I also
+I have acquainted myself with the life and message of His Holiness |SP|
+including his message in the letter of July 9th, 1977. I also
 understand there is some controversy going on among the disciples of the
 great guru regarding the positions of the *diksha-guru* and officiating
 *acharyas* called *rtvik* *acharyas* who give *diksha* as deputees of
@@ -6280,8 +6255,7 @@ behalf of Sri Rama's padukas.
 
 In this connection, keeping in view the spirit of |SP| and
 the continuation of the great tradition given by him, we recommend that
-the office of the *rtvik acharyas* should continue as intended by Srila
-Prabhupada.
+the office of the *rtvik acharyas* should continue as intended by |SP|.
 
 |SP|'s system accords a unique position to the *acarya* by
 declaring that he should be a Master Yogin, who takes upon himself the
@@ -6349,8 +6323,8 @@ do this now?
 your karma? Is he competent to do it? The presence or the absence of the
 physical body is not the criteria to take away the *karma* of a
 particular person. On the other hand, it depends on the devotion of the
-disciple and the grace of the *acharya*. Say for instance, Srila
-Prabhupada's guru was not there when |SP| was present. Do
+disciple and the grace of the *acharya*. Say for instance, |SP|'s
+guru was not there when |SP| was present. Do
 you mean to say that they are not capable of taking the karma of their
 disciple? The interesting thing is (quotes a verse in Sanskrit from
 *Yatindra vimsati* composed by Sri Manavala Mamuni of Sri Vaiṣṇava *sampradaya*,
@@ -6453,8 +6427,8 @@ Again, will the parampara stop?
 --------------------------------------------------------------------------------------
 
 **ISKCON devotee:** In the Bhagavad Gita, |SP| gives the
-*guru-parampara* - Brahma, Narada, Vyāsa...and so on till Srila
-Prabhupada. In the *ritvik-system*, who comes after |SP|?
+*guru-parampara* - Brahma, Narada, Vyāsa...and so on till |SP|.
+In the *ritvik-system*, who comes after |SP|?
 
 **Sri Tatachar:** |SP| himself. Only the *ritvik-system*
 continues and |SP| is the guru.
@@ -6559,8 +6533,8 @@ This is the very elevated and mysterious subject. Here we shall come to
 know the innermost about |HDGSP|. Before
 starting with this subject we prayed to f Śrīmatī Radharani and Lord
 Krishna asking for Their Grace and consent to be able to glorify, in the
-best way, our dear and beloved Gurudeva His Divine Grace Srila
-Prabhupada, the greatest among the greatest in all material and
+best way, our dear and beloved Gurudeva |HDGSP|,
+the greatest among the greatest in all material and
 spiritual worlds.
 
 There are many books written about |HDGSP| but
@@ -6572,8 +6546,8 @@ love of the disciple to his spiritual master |SP|, is felt.
 Even with all their academic educations nobody was able to reveal the
 beauty of His Divine Greatness.
 
-All these authors did not want and were not able to tell about Srila
-Prabhupada everything He deserves and what He is worth of. Some of them
+All these authors did not want and were not able to tell about |SP|
+everything He deserves and what He is worth of. Some of them
 had a great luck to have close relations with |SP| - the
 greatest\ **sadhu** and render Him direct service. However due to their
 conditioned nature they were not able to recognize His Divine nature.
@@ -6581,15 +6555,14 @@ The reason is that, unfortunately, none of these authors is a completely
 and sincerely surrendered soul, besides they have gone against His will,
 rejecting the last order of Prabhupada. And those who go against the
 will of one’s spiritual master, the acharya - representative of Supreme
-Personality of Godhead are considered an offenders. Therefore Srila
-Prabhupada is hidden from them by His Divine energy. He opens only to
+Personality of Godhead are considered an offenders. Therefore |SP|
+is hidden from them by His Divine energy. He opens only to
 those who are fully and *sincerely* dedicated to Him.
 
-In September 1965 at the age of 69 years His Divine Grace Srila
-Prabhupada, without even having sufficient money for his living, arrived
+In September 1965 at the age of 69 years |HDGSP|, without even having sufficient money for his living, arrived
 to NEW YORK city on the cargo ship to fulfill the Mission entrusted on
-Him. Having spent less than a year in USA facing many obstacles Srila
-Prabhupada founder, developed and registered, on July 13 1966, the
+Him. Having spent less than a year in USA facing many obstacles |SP|
+founder, developed and registered, on July 13 1966, the
 International Society of Krishna Consciousness (ISKCON) which has no
 analogues and will never have for thousands of **kali-yugas** or
 8.640.000.000 terrestrial years. Before |SP| left this world
@@ -6602,8 +6575,8 @@ the historical medieval temple Radha-Damodar, |SP| began to
 work on His masterpiece - a multivolume translation and commentary to
 "Śrīmad Bhāgavatam" ("Bhagavata-purana"), the classical philosophical
 scripture on Sanskrit, which consists of eighteen thousand verses.
-Having published first three volumes of "Śrīmad Bhāgavatam" Srila
-Prabhupada went to America and within few years released more than sixty
+Having published first three volumes of "Śrīmad Bhāgavatam" |SP|
+went to America and within few years released more than sixty
 volumes of translation, commentaries and overview essays of the Indian
 classical works on philosophy and religion. His works are currently
 translated to more than seventy five languages of the world.
@@ -6941,8 +6914,8 @@ gurus and protects |SP| from all sorts of encroachment on
 His place.
 
 Once disciples complained to |SP| that people do not buy the
-Deities of Gaura-Nitay, telling them that this is an idolization. Srila
-Prabhupada smiled and said: "Just tell them: buy these *dolls* and they
+Deities of Gaura-Nitay, telling them that this is an idolization. |SP|
+smiled and said: "Just tell them: buy these *dolls* and they
 will bring you good luck". Who can afford such a transcendental
 "familiarity", except Śrīmatī Radharani.
 
@@ -6980,7 +6953,7 @@ death?**
 *Prabhupada*: **yes, yes. Just like Krishna is guiding us, similarly,
 spiritual master will guide.**
 
-(Shrila Prabhupada, lecture 23.09.1969)
+(|SP|, lecture 23.09.1969)
 
 Lord Krishna loves Śrīmatī Radharani so much that He accepts Her as His
 guru.
@@ -7160,8 +7133,7 @@ as **mukti** - LIBERATION".
 
 (Dialectical spiritualism)
 
-Sincerely surrendering to the acharya - His Divine Grace Srila
-Prabhupada, we find the unshakable faith and confidence that in the end
+Sincerely surrendering to the acharya - |HDGSP|, we find the unshakable faith and confidence that in the end
 of our life we shall return to Krishna, and this confidence can be given
 ONLY by the **bona fide**\ guru - |SP|. This confidence is
 called the transcendental confidence.
@@ -7395,8 +7367,8 @@ world not from second hand, but is a direct representative of the
 spiritual world. |SP| is the direct representative of the
 spiritual world and He gives us full transcendental knowledge through
 which each of us can become realized soul and return back home to God by
-His mercy. For this it is necessary to completely surrender to Srila
-Prabhupada, the personality from which we get the transcendental
+His mercy. For this it is necessary to completely surrender to |SP|,
+the personality from which we get the transcendental
 knowledge (*divya-jnana*). However the whole trouble is that we
 surrender to self-appointed gurus (conditioned souls), who are not
 representatives of the spiritual world and with all this, we want to
@@ -7627,8 +7599,8 @@ never performed*."
 ("Nectar to devotion" intriduction)
 
 As we already know, initiation – means to initiate the disciple with the
-transcendental knowledge (*divya-jnana*), which we get from Srila
-Prabhupada through His books, *which present Him.*
+transcendental knowledge (*divya-jnana*), which we get from |SP|
+through His books, *which present Him.*
 
 In the Nectar of devotion it is also said: "Because Krishna is Supreme
 Personality of Godhead, it is very difficult to approach Him. But
@@ -7678,8 +7650,7 @@ love He appeared to this world specially to pick us up. Therefore we
 should not waist our precious time in vain. In this age of Kali we are
 so short of time, life is so penny-ante, any moment it can come to an
 end. Our senses are like mad horses and mind like a wandering madman in
-darkness. We should surrender and give oneself to His Divine Grace Srila
-Prabhupada right\ *with the word*. Thus we shall deliver enormous
+darkness. We should surrender and give oneself to |HDGSP| right\ *with the word*. Thus we shall deliver enormous
 pleasure to our beloved eternal Gurudev. And with no doubt we shall very
 soon find the inner happiness and unflinching confidence that at the end
 the life we shall return to Lord Krishna.
@@ -7817,7 +7788,7 @@ the Vaiṣṇavas.    
 
    <hr class="acdclass" /> 
 
-ON THE PHRASE "MY INITIATED DISCIPLE" IN SRILA PRABHUPADA'S FINAL WILL.
+ON THE PHRASE "MY INITIATED DISCIPLE" IN |SP|'S FINAL WILL.
 --------------------------------------------------------------------------------------
 
 Часть первая
@@ -8004,8 +7975,8 @@ well-established ISKCON siddhanta?  
 ~~~~~~~~~~~~~~~
 
 
-2D. Maharaja next went on to defend his explanation that Srila
-Prabhupada never noticed "My initiated disciple" by saying that a pure
+2D. Maharaja next went on to defend his explanation that |SP| 
+never noticed "My initiated disciple" by saying that a pure
 devotee may not really be free from defects.
 
 **Devotee:** A pure devotee is run by Krishna. His senses are directed
@@ -8045,14 +8016,14 @@ instructions of the Lord.   Here is an example of how sometimes, one is
 dragged into making irrelevant statements, sometimes offensive to one's
 own guru, just to defend one's own position or views. Although being in
 a senior and very responsible position as a GBC member, His Holiness is
-here trying to establish that one is wrong if one thinks that Srila
-Prabhupada (though he does not dispute the understanding that Srila
-Prabhupada was a pure devotee, mahabhagavatha etc.) was free from
+here trying to establish that one is wrong if one thinks that |SP|
+(though he does not dispute the understanding that |SP|
+was a pure devotee, mahabhagavatha etc.) was free from
 defects because he could make mistakes such as falling asleep in a class
 (has anyone seen this anytime, we only know that |SP| was
 always very alert?) or missing Sanskrit verses. And this is the
-explanation His Holiness has, just to prove his point that Srila
-Prabhupada did not notice the "my" in the phrase "my initiated disciple"
+explanation His Holiness has, just to prove his point that |SP|
+did not notice the "my" in the phrase "my initiated disciple"
 in his Final Will. Maharaja, have you come to accept at least now (after
 hearing the most appropriate reasons provided by the devotees
 assembled), the fact that a pure devotee such as |SP| is
@@ -8156,7 +8127,7 @@ coming? That he is astonished
    \begingroup
    \centering
      |ШПа| ки Джая! \par
-SRILA PRABHUPADA KI JAYA!
+|SP| KI JAYA!
    \endgroup
 
    \decorCenterRuler
@@ -8166,7 +8137,7 @@ SRILA PRABHUPADA KI JAYA!
 
    <div style="text-align:center">
      <p>|ШПа| ки Джая!</p>
-SRILA PRABHUPADA KI JAYA!
+|SP| KI JAYA!
    </div>
    <hr class="acdclass" /> 
 
@@ -8226,8 +8197,8 @@ way.”
 
 (“Back to God” 13:1-2 dec. 1977)
 
-The transcendental body of His Divine Grace Sri-Srimad A.C.
-Bhaktivedanta Svami Prabhupada, acharya-founder of International Society
+The transcendental body of His Divine Grace Sri-Srimad A.C. Bhaktivedanta Svami Prabhupada,
+acharya-founder of International Society
 of Krishna Consciousness “ISKCON” repose in Vrindavana, in a magnificent
 hand carved *Samadhi*\ of pure white marble near Krishna-Balaram temple.
 And |SP|’s *pushpa-samadhi*\ is located in Sri-dhama
