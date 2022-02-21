@@ -87,27 +87,31 @@ make html BOOK_LANGUAGE=ru
  Bona Fide Guru
 ===============
 
-This project is a tool that makes it easy to create "Bona Fide Guru" books 
-(using reStructuredText as its markup language) in following output formats:
+This project is a tool that makes it easy to create "Bona Fide Guru" book in Russian and English in following output formats:
 
 * PDF 
 * HTML
 * Epub
 
-It is based on Sphinx engine. For more information, refer to the `the documentation`__.
+It uses `Sphinx`__ engine (4.4.0)
 
 .. __: http://www.sphinx-doc.org/
+
+`reStructuredText` format is used as its markup language.
 
 Installation
 ============
 
-Sphinx can be installed from there::
+For Ubuntu distribution
+
+PDF needs TeX Live: XeTeX and packages::
+
+   apt install texlive-xetex texlive-fonts-extra
+
+Install Sphinx and needed dependencies::
 
    pip install -U sphinx
-
-Or beta releases::
-
-   pip install -U --pre sphinx
+   pip install sphinx_rtd_theme
 
 Documentation
 =============
