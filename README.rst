@@ -10,28 +10,27 @@ This project is a tool that makes it easy to create "Bona Fide Guru" book with d
 
 in Russian and English using free software.
 
-It uses `Sphinx`__ engine (4.4.0)
+It uses `Sphinx`__ engine (4.4.0), TeX Live for creating PDF. 'reStructuredText' format is used as its markup language.
 
 .. __: http://www.sphinx-doc.org/
 
-'reStructuredText' format is used as its markup language.
 
-Installation
-============
-
-For Ubuntu distribution:
-
-PDF needs TeX Live (XeTeX and font packages)::
-
-   apt install texlive-xetex texlive-fonts-extra
+Installation (Ubuntu distribution)
+=============================================
 
 Install Sphinx and needed dependencies::
 
    apt  install sphinx sphinx_rtd_theme
 
+PDF needs TeX Live (XeTeX and font packages)::
+
+   apt install texlive-xetex texlive-fonts-extra
+
+Building book
+============================
 
 Get sources
-============================
+----------------------------
 
 ::
 
@@ -39,7 +38,7 @@ Get sources
   cd bonafide.guru
 
 Building EPUB
-==============
+----------------------------
 
 ::
 
@@ -51,7 +50,7 @@ Building EPUB
 
 
 Building HTML
-==============
+----------------------------
 
 ::
 
