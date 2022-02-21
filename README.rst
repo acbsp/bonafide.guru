@@ -26,6 +26,7 @@ Installation (Ubuntu GNU/Linux distribution)
 Install Sphinx and needed dependencies::
 
    apt install sphinx sphinx_rtd_theme
+   apt install cmake bash sed
 
 PDF needs TeX Live (XeTeX and font packages)::
 
