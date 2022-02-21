@@ -1,67 +1,14 @@
-# bonafide.guru
-
-https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html
-
-https://www.sphinx-doc.org/en/master/usage/configuration.html
-
-
-
-.local/lib/python3.8/site-packages/sphinx/writers/texinfo.py
- 
- ```
-  def visit_Text
-```
-
-.local/lib/python3.8/site-packages/sphinx/writers/latex.py
- 
-```
-    def visit_attribution(self, node: Element) -> None:
-        self.body.append(CR + r'\begin{flushright}' + CR)
-        self.body.append('(')
-
-    def depart_attribution(self, node: Element) -> None:
-        self.body.append(')')
-        self.body.append(CR + r'\end{flushright}' + CR)
-```
-
-.local/lib/python3.8/site-packages/sphinx/util/texescape.py
-
- # A map to avoid TeX ligatures or character replacements in PDF output
-
- # xelatex/lualatex/uplatex are handled differently (#5790, #6888)
-
- ascii_tex_replacements = [
-
-
-------------
-
-cat contents.rst |sed -En 's/^[ ]{1,3}\*{1,2}([а-я].*)\*{1,2}$/\1/p' >sed3.txt
-
-cat sed3.txt |sort  >sed3_sorted.txt
-
-cat  sed3_sorted.txt|uniq > sed3_sorted_uniq.txt
-
-cp  sed3_sorted_uniq.txt    sed_RESULT.txt
-
-------------
-
-```
-cd ~/Book/bonafide.guru/_build/latex 
-xindy -o outfile.ind -L russian -C utf8 -I xelatex -M texindy.xdy  sphinx.idx
-```
-
-
-
-
 ===============
  Bona Fide Guru
 ===============
 
-This project is a tool that makes it easy to create "Bona Fide Guru" book with diacritics signs in Russian and English in following output formats:
+This project is a tool that makes it easy to create "Bona Fide Guru" book with diacritics signs in following output formats:
 
 * PDF 
 * HTML
 * Epub
+
+in Russian and English using free software.
 
 It uses `Sphinx`__ engine (4.4.0)
 
@@ -126,5 +73,34 @@ Android:
 
 PC:
    Chrome browser with extensions: "Readium" or "EPUB Reader"
+
+----
+
+
+.local/lib/python3.8/site-packages/sphinx/writers/texinfo.py
+ 
+ ```
+  def visit_Text
+```
+
+.local/lib/python3.8/site-packages/sphinx/writers/latex.py
+ 
+```
+    def visit_attribution(self, node: Element) -> None:
+        self.body.append(CR + r'\begin{flushright}' + CR)
+        self.body.append('(')
+
+    def depart_attribution(self, node: Element) -> None:
+        self.body.append(')')
+        self.body.append(CR + r'\end{flushright}' + CR)
+```
+
+.local/lib/python3.8/site-packages/sphinx/util/texescape.py
+
+ # A map to avoid TeX ligatures or character replacements in PDF output
+
+ # xelatex/lualatex/uplatex are handled differently (#5790, #6888)
+
+ ascii_tex_replacements = [
 
 
