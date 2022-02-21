@@ -10,16 +10,17 @@ This project is a tool that makes it easy to create "Bona Fide Guru" book with d
 
 in Russian and English using free software and fonts.
 
-It uses `Sphinx`__ engine (4.4.0), TeX Live for creating PDF. 'reStructuredText' format is used as its markup language.
+It uses `Sphinx`__ engine (4.4.0), `LaTeX`__ for creating PDF, 'reStructuredText' format as its markup language.
 
 .. __: http://www.sphinx-doc.org/
+.. __: https://www.tug.org/texlive/
 
 "`CharisSIL`__" family of fonts is used for printing to web and mobile. It supports advanced OpenType features useful for multilingual texts, including careful diacritic positioning.
 
 .. __: https://software.sil.org/charis/
 
 
-Installation (Ubuntu distribution)
+Installation (Ubuntu GNU/Linux distribution)
 =============================================
 
 Install Sphinx and needed dependencies::
@@ -65,7 +66,7 @@ Building HTML
 
 -----
 
-Reading Epub3 with diacritics
+Reading Epub3 with diacritic
 ================================
 
 iOS (iPhone и iPad):
