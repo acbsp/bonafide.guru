@@ -42,12 +42,22 @@ Get sources
   git clone git@github.com:acbsp/bonafide.guru.git
   cd bonafide.guru
 
+Building PDF
+----------------------------
+
+::
+
+    make clean
+    git restore _static
+    make latexpdf BOOK_LANGUAGE=ru
+
 Building EPUB
 ----------------------------
 
 ::
 
     make clean
+    git restore _static
     make epub BOOK_LANGUAGE=ru
 
     epubcheck _build/epub/sphinx.epub
@@ -64,7 +74,6 @@ Building HTML
     make html BOOK_LANGUAGE=ru
 
 
------
 
 Reading Epub3 with diacritic
 ================================
@@ -78,18 +87,16 @@ Android:
 PC:
    Chrome browser with extensions: "Readium" or "EPUB Reader"
 
-----
 
+PDF: Fix to have `()` as quote signature instead of `--`
+==========================================================
 
-.local/lib/python3.8/site-packages/sphinx/writers/texinfo.py
+It needs to find your local Sphinx file `latex.py` in /writers/ directory and fix it manually:
+
+(mine was at .local/lib/python3.8/site-packages/sphinx/writers/latex.py)
  
- ```
-  def visit_Text
-```
+::
 
-.local/lib/python3.8/site-packages/sphinx/writers/latex.py
- 
-```
     def visit_attribution(self, node: Element) -> None:
         self.body.append(CR + r'\begin{flushright}' + CR)
         self.body.append('(')
@@ -97,14 +104,6 @@ PC:
     def depart_attribution(self, node: Element) -> None:
         self.body.append(')')
         self.body.append(CR + r'\end{flushright}' + CR)
-```
 
-.local/lib/python3.8/site-packages/sphinx/util/texescape.py
-
- # A map to avoid TeX ligatures or character replacements in PDF output
-
- # xelatex/lualatex/uplatex are handled differently (#5790, #6888)
-
- ascii_tex_replacements = [
 
 
