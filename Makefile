@@ -40,9 +40,9 @@ else
 	$(error Wrong BOOK_LANGUAGE.)
 endif
 	@echo "DEBUG  ==========================================================================="
-	@$(BOOK_LANGUAGE)/pre.sh $@ $(BOOK_LANGUAGE)
+	@sh $(BOOK_LANGUAGE)/pre.sh $@ $(BOOK_LANGUAGE)
 	@echo "DEBUG BOOK_LANGUAGE = $(BOOK_LANGUAGE)"
 	@echo "DEBUG COMMAND=@$(SPHINXBUILD) -M $@ $(SOURCEDIR) $(BUILDDIR) $(SPHINXOPTS) $(O)"
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
-	@$(BOOK_LANGUAGE)/post.sh $@ $(BOOK_LANGUAGE)
+	@sh $(BOOK_LANGUAGE)/post.sh $@ $(BOOK_LANGUAGE)
 
