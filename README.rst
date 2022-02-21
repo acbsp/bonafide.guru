@@ -83,31 +83,35 @@ Install Sphinx and needed dependencies::
    apt  install sphinx sphinx_rtd_theme
 
 
+Get sources
+============================
+
+::
+
+  git clone git@github.com:acbsp/bonafide.guru.git
+  cd bonafide.guru
+
+Building EPUB
+==============
+
+::
+
+    make clean
+    make epub BOOK_LANGUAGE=ru
+
+    epubcheck _build/epub/sphinx.epub
+    sigil _build/epub/sphinx.epub
+
+
 Building HTML
 ==============
 
+::
 
-```
-pip3 install -U sphinx
-pip3 install sphinx-rtd-theme
-git clone git@github.com:acbsp/bonafide.guru.git
-cd bonafide.guru
-make clean
-make epub BOOK_LANGUAGE=ru
+    make clean
+    git restore _static
+    make html BOOK_LANGUAGE=ru
 
-epubcheck _build/epub/sphinx.epub
-sigil _build/epub/sphinx.epub
-```
-
-Building HTML
-==============
-
-```
-make clean
-git restore _static
-make html BOOK_LANGUAGE=ru
-
-``` 
 
 -----
 
