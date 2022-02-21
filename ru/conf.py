@@ -29,7 +29,7 @@ smartquotes = True
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx_rtd_theme', 'sphinxcontrib.programoutput']
+extensions = ['sphinx_rtd_theme'] #, 'sphinxcontrib.programoutput']
 # Now you’ve two new directives:
 #  .. program-output:: python -V
 #  .. command-output:: python -V
