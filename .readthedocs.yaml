@@ -15,7 +15,6 @@ build:
     # rust: "1.55"
     # golang: "1.17"
 
-  system_packages: true
   apt_packages:
     - cmake
     - bash
