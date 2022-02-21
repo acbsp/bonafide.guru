@@ -49,7 +49,7 @@ language = 'ru'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'ru', 'en', '_templates', 'site', 'fonts']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'ru', 'en', '_templates', 'site', 'fonts', 'README.rst']
 
 # Enable figures numbering
 numfig = True
@@ -87,7 +87,7 @@ latex_elements = {
     # Custom preamble to tune title page
 #    "preamble": preamble,
     # The font size ('10pt', '11pt' or '12pt').
-    "pointsize": "11pt",
+    "pointsize": "10pt",
 
     # https://www.sphinx-doc.org/en/master/latex.html
     'makeindex': '\\usepackage[columns=1]{idxlayout}\\makeindex',
@@ -130,7 +130,7 @@ latex_elements = {
   ]
 
  \setmainfont{Andika}[
-   Path = fonts/Andika-6.001/,
+   Path = ./fonts/Andika-6.001/,
    Extension = .ttf,
    UprightFont = *-Regular,
    %-- Upright --%
@@ -142,7 +142,7 @@ latex_elements = {
   ]
 
   \setmainfont{CharisSIL}[
-   Path = fonts/CharisSIL-6.101/,
+   Path = ./fonts/CharisSIL-6.101/,
    Extension = .ttf,
    UprightFont = *-Regular,
    %-- Upright --%
@@ -270,12 +270,10 @@ latex_elements = {
   \titlespacing*{\paragraph} {0pt}{3.25ex plus 1ex minus .2ex}{1em}
   \titlespacing*{\subparagraph} {\parindent}{3.25ex plus 1ex minus .2ex}{1em}
 
-\fi
+  \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+  \let\endchangemargin=\endlist
 
-\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
-\let\endchangemargin=\endlist
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ''',
 }
 
