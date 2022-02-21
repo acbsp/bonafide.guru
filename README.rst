@@ -51,15 +51,40 @@ xindy -o outfile.ind -L russian -C utf8 -I xelatex -M texindy.xdy  sphinx.idx
 ```
 
 
-Способы чтения Epub3.
-    iOS
-        На мобильных устройствах на базе iOS (iPhone и iPad) файлы в формате EPUB можно читать с помощью «родного» приложения Apple Books.
 
-    Android
-        На мобильных устройствах с операционной системой Android книги в формате EPUB можно читать с помощью программ Google Books (обработка книг может занять несколько минут) и др.
 
-    Персональный КОМПЬЮТЕР
-        В браузере Chrome файлы EPUB можно читать с расширением Readium или EPUB Reader. В браузере Firefox файлы EPUB можно читать с расширением EPUB Reader. 
+===============
+ Bona Fide Guru
+===============
+
+This project is a tool that makes it easy to create "Bona Fide Guru" book with diacritics signs in Russian and English in following output formats:
+
+* PDF 
+* HTML
+* Epub
+
+It uses `Sphinx`__ engine (4.4.0)
+
+.. __: http://www.sphinx-doc.org/
+
+'reStructuredText' format is used as its markup language.
+
+Installation
+============
+
+For Ubuntu distribution:
+
+PDF needs TeX Live (XeTeX and font packages)::
+
+   apt install texlive-xetex texlive-fonts-extra
+
+Install Sphinx and needed dependencies::
+
+   apt  install sphinx sphinx_rtd_theme
+
+
+Building HTML
+==============
 
 
 ```
@@ -72,84 +97,30 @@ make epub BOOK_LANGUAGE=ru
 
 epubcheck _build/epub/sphinx.epub
 sigil _build/epub/sphinx.epub
+```
 
+Building HTML
+==============
 
+```
 make clean
 git restore _static
 make html BOOK_LANGUAGE=ru
 
 ``` 
 
+-----
+
+Reading Epub3 with diacritics
+================================
+
+iOS (iPhone и iPad):
+   Apple Books
+
+Android:
+   Google Books
+
+PC:
+   Chrome browser with extensions: "Readium" or "EPUB Reader"
 
 
-
-===============
- Bona Fide Guru
-===============
-
-This project is a tool that makes it easy to create "Bona Fide Guru" book in Russian and English in following output formats:
-
-* PDF 
-* HTML
-* Epub
-
-It uses `Sphinx`__ engine (4.4.0)
-
-.. __: http://www.sphinx-doc.org/
-
-`reStructuredText` format is used as its markup language.
-
-Installation
-============
-
-For Ubuntu distribution
-
-PDF needs TeX Live: XeTeX and packages::
-
-   apt install texlive-xetex texlive-fonts-extra
-
-Install Sphinx and needed dependencies::
-
-   pip install -U sphinx
-   pip install sphinx_rtd_theme
-
-Documentation
-=============
-
-Documentation is available from `sphinx-doc.org`__.
-
-__ http://www.sphinx-doc.org/
-
-Get in touch
-============
-
-- Report bugs, suggest features or view the source code `on GitHub`_.
-- For less well defined questions or ideas, use the `mailing list`_.
-
-.. _on GitHub: https://github.com/sphinx-doc/sphinx
-.. _mailing list: https://groups.google.com/forum/#!forum/sphinx-users
-
-Please adhere to our `code of conduct`__.
-
-__ http://www.sphinx-doc.org/en/master/code_of_conduct.html
-
-Testing
-=======
-
-Continuous testing is provided by `Travis`__ (for unit tests and style checks
-on Linux), `AppVeyor`__ (for unit tests on Windows), and `CircleCI`__ (for
-large processes like TeX compilation).
-
-For information on running tests locally, refer to `the contributors guide`__.
-
-__ https://travis-ci.org/sphinx-doc/sphinx
-__ https://ci.appveyor.com/project/sphinxdoc/sphinx
-__ https://circleci.com/gh/sphinx-doc/sphinx
-__ http://www.sphinx-doc.org/en/master/internals/contributing.html
-
-Contributing
-============
-
-Refer to `the contributors guide`__.
-
-__ http://www.sphinx-doc.org/en/master/internals/contributing.html
