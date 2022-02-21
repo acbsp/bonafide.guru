@@ -42,38 +42,46 @@ Get sources
   git clone git@github.com:acbsp/bonafide.guru.git
   cd bonafide.guru
 
-Building PDF
+Building PDF (English)
 ----------------------------
 
 ::
 
     make clean
     git restore _static
-    make latexpdf BOOK_LANGUAGE=ru
+    make latexpdf BOOK_LANGUAGE=en
 
-Building EPUB
+Building EPUB (English)
 ----------------------------
 
 ::
 
     make clean
     git restore _static
-    make epub BOOK_LANGUAGE=ru
+    make epub BOOK_LANGUAGE=en
 
     epubcheck _build/epub/sphinx.epub
     sigil _build/epub/sphinx.epub
 
 
-Building HTML
+Building HTML (English)
 ----------------------------
 
 ::
 
     make clean
     git restore _static
-    make html BOOK_LANGUAGE=ru
+    make html BOOK_LANGUAGE=en
 
 
+Building Russian book
+----------------------------
+
+Change language by using::
+
+    BOOK_LANGUAGE=ru
+
+in command.
 
 Reading Epub3 with diacritic
 ================================
