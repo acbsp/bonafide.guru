@@ -2,17 +2,21 @@
  Bona Fide Guru
 ===============
 
-This project is a tool that makes it easy to create "Bona Fide Guru" book with diacritics signs in following output formats:
+This project is a tool that makes it easy to create "Bona Fide Guru" book with diacritic signs in following output formats:
 
 * PDF 
 * HTML
 * Epub
 
-in Russian and English using free software.
+in Russian and English using free software and fonts.
 
 It uses `Sphinx`__ engine (4.4.0), TeX Live for creating PDF. 'reStructuredText' format is used as its markup language.
 
 .. __: http://www.sphinx-doc.org/
+
+"`CharisSIL`__" family of fonts is used for printing to web and mobile. It supports advanced OpenType features useful for multilingual texts, including careful diacritic positioning.
+
+.. __: https://software.sil.org/charis/
 
 
 Installation (Ubuntu distribution)
