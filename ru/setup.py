@@ -13,3 +13,4 @@ if "install" in sys.argv:
 setup()
 
 
+/home/docs/checkouts/readthedocs.org/user_builds/bona-fide-guru/envs/html/bin/python -m sphinx -T -E -b html -d _build/doctrees -D language=ru . _build/html
