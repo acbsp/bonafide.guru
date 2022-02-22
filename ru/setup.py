@@ -9,9 +9,11 @@ from setuptools import setup
 if "install" in sys.argv:
 
     print('okalash SETUP ======================================')
-    #os.system('ls -la ru/*')
     print('okalash SETUP {}'.format(os.path.abspath('.')))
-    #os.system('ls -la *')
+    os.system('cp -a _static ru/')
+    os.system('cp -a fonts ru/')
+    os.system('cp -a images ru/')
+    os.system('ls -la ru/*')
     print('okalash SETUP ======================================')
 
     os.system('rm -rf en')
@@ -26,3 +28,5 @@ setup()
 
 
 #/home/docs/checkouts/readthedocs.org/user_builds/bona-fide-guru/envs/html/bin/python -m sphinx -T -E -b html -d _build/doctrees -D language=ru . _build/html
+
+#/home/docs/checkouts/readthedocs.org/user_builds/bona-fide-guru/checkouts/html/ru
