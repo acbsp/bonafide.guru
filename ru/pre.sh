@@ -8,7 +8,7 @@ echo "Processing PRE TARGET=$TARGET LANGUAGE=$LANGUAGE"
 FILE_CONT=$LANGUAGE/contents.rst
 SANSKRIT_LIST=$LANGUAGE/sed_RESULT.txt
 
-if [ $TARGET == 'latexpdf' ] || [ $TARGET == 'html' ] ||[ $TARGET == 'epub' ]; then
+if [ $TARGET == 'latexpdf' ] || [ $TARGET == 'latex' ]  || [ $TARGET == 'html' ] || [ $TARGET == 'epub' ]; then
 
     sed -i -f $LANGUAGE/PreprocessorPatterns.sed ${FILE_CONT}
 
