@@ -14,11 +14,17 @@ sys.path.insert(0, os.path.abspath('.'))
 #sys.path.insert(0, os.path.abspath('../fonts'))
 #sys.path.insert(0, os.path.abspath('../images'))
 
-print('okalash CONF ======================================')
-os.system('ls -la ru/*')
-print('okalash CONF {}'.format(os.path.abspath('.')))
-os.system('ls -la *')
-print('okalash CONF ======================================')
+#if not 'READTHEDOCS' in os.environ:
+
+on_rtd = os.environ.get('READTHEDOCS') == 'True'
+if on_rtd:
+    print('okalash CONF ======================================')
+    os.system('ls -la ru/*')
+    print('okalash CONF {}'.format(os.path.abspath('.')))
+    os.system('ls -la *')
+    print('okalash CONF ======================================')
+else:
+    html_theme = 'default'
 
 
 # -- Project information -----------------------------------------------------
