@@ -1,26 +1,34 @@
 /* use Charis SIL - Regular in .woff2 format */
 @font-face {
   font-family: CharisSILW;
-  src: url(CharisSIL-Regular.woff2);
+  font-style: normal;
+  font-weight: normal;	
+  src: url(CharisSIL-Regular.woff2) format('woff2'),
+       url(CharisSIL-Regular.woff) format('woff');
 }
 /* use Charis SIL - Italic in .woff2 format */
 @font-face {
   font-family: CharisSILW;
   font-style: italic;
-  src: url(CharisSIL-Italic.woff2);
+  font-weight: normal;	
+  src: url(CharisSIL-Italic.woff2) format('woff2'),
+       url(CharisSIL-Italic.woff) format('woff');
 }
 /* use Charis SIL - Bold in .woff2 format */
 @font-face {
-	font-family: CharisSILW;
-	font-weight: bold;
-	src: url(CharisSIL-Bold.woff2);
+  font-family: CharisSILW;
+  font-style: normal;
+  font-weight: bold;
+  src: url(CharisSIL-Bold.woff2) format('woff2'),
+       url(CharisSIL-Bold.woff) format('woff');
 }
 /* use Charis SIL - Bold Italic in .woff2 format */
 @font-face {
-	font-family: CharisSILW;
-	font-weight: bold;
-	font-style: italic;
-	src: url(CharisSIL-BoldItalic.woff2);
+  font-family: CharisSILW;
+  font-weight: bold;
+  font-style: italic;
+  src: url(CharisSIL-BoldItalic.woff2) format('woff2'),
+       url(CharisSIL-BoldItalic.woff) format('woff');
 }
 
 /* set body to use Charis SIL */
