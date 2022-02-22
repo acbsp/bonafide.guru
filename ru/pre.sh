@@ -45,6 +45,8 @@ s/^\( *\).*/\1.. index:: маха̄-бха̄гавата-ш́решт̣хо бр
 
     # Fix path to fonts in configuration file:
     sed -i 's|^\([ ]*\)Path = \./fonts/\(.*\)$|\1Path = '"${PWD}"'/fonts/\2|g' ./conf.py
+
+    chmod 444 _extra/_static/css/fonts/*
 fi
 
 
