@@ -18,11 +18,11 @@ sys.path.insert(0, os.path.abspath('.'))
 
 #on_rtd = os.environ.get('READTHEDOCS') == 'True'
 #if on_rtd:
-#    print('okalash CONF ======================================')
+#    print('acd CONF ======================================')
 #    # we are in 'ru' currently)
-#    print('okalash CONF {}'.format(os.path.abspath('.')))
+#    print('acd CONF {}'.format(os.path.abspath('.')))
 #    os.system('ls -la *')
-#    print('okalash CONF ======================================')
+#    print('acd CONF ======================================')
 #else:
 #    html_theme = 'default'
 

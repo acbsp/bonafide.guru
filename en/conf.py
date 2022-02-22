@@ -10,6 +10,21 @@ import os
 import sys
 import sphinx_rtd_theme
 sys.path.insert(0, os.path.abspath('.'))
+#sys.path.insert(0, os.path.abspath('../_static'))
+#sys.path.insert(0, os.path.abspath('../fonts'))
+#sys.path.insert(0, os.path.abspath('../images'))
+
+#if not 'READTHEDOCS' in os.environ:
+
+#on_rtd = os.environ.get('READTHEDOCS') == 'True'
+#if on_rtd:
+#    print('acd CONF ======================================')
+#    # we are in 'en' currently)
+#    print('acd CONF {}'.format(os.path.abspath('.')))
+#    os.system('ls -la *')
+#    print('acd CONF ======================================')
+#else:
+#    html_theme = 'default'
 
 
 # -- Project information -----------------------------------------------------
@@ -29,7 +44,7 @@ smartquotes = True
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx_rtd_theme', 'sphinxcontrib.programoutput']
+extensions = ['sphinx_rtd_theme'] #, 'sphinxcontrib.programoutput']
 # Now you’ve two new directives:
 #  .. program-output:: python -V
 #  .. command-output:: python -V
@@ -44,7 +59,7 @@ extensions = ['sphinx_rtd_theme', 'sphinxcontrib.programoutput']
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = 'ru'
+language = 'en'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -321,6 +336,11 @@ html_theme_options = {
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# Add any extra paths that contain custom files (such as robots.txt or
+# .htaccess) here, relative to this directory. These files are copied
+# directly to the root of the documentation.
+html_extra_path = ['_extra']
 
 #html_js_files = [ 'js/custom.js', ]
 html_css_files = [ 'html.css', ]   # this one is additional CSS
