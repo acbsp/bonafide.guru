@@ -10,6 +10,9 @@ import os
 import sys
 import sphinx_rtd_theme
 sys.path.insert(0, os.path.abspath('.'))
+#sys.path.insert(0, os.path.abspath('../_static'))
+#sys.path.insert(0, os.path.abspath('../fonts'))
+#sys.path.insert(0, os.path.abspath('../images'))
 
 print('okalash CONF ======================================')
 os.system('ls -la ru/*')
@@ -327,6 +330,11 @@ html_theme_options = {
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# Add any extra paths that contain custom files (such as robots.txt or
+# .htaccess) here, relative to this directory. These files are copied
+# directly to the root of the documentation.
+html_extra_path = ['_extra']
 
 #html_js_files = [ 'js/custom.js', ]
 html_css_files = [ 'html.css', ]   # this one is additional CSS
