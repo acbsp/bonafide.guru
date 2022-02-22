@@ -11,6 +11,12 @@ import sys
 import sphinx_rtd_theme
 sys.path.insert(0, os.path.abspath('.'))
 
+print('okalash CONF ======================================')
+os.system('ls -la ru/*')
+print('okalash CONF {}'.format(os.path.abspath('.')))
+os.system('ls -la *')
+print('okalash CONF ======================================')
+
 
 # -- Project information -----------------------------------------------------
 

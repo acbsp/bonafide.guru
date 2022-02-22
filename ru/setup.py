@@ -7,11 +7,20 @@ import sys
 from setuptools import setup
 
 if "install" in sys.argv:
+
+    print('okalash SETUP ======================================')
+    os.system('ls -la ru/*')
+    print('okalash SETUP {}'.format(os.path.abspath('.')))
+    os.system('ls -la *')
+    print('okalash SETUP ======================================')
+
     os.system('rm -rf en')
     #os.system('mv ru/* .')
+    print('okalash 0 {}'.format(os.path.abspath('.')))
     os.system('bash ru/pre.sh')
-    print(os.path.abspath('.'))
-    print('okalash {}'.format(os.path.abspath('.')))
+    print('okalash 1 {}'.format(os.path.abspath('.')))
+    os.system('bash pre.sh')
+    print('okalash 2 {}'.format(os.path.abspath('.')))
 
 setup()
 

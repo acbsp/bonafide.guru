@@ -17,7 +17,7 @@ build:
     # golang: "1.17"
 
   apt_packages:
-    - cmake
+    - make
     - bash
     - sed
 
