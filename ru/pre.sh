@@ -5,15 +5,15 @@ TARGET=$1
 LANGUAGE=$2
 echo "Processing PRE TARGET=$TARGET LANGUAGE=$LANGUAGE"
 
-FILE_CONT=contents.rst
+FILE_CONT=$LANGUAGE/contents.rst
 SANSKRIT_LIST=$LANGUAGE/sed_RESULT.txt
 
 if [ $TARGET == 'latexpdf' ] || [ $TARGET == 'html' ] ||[ $TARGET == 'epub' ]; then
 
-    for F in conf.py contents.rst genindex.rst glossary.rst index.rst style.tex.txt
-    do
-        cp $LANGUAGE/$F .
-    done
+    #for F in conf.py contents.rst genindex.rst glossary.rst index.rst style.tex.txt
+    #do
+    #    cp $LANGUAGE/$F .
+    #done
 
     sed -i -f $LANGUAGE/PreprocessorPatterns.sed ${FILE_CONT}
 

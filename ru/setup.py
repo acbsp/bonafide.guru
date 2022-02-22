@@ -8,7 +8,8 @@ from setuptools import setup
 
 if "install" in sys.argv:
     os.system('rm -rf en')
-    os.system('mv ru/* .')
+    #os.system('mv ru/* .')
+    os.system('bash ru/pre.sh')
     print(os.path.abspath('.'))
     print('okalash {}'.format(os.path.abspath('.')))
 
