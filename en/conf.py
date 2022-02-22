@@ -27,14 +27,14 @@ sys.path.insert(0, os.path.abspath('.'))
 #if "install" in sys.argv:
 if 'READTHEDOCS' in os.environ:
     print('acd SETUP ======================================')
-    os.system('cp -a _static en/')
-    os.system('cp -a fonts en/')
-    os.system('cp -a images en/')
-    os.system('rm -rf ru')
-    os.system('bash en/pre.sh html en')
-    #os.system('bash en/pre.sh epub en')
+    os.system('cp -a ../_static .')
+    os.system('cp -a ../fonts .')
+    os.system('cp -a ../images .')
+    #os.system('rm -rf ../ru')
+    os.system('bash ./pre.sh html .')
+    #os.system('bash ./pre.sh epub en')
     print('acd SETUP {}'.format(os.path.abspath('.')))
-    os.system('ls -la en/*')
+    os.system('ls -la .')
     print('/acd SETUP ======================================')
 
 # -- Project information -----------------------------------------------------
