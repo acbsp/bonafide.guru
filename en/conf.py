@@ -14,8 +14,6 @@ sys.path.insert(0, os.path.abspath('.'))
 #sys.path.insert(0, os.path.abspath('../fonts'))
 #sys.path.insert(0, os.path.abspath('../images'))
 
-#if not 'READTHEDOCS' in os.environ:
-
 #on_rtd = os.environ.get('READTHEDOCS') == 'True'
 #if on_rtd:
 #    print('acd CONF ======================================')
@@ -26,6 +24,18 @@ sys.path.insert(0, os.path.abspath('.'))
 #else:
 #    html_theme = 'default'
 
+#if "install" in sys.argv:
+if 'READTHEDOCS' in os.environ:
+    print('acd SETUP ======================================')
+    os.system('cp -a _static en/')
+    os.system('cp -a fonts en/')
+    os.system('cp -a images en/')
+    os.system('rm -rf ru')
+    os.system('bash en/pre.sh html en')
+    #os.system('bash en/pre.sh epub en')
+    print('acd SETUP {}'.format(os.path.abspath('.')))
+    os.system('ls -la en/*')
+    print('/acd SETUP ======================================')
 
 # -- Project information -----------------------------------------------------
 
