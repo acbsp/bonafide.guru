@@ -19,7 +19,7 @@ sys.path.insert(0, os.path.abspath('.'))
 on_rtd = os.environ.get('READTHEDOCS') == 'True'
 if on_rtd:
     print('okalash CONF ======================================')
-    os.system('ls -la ru/*')
+    # we are in 'ru' currently)
     print('okalash CONF {}'.format(os.path.abspath('.')))
     os.system('ls -la *')
     print('okalash CONF ======================================')
