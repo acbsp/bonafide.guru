@@ -48,8 +48,7 @@ Building PDF (English)
 
 ::
 
-    make clean
-    git restore _static
+    make clean BOOK_LANGUAGE=en
     make latexpdf BOOK_LANGUAGE=en
 
 Building EPUB (English)
@@ -57,8 +56,7 @@ Building EPUB (English)
 
 ::
 
-    make clean
-    git restore _static
+    make clean BOOK_LANGUAGE=en
     make epub BOOK_LANGUAGE=en
 
     epubcheck _build/epub/sphinx.epub
@@ -70,8 +68,7 @@ Building HTML (English)
 
 ::
 
-    make clean
-    git restore _static
+    make clean BOOK_LANGUAGE=en
     make html BOOK_LANGUAGE=en
 
 

@@ -25,9 +25,20 @@ help:
 
 # clean target
 clean:
+ifeq ($(BOOK_LANGUAGE),ru)
+	@echo 'Russian'
+	$(eval SOURCEDIR=ru)
+else ifeq ($(BOOK_LANGUAGE),en)
+	@echo 'English'
+	$(eval SOURCEDIR=en)
+else
+	$(error Wrong BOOK_LANGUAGE.)
+endif
 	@echo "DEBUG CLEAN ==========================================================================="
-	@rm -f conf.py contents.rst genindex.rst glossary.rst index.rst style.tex.txt
-	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+	@rm -rf  $(BOOK_LANGUAGE)/_build $(BOOK_LANGUAGE)/_static $(BOOK_LANGUAGE)/fonts $(BOOK_LANGUAGE)/images $(BOOK_LANGUAGE)/_extra
+	@sh git restore $(BOOK_LANGUAGE)/contents.rst $(BOOK_LANGUAGE)/conf.py
+	#@rm -f conf.py contents.rst genindex.rst glossary.rst index.rst style.tex.txt
+	#@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).

@@ -8,7 +8,7 @@ echo "Processing PRE TARGET=$TARGET LANGUAGE=$LANGUAGE"
 FILE_CONT=$LANGUAGE/contents.rst
 SANSKRIT_LIST=$LANGUAGE/sed_RESULT.txt
 
-if [ $TARGET == 'latexpdf' ] || [ $TARGET == 'latex' ]  || [ $TARGET == 'html' ] || [ $TARGET == 'epub' ]; then
+if [ $TARGET = 'latexpdf' ] || [ $TARGET = 'latex' ]  || [ $TARGET = 'html' ] || [ $TARGET = 'epub' ]; then
 
     sed -i -f $LANGUAGE/PreprocessorPatterns.sed ${FILE_CONT}
 
@@ -43,7 +43,7 @@ s/^\( *\).*/\1.. index:: маха̄-бха̄гавата-ш́решт̣хо бр
 fi
 
 
-if [ $TARGET == 'html' ]; then
+if [ $TARGET = 'html' ]; then
     FROMDIR=$LANGUAGE/_static
     TODIR=$LANGUAGE/_extra/_static/css/fonts
 
@@ -69,7 +69,7 @@ if [ $TARGET == 'html' ]; then
 fi
 
 
-if [ $TARGET == 'epub' ]; then
+if [ $TARGET = 'epub' ]; then
     echo "  Processing: EPUB"
     DIR=$LANGUAGE/_static
 
