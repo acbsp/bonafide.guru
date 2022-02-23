@@ -34,12 +34,15 @@ clean:
 %: Makefile
 ifeq ($(BOOK_LANGUAGE),ru)
 	@echo 'Russian'
+	$(eval SOURCEDIR=ru)
 else ifeq ($(BOOK_LANGUAGE),en)
 	@echo 'English'
+	$(eval SOURCEDIR=en)
 else
 	$(error Wrong BOOK_LANGUAGE.)
 endif
 	@echo "DEBUG  ==========================================================================="
+	@sh cp -a ./_static ./fonts ./images $(BOOK_LANGUAGE)
 	@sh $(BOOK_LANGUAGE)/pre.sh $@ $(BOOK_LANGUAGE)
 	@echo "DEBUG BOOK_LANGUAGE = $(BOOK_LANGUAGE)"
 	@echo "DEBUG COMMAND=@$(SPHINXBUILD) -M $@ $(SOURCEDIR) $(BUILDDIR) $(SPHINXOPTS) $(O)"
