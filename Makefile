@@ -42,7 +42,7 @@ else
 	$(error Wrong BOOK_LANGUAGE.)
 endif
 	@echo "DEBUG  ==========================================================================="
-	@sh cp -a ./_static ./fonts ./images $(BOOK_LANGUAGE)
+	@cp -a ./_static ./fonts ./images $(BOOK_LANGUAGE)
 	@sh $(BOOK_LANGUAGE)/pre.sh $@ $(BOOK_LANGUAGE)
 	@echo "DEBUG BOOK_LANGUAGE = $(BOOK_LANGUAGE)"
 	@echo "DEBUG COMMAND=@$(SPHINXBUILD) -M $@ $(SOURCEDIR) $(BUILDDIR) $(SPHINXOPTS) $(O)"
