@@ -20,7 +20,7 @@
 .. raw:: latex
 
    % Change fontfamily to Sans for this page
-   \sffamily
+   %\sffamily
 
  
 **ОБРАЩЕНИЕ**
@@ -103,7 +103,7 @@
    \endgroup
 
    % Change fontfamily back to Roman
-   \rmfamily
+   %\rmfamily
 
    \decorCenterRuler
    \newpage

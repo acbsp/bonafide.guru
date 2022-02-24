@@ -152,8 +152,8 @@ latex_elements = {
    FontFace={b}{it}{Font=*BoldOblique},
   ]
 
- \setmainfont{Andika}[
-   Path = ./fonts/Andika-6.001/,
+  \setmainfont{GentiumBookPlus}[
+   Path = ./fonts/GentiumPlus-6.101/,
    Extension = .ttf,
    UprightFont = *-Regular,
    %-- Upright --%
@@ -164,25 +164,13 @@ latex_elements = {
    FontFace={b}{it}{Font=*-BoldItalic},
   ]
 
-  \setmainfont{CharisSIL}[
-   Path = ./fonts/CharisSIL-6.101/,
-   Extension = .ttf,
-   UprightFont = *-Regular,
-   %-- Upright --%
-   FontFace={m}{n}{Font=*-Regular},
-   FontFace={b}{n}{Font=*-Bold},
-   % %-- Italic --%
-   FontFace={m}{it}{Font=*-Italic},
-   FontFace={b}{it}{Font=*-BoldItalic},
-  ]
-
-  \setromanfont{CharisSIL}
-  \setsansfont{Andika}
+  \setromanfont{GentiumBookPlus}
+  %\setsansfont{Andika}
   \setmonofont{FreeMono}
 
-  \newfontfamily{\cyrillicfont}{CharisSIL}
-  \newfontfamily{\cyrillicfontrm}{CharisSIL}
-  \newfontfamily{\cyrillicfontsf}{Andika}
+  \newfontfamily{\cyrillicfont}{GentiumBookPlus}
+  \newfontfamily{\cyrillicfontrm}{GentiumBookPlus}
+  %\newfontfamily{\cyrillicfontsf}{Andika}
   \newfontfamily{\cyrillicfonttt}{FreeMono}
 
   \newfontface\tnrfam{Times New Roman}

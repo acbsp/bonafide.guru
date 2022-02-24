@@ -35,7 +35,7 @@ else
 	$(error Wrong BOOK_LANGUAGE.)
 endif
 	@echo "DEBUG CLEAN ==========================================================================="
-	@rm -rf  $(BOOK_LANGUAGE)/_build $(BOOK_LANGUAGE)/_static $(BOOK_LANGUAGE)/fonts $(BOOK_LANGUAGE)/images $(BOOK_LANGUAGE)/_extra
+	@rm -rf  _build $(BOOK_LANGUAGE)/_static $(BOOK_LANGUAGE)/fonts $(BOOK_LANGUAGE)/images $(BOOK_LANGUAGE)/_extra
 	@/usr/bin/git restore $(BOOK_LANGUAGE)/contents.rst $(BOOK_LANGUAGE)/conf.py
 #@rm -f conf.py contents.rst genindex.rst glossary.rst index.rst style.tex.txt
 #@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
