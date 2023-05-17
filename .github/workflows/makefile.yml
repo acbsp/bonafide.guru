@@ -77,10 +77,10 @@ jobs:
         run: /bin/sh ./configure
       
       - name: Prepare for building
-        run: make clean
+        run: make clean BOOK_LANGUAGE=ru
 
       - name: Build PDF 
-        run: make latexpdf
+        run: make latexpdf BOOK_LANGUAGE=ru
 
       - name: Upload artifact
         uses: actions/upload-artifact@v3
