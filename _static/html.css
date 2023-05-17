@@ -1,0 +1,21 @@
+/*
+@import url("css/theme.css");
+
+H6 { width:100%; text-align:center; border-bottom: 1px solid #2980B9; line-height:0.1em; margin:10px 0 20px; } 
+H6 span { background:#2980B9; color:#fff; padding:0 10px; }
+USING: 
+<h6><span>|ШПа| ки Джая!</span></h6>
+*/
+
+hr.acdclass {
+    border: 0;
+    height: 1px;
+    background: #2980B9;
+    background-image: linear-gradient(to right, #fff, #2980B9, #fff);
+}
+
+/* Move 'attribution' right */
+blockquote p.attribution, div p.attribution {
+  text-align: right;
+  margin-left: 20%;
+}

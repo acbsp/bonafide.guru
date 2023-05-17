@@ -1,0 +1,227 @@
+/* -- font-face ------------------------------------------------------------- */
+
+div.body p {
+  text-indent: 0;
+}
+
+blockquote {
+  padding-left: 0.5em;
+  border-left: 3px solid #e6e6e6;
+}
+
+dl.field-list dt, dl.simple dt {
+  font-weight: bold;
+}
+
+dl.field-list.simple {
+    display: grid;
+    grid-template-columns: max-content auto;
+}
+
+/*
+dl.field-list.simple p, {
+    margin-bottom: 12px;
+
+    line-height: 24px;
+    font-size: 16px;
+    margin: 0 0 24px;
+
+    box-sizing: border-box;
+}
+
+dl.field-list>dt, {
+    margin-bottom: 0;
+}
+
+dl.field-list.simple dd {
+    margin: 0 0 12px 24px;
+    line-height: 24px;
+
+    box-sizing: border-box;
+}
+
+ <p class="attribution">—Ш́рӣмад-Бха̄гаватам 6.3.19</p>
+
+blockquote p.attribution, div.topic p.attribution {
+blockquote .attribution{
+}
+blockquote{
+  padding:1rem 1.5rem;
+  margin-bottom:2.5rem;
+  border-left:3px solid #e6e6e6;
+}
+
+/* use Charis SIL - Regular in .woff2 format */
+@font-face {
+  font-family: CharisSILW;
+  font-style: normal;
+  font-weight: normal;
+  src: url(CharisSIL-Regular.woff);
+}
+/* use Charis SIL - Italic in .woff2 format */
+@font-face {
+  font-family: CharisSILW;
+  font-style: italic;
+  font-weight: normal;
+  src: url(CharisSIL-Italic.woff);
+}
+/* use Charis SIL - Bold in .woff2 format */
+@font-face {
+  font-family: CharisSILW;
+  font-style: normal;
+  font-weight: bold;
+        src: url(CharisSIL-Bold.woff);
+}
+/* use Charis SIL - Bold Italic in .woff2 format */
+@font-face {
+  font-family: CharisSILW;
+  font-style: italic;
+  font-weight: bold;
+  src: url(CharisSIL-BoldItalic.woff);
+}
+
+ 
+/*
+@font-face {
+    font-family: "CharisSIL";
+    font-style: oblique, italic;
+    font-weight: normal;
+    src: url("CharisSIL-Italic.ttf") format("truetype");
+}
+@font-face {
+    font-family: "CharisSIL";
+    font-style: normal;
+    font-weight: bold;
+    src: url("CharisSIL-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "CharisSIL";
+    font-style: normal;
+    font-weight: normal;
+    src: url("CharisSIL-Regular.ttf") format("truetype");
+}
+*/
+
+
+/*
+@font-face {
+    font-family: "CharisSIL";
+    font-style: oblique, italic;
+    font-weight: normal;
+    src: url("CharisSIL-Literacy-I.ttf") format("truetype");
+}
+@font-face {
+    font-family: "CharisSIL";
+    font-style: normal;
+    font-weight: bold;
+    src: url("CharisSIL-Literacy-B.ttf") format("truetype");
+}
+@font-face {
+    font-family: CharisSIL;
+    font-style: oblique, italic;
+    font-weight: bold;
+    src: url("CharisSIL-Literacy-BI.ttf") format("truetype");
+}
+@font-face {
+    font-family: "CharisSIL";
+    font-style: normal;
+    font-weight: normal;
+    src: url("CharisSIL-Literacy-R.ttf") format("truetype");
+}
+*/
+
+/*
+@font-face {
+    font-family: CharisSIL;
+    font-style: oblique, italic;
+    font-weight: bold;
+    src: url("CharisSIL-BoldItalic.otf") format("opentype");
+}
+*/
+/*
+@font-face {
+    font-family: CharisSIL;
+    font-style: oblique, italic;
+    font-weight: normal;
+    src: url("CharisSIL-Italic.otf") format("opentype");
+}
+@font-face {
+    font-family: CharisSIL;
+    font-style: normal;
+    font-weight: bold;
+    src: url("CharisSIL-Bold.otf") format("opentype");
+}
+@font-face {
+    font-family: CharisSIL;
+    font-style: normal;
+    font-weight: normal;
+    src: url("CharisSIL-Regular.otf") format("opentype");
+}
+*/
+
+/* set body to use Charis SIL */
+body {
+  font-family: CharisSILW, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}
+/* remove bold styling from heading 
+h1 {
+  font-style: normal;
+  font-weight: normal;
+}
+*/
+
+/*
+@font-face {
+    font-family: "LiberationNarrow";
+    font-style: normal;
+    font-weight: normal;
+    src: url("res:///Data/fonts/LiberationNarrow-Regular.otf")
+        format("opentype");
+}
+@font-face {
+    font-family: "LiberationNarrow";
+    font-style: oblique, italic;
+    font-weight: normal;
+    src: url("res:///Data/fonts/LiberationNarrow-Italic.otf")
+        format("opentype");
+}
+@font-face {
+    font-family: "LiberationNarrow";
+    font-style: normal;
+    font-weight: bold;
+    src: url("res:///Data/fonts/LiberationNarrow-Bold.otf")
+        format("opentype");
+}
+@font-face {
+    font-family: "LiberationNarrow";
+    font-style: oblique, italic;
+    font-weight: bold;
+    src: url("res:///Data/fonts/LiberationNarrow-BoldItalic.otf")
+        format("opentype");
+}
+
+@font-face {
+    font-family: CharisSIL-R;
+    src: url("CharisSIL-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: CharisSIL-I;
+    src: url("CharisSIL-Italic.ttf") format("truetype");
+}
+@font-face {
+    font-family: CharisSIL-B;
+    src: url("CharisSIL-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: CharisSIL-BI;
+    src: url("CharisSIL-BoldItalic.ttf") format("truetype");
+}
+.charis-R { font-family: CharisSIL-R; }
+.charis-B { font-family: CharisSIL-B; }
+.charis-I { font-family: CharisSIL-I; }
+.charis-BI { font-family: CharisSIL-BI; }
+
+*/
