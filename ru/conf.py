@@ -38,11 +38,11 @@ if 'READTHEDOCS' in os.environ:
 # -- Project information -----------------------------------------------------
 
 project = 'Истинный Гуру'
-copyright = '2022, Abhay Charan das'
+copyright = '2023, Abhay Charan das'
 author = 'Ягьясена -- Прабхупа̄да дас'
 
 # The full version, including alpha/beta/rc tags
-release = '2022.02.19'
+release = '2023.05.18'
 
 show_authors = False
 smartquotes = True
@@ -140,45 +140,65 @@ latex_elements = {
 
   \usepackage{fontspec}
 
- \setmainfont{FreeMono}[
-   Path = /usr/share/fonts/truetype/freefont/,
-   Extension = .ttf,
-   UprightFont = *,
-   %-- Upright --%
-   FontFace={m}{n}{Font=*},
-   FontFace={b}{n}{Font=*Bold},
-   % %-- Italic --%
-   FontFace={m}{it}{Font=*Oblique},
-   FontFace={b}{it}{Font=*BoldOblique},
-  ]
-
-  \setmainfont{GentiumBookPlus}[
-   Path = ./fonts/GentiumPlus-6.101/,
-   Extension = .ttf,
-   UprightFont = *-Regular,
-   %-- Upright --%
-   FontFace={m}{n}{Font=*-Regular},
-   FontFace={b}{n}{Font=*-Bold},
-   % %-- Italic --%
-   FontFace={m}{it}{Font=*-Italic},
-   FontFace={b}{it}{Font=*-BoldItalic},
-  ]
-
-  \setromanfont{GentiumBookPlus}
-  %\setsansfont{Andika}
+  \defaultfontfeatures[FreeMono] {
+    Path = ./fonts/FreeMono/,
+    Extension = .ttf,
+    UprightFont=*,
+    BoldFont=*Bold,
+    ItalicFont=*Oblique,
+    BoldItalicFont=*BoldOblique
+    }
   \setmonofont{FreeMono}
-
-  \newfontfamily{\cyrillicfont}{GentiumBookPlus}
-  \newfontfamily{\cyrillicfontrm}{GentiumBookPlus}
-  %\newfontfamily{\cyrillicfontsf}{Andika}
   \newfontfamily{\cyrillicfonttt}{FreeMono}
 
-  \newfontface\tnrfam{Times New Roman}
-  \newfontface\tnrItalicfam{Times New Roman Italic}
-  \newfontface\tnrBoldfam{Times New Roman Bold}
-  \newfontface\tnrBIfam{Times New Roman Bold Italic}
+  %\defaultfontfeatures[GentiumBookPlus] {
+  % Path = ./fonts/GentiumPlus-6.200/,
+  \defaultfontfeatures[GentiumBookPlus] {
+   Path = ./fonts/GentiumPlus/,
+   Extension = .ttf,
+   UprightFont=*-Regular,
+   BoldFont=*-Bold,
+   ItalicFont=*-Italic,
+   BoldItalicFont=*-BoldItalic
+  }
+  \setmainfont{GentiumBookPlus}
+  \setromanfont{GentiumBookPlus}
+  \newfontfamily{\cyrillicfont}{GentiumBookPlus}
+  \newfontfamily{\cyrillicfontrm}{GentiumBookPlus}
+
+  %  Path = ./fonts/Andika-6.200/,
+  \defaultfontfeatures[Andika] {
+    Path = ./fonts/Andika/,
+    Extension = .ttf,
+    UprightFont=*-Regular,
+    BoldFont=*-Bold,
+    ItalicFont=*-Italic,
+    BoldItalicFont=*-BoldItalic
+    }
+  \setsansfont{Andika}
+  \newfontfamily{\cyrillicfontsf}{Andika}
+
+  \defaultfontfeatures[Times_New_Roman] {
+    Path = ./fonts/msTNR/,
+    Extension = .ttf,
+    UprightFont=*,
+    BoldFont=*_Bold,
+    ItalicFont=*_Italic,
+    BoldItalicFont=*_Bold_Italic
+    }
+
+  %\newfontface\tnrfam[Scale=MatchUppercase]{FreeSerifBold}
+  \newfontfamily\tnrfam{Times_New_Roman}
+
+  %\newfontfamily\tnrfam{Times New Roman}
+  %\newfontfamily\tnrBoldfam{Times New Roman Bold}%
+  %\newfontface\tnrfam{Times New Roman}
+  %\newfontface\tnrBoldfam{Times New Roman Bold}
+
+  %\newfontface\tnrItalicfam{Times New Roman Italic}
+  %\newfontface\tnrBIfam{Times New Roman Bold Italic}
   \newcommand*\BonafideGuru{%
-    {\tnrBoldfam Истинный Гуру}%
+    \textbf{\tnrfam Истинный Гуру}%
   }%
   \newcommand*\BonafideGuruN{%
     {\tnrfam Истинный Гуру}%

@@ -1,0 +1,95 @@
+name: Build PDF version of book
+
+on:
+  #push:
+  #  branches: [ "main" ]
+  #pull_request:
+  #  branches: [ "main" ]
+  workflow_dispatch:
+    inputs:
+      scenario:
+        description: 'Point the scenario.'
+        required: true
+        default: 'base.json'
+        type: choice
+        options: ['base.json', 'short.json']
+      arch:
+        description: 'Select Architecture.'
+        required: true
+        default: '64_64'
+        type: choice
+        options: ['64_64', '64_32']
+      gris_branch:
+        description: 'Use the branch.'
+        required: true
+        default: 'DEV'
+        type: choice
+        options: ['DEV', 'MAIN5', 'MAIN4']
+      review:
+        description: 'Review ID.'
+        required: false
+
+jobs:
+  #presetup:
+  #  runs-on: ubuntu-latest
+  #  steps:
+  #    - name: Display the path
+  #      run: echo $PATH
+  #      shell: bash
+        
+  #setup:
+  #  name: Setup parameters
+  #  needs: presetup
+    
+  #  uses: ./.github/workflows/reusable_setup_params.yml
+  #  with:
+  #    scenario: ${{ github.event.inputs.scenario }}
+      #gris_branch: ${{ github.event.inputs.gris_branch }}
+      #arch: ${{ github.event.inputs.arch }}
+  #    review: ${{ github.event.inputs.review }}
+      
+  #  swarm_params ???
+      
+  build:
+    name: Run Sphinx
+    #needs: setup
+    
+    runs-on: ubuntu-latest
+    #runs-on: code-default
+
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "${{ github.event }} = github.event."
+      - run: echo "github.event.inputs = ${{ github.event.inputs }}"
+      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      
+      - name: Check out repository code
+        uses: actions/checkout@v3
+        with:
+          # The branch, tag or SHA to checkout.
+          ref: 'DEV'
+        
+      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
+      - run: echo "🖥️ The workflow is now ready to test your code on the runner."
+      - name: List files in the repository
+        run: |
+          ls ${{ github.workspace }}
+      - run: echo "🍏 This job's status is ${{ job.status }}."
+
+      - name: Update Apt
+        run: sudo apt-get update 
+
+      - name: configure
+        run: /bin/bash ./configure "pdf"
+      
+      - name: Prepare for building
+        run: make clean BOOK_LANGUAGE=ru
+
+      - name: Build PDF 
+        run: make latexpdf BOOK_LANGUAGE=ru
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: book-pdf
+          path: _build/latex/bonafide.guru.pdf

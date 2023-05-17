@@ -1,0 +1,49 @@
+name: Build EPUB version of book
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Run Sphinx
+    
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+        with:
+          # The branch, tag or SHA to checkout.
+          ref: 'DEV'
+
+      - name: Update Apt
+        run: sudo apt-get update 
+
+      - name: Install epubcheck validator
+        # NOTE: Need to get 75 MB of archives.
+        #       After this operation, 215 MB of additional disk space will be used.
+        run: sudo apt-get install --yes --no-install-recommends epubcheck
+        
+      - name: configure
+        # NOTE: Need to get 147 MB of archives.
+        #       After this operation, 450 MB of additional disk space will be used.
+        run: /bin/bash ./configure "epub"
+      
+      - name: Prepare for building
+        run: make clean BOOK_LANGUAGE=ru
+
+      - name: Build EPUB 
+        run: make epub BOOK_LANGUAGE=ru
+
+      - name: Rename file
+        run: mv _build/epub/sphinx.epub _build/epub/bonafide.guru.epub
+
+      - name: Run epubcheck validator
+        run: epubcheck _build/epub/bonafide.guru.epub
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: book-epub
+          path: _build/epub/bonafide.guru.epub
+

@@ -1,0 +1,22 @@
+#!/bin/bash
+
+BOOK_TYPE = "pdf"
+if [ -n "$1" ]; then
+  BOOK_TYPE = "$1"
+fi
+
+echo " BOOK_TYPE = $BOOK_TYPE"
+echo " env: ========================================================================================="
+env
+echo "========================================================================================="
+#sudo apt install python3-venv
+sudo apt-get install --yes --no-install-recommends texlive-xetex texlive-latex-recommended texlive-latex-extra latexmk xindy texlive-fonts-recommended tex-gyre fonts-texgyre texlive-lang-cyrillic
+
+if [ $BOOK_TYPE == "pdf" ]; then
+sudo apt-get install --yes --no-install-recommends texlive-fonts-extra
+fi
+
+echo "========================================================================================="
+pip3 install -U sphinx
+pip3 install sphinx-rtd-theme
+echo "========================================================================================="
