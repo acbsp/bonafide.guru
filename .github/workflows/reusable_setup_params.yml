@@ -1,0 +1,68 @@
+# Reusable setup parameters
+
+on:
+  workflow_call:
+    inputs:
+      scenario:
+        description: 'Test scenario.'
+        required: false
+        type: string
+      platform:
+        description: 'Platform (JSON string).'
+        required: false
+        type: string
+      review:
+        description: 'Swarm review ID.'
+        required: false
+        type: string
+      pass_url:
+        description: 'Swarm tests pass callback URL.'
+        required: false
+        type: string
+      fail_url:
+        description: 'Swarm tests fail callback URL.'
+        required: false
+        type: string
+
+    outputs:
+      gris_params:
+        value: ${{ jobs.setup.outputs.gris_params }}
+      swarm_params:
+        value: ${{ jobs.setup.outputs.swarm_params }}
+
+env:
+  SCENARIO: "${{ inputs.scenario }}"
+  PLATFORM: "${{ inputs.platform }}"
+  REVIEW: "${{ inputs.review }}"
+  PASS_URL: "${{ inputs.pass_url }}"
+  FAIL_URL: "${{ inputs.fail_url }}"
+
+jobs:
+  setup:
+    name: setup parameters - runs-on code-hosted or code-default ?
+    runs-on: code-default
+    outputs:
+      #gris_params: ${{ steps.opts.outputs.gris_params }}
+      #swarm_params:  ${{ steps.opts.outputs.swarm_params }}
+      gris_params: "Test output 1"
+      swarm_params: 'Test output 2'
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "${{ github.event }} = github.event."
+      - name: Display the path
+        run: echo $PATH
+        shell: bash
+      #- name: Checkout
+      #  uses: code-actions/checkout@v3
+
+      #- name: Install dependencies
+      #  uses: ./.github/actions/install_dependencies
+
+      #- name: Setup parameters
+      #  id: opts
+      #  run: ./scripts/setup_parameters.py
+      #    --scenario "${SCENARIO}"
+      #    --platform "${PLATFORM}"
+      #    --review "${REVIEW}"
+      #    --pass-url "${PASS_URL}"
+      #    --fail-url "${FAIL_URL}"

@@ -37,6 +37,7 @@ endif
 	@echo "DEBUG CLEAN ==========================================================================="
 	@rm -rf  _build $(BOOK_LANGUAGE)/_static $(BOOK_LANGUAGE)/fonts $(BOOK_LANGUAGE)/images $(BOOK_LANGUAGE)/_extra
 	@/usr/bin/git restore $(BOOK_LANGUAGE)/contents.rst $(BOOK_LANGUAGE)/conf.py
+	@/usr/bin/git restore $(BOOK_LANGUAGE)/genindex.rst $(BOOK_LANGUAGE)/glossary.rst $(BOOK_LANGUAGE)/index.rst
 #@rm -f conf.py contents.rst genindex.rst glossary.rst index.rst style.tex.txt
 #@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 

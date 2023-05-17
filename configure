@@ -1,0 +1,16 @@
+#!/bin/sh
+
+echo "This script is run from $(id -u) user."
+echo "$0 $@"
+env
+echo "========================================================================================="
+sudo apt install python3-venv
+#sudo apt install texlive-latex-recommended texlive-fonts-recommended tex-gyre  fonts-texgyre texlive-latex-extra latexmk texlive-lang-cyrillic texlive-xetex fonts-freefont-otf fonts-freefont-ttf fonts-sil-andikanewbasic fonts-sil-charis fonts-paratype texlive-fonts-extra xindy
+sudo apt install texlive-xetex texlive-latex-recommended texlive-latex-extra latexmk xindy texlive-fonts-recommended tex-gyre fonts-texgyre texlive-lang-cyrillic texlive-fonts-extra
+echo "========================================================================================="
+#echo ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true | sudo debconf-set-selections
+#sudo apt-get install ttf-mscorefonts-installer
+echo "========================================================================================="
+pip3 install -U sphinx
+pip3 install sphinx-rtd-theme
+echo "========================================================================================="

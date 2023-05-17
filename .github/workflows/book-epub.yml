@@ -1,0 +1,42 @@
+name: EPUB version of book
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Run Sphinx
+    
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+        with:
+          # The branch, tag or SHA to checkout.
+          ref: 'DEV'
+        
+      - name: configure
+        run: /bin/sh ./configure
+
+      - name: Install epubcheck validator
+        run: sudo apt install epubcheck
+      
+      - name: Prepare for building
+        run: make clean BOOK_LANGUAGE=ru
+
+      - name: Build EPUB 
+        run: make epub BOOK_LANGUAGE=ru
+
+      - name: Rename file
+        run: mv _build/epub/sphinx.epub _build/epub/bonafide.guru.epub
+
+      - name: Run epubcheck validator
+        run: epubcheck _build/epub/bonafide.guru.epub
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: book-epub
+          path: _build/epub/bonafide.guru.epub
+
