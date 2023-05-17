@@ -13,7 +13,7 @@ if [ $TARGET = 'html' ]; then
     echo "  Processing: HTML"
 
     FILE=contents.html 
-    cd $LANGUAGE/_build/html
+    cd _build/html
 
     for STR in contents.html genindex.html glossary.html index.html search.html
     do
@@ -40,7 +40,7 @@ if [ $TARGET = 'epub' ]; then
     #       os.system('/home/acd/Book/bonafide.guru/en/post.sh epub en')
 
     FILE_X=contents.xhtml 
-    cd $LANGUAGE/_build/epub
+    cd _build/epub
 
     echo "    Processing file: $FILE_X"
     # <p class="attribution">—Нектар преданности, Введение</p>
