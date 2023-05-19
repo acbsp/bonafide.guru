@@ -1,8 +1,8 @@
 #!/bin/bash
 
-BOOK_TYPE = "pdf"
+BOOK_TYPE="pdf"
 if [ -n "$1" ]; then
-  BOOK_TYPE = "$1"
+  BOOK_TYPE="$1"
 fi
 
 echo " BOOK_TYPE = $BOOK_TYPE"
@@ -13,7 +13,9 @@ echo "==========================================================================
 sudo apt-get install --yes --no-install-recommends texlive-xetex texlive-latex-recommended texlive-latex-extra latexmk xindy texlive-fonts-recommended tex-gyre fonts-texgyre texlive-lang-cyrillic
 
 if [ $BOOK_TYPE == "pdf" ]; then
-sudo apt-get install --yes --no-install-recommends texlive-fonts-extra
+# NOTE: Need to get 484 MB of archives.
+#       After this operation, 1383 MB of additional disk space will be used.
+sudo apt-get install --yes --no-install-recommends fonts-freefont-ttf texlive-fonts-extra
 fi
 
 echo "========================================================================================="
