@@ -40,6 +40,8 @@ s/^\( *\).*/\1.. index:: маха̄-бха̄гавата-ш́решт̣хо бр
 
     # Fix path to fonts in configuration file for LaTeX:
     sed -i 's|^\([ ]*\)Path = \./fonts/\(.*\)$|\1Path = '"${PWD}/${LANGUAGE}"'/fonts/\2|g' $LANGUAGE/conf.py
+    echo "FONT DIRECTORY = ${PWD}/${LANGUAGE}/fonts :"
+    ls -la ${PWD}/${LANGUAGE}/fonts
 fi
 
 

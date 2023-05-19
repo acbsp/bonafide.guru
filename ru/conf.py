@@ -38,11 +38,11 @@ if 'READTHEDOCS' in os.environ:
 # -- Project information -----------------------------------------------------
 
 project = 'Истинный Гуру'
-copyright = '2022, Abhay Charan das'
+copyright = '2023, Abhay Charan das'
 author = 'Ягьясена -- Прабхупа̄да дас'
 
 # The full version, including alpha/beta/rc tags
-release = '2022.02.19'
+release = '2023.05.18'
 
 show_authors = False
 smartquotes = True
@@ -151,8 +151,10 @@ latex_elements = {
   \setmonofont{FreeMono}
   \newfontfamily{\cyrillicfonttt}{FreeMono}
 
+  %\defaultfontfeatures[GentiumBookPlus] {
+  % Path = ./fonts/GentiumPlus-6.200/,
   \defaultfontfeatures[GentiumBookPlus] {
-   Path = ./fonts/GentiumPlus-6.200/,
+   Path = ./fonts/GentiumPlus/,
    Extension = .ttf,
    UprightFont=*-Regular,
    BoldFont=*-Bold,
@@ -164,8 +166,9 @@ latex_elements = {
   \newfontfamily{\cyrillicfont}{GentiumBookPlus}
   \newfontfamily{\cyrillicfontrm}{GentiumBookPlus}
 
+  %  Path = ./fonts/Andika-6.200/,
   \defaultfontfeatures[Andika] {
-    Path = ./fonts/Andika-6.200/,
+    Path = ./fonts/Andika/,
     Extension = .ttf,
     UprightFont=*-Regular,
     BoldFont=*-Bold,
